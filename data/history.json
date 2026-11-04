@@ -3,11 +3,39 @@
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 7
+    }
+  ],
+  "Bewinxed/cawco": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 1
+    }
+  ],
+  "Globussoft-Technologies/globussoft-crm": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 7
+    }
+  ],
+  "Miri-Labs/MoMo-Agent": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 3
     }
   ],
   "MohamedEslam04/screenpilot": [
     {
       "at": "2026-11-04T09:58:48Z",
+      "stars": 0
+    }
+  ],
+  "Steema/TeeChart-MCP-Server": [
+    {
+      "at": "2026-11-04T10:02:27Z",
       "stars": 0
     }
   ],
@@ -23,10 +51,70 @@
       "stars": 2
     }
   ],
+  "desktopmachineshop/OpenV": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 1
+    }
+  ],
+  "generalbots/generalbots": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 96
+    }
+  ],
   "goodmai/basalt": [
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 1
+    }
+  ],
+  "hitkeeen/blender-ai-copilot-mcp": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 0
+    }
+  ],
+  "magnusfroste/flowwink": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 26
+    }
+  ],
+  "melodic-software/claude-code-plugins": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 28
+    }
+  ],
+  "multica-ai/multica": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 54851
+    }
+  ],
+  "perceo-ai/archivum": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 1
+    }
+  ],
+  "psychofict/codexwatch": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 0
+    }
+  ],
+  "serpapi/serpapi-mcp": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 183
+    }
+  ],
+  "xiechimon/cairn": [
+    {
+      "at": "2026-11-04T10:02:27Z",
+      "stars": 4
     }
   ],
   "zytyan/sessmcp": [
