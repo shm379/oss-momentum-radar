@@ -7,6 +7,10 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 7
     }
   ],
   "Bewinxed/cawco": [
@@ -33,10 +37,28 @@
       "stars": 0
     }
   ],
+  "OmarAlex24/quoro": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 0
+    }
+  ],
   "Steema/TeeChart-MCP-Server": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 0
+    }
+  ],
+  "Whoawhen/FusionVisionMCP": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 0
+    }
+  ],
+  "bytechefhq/bytechef": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 1054
     }
   ],
   "chalet-do/chalet-mcp-server": [
@@ -57,6 +79,12 @@
       "stars": 1
     }
   ],
+  "firsttris/kontext": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 6
+    }
+  ],
   "generalbots/generalbots": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -75,10 +103,46 @@
       "stars": 0
     }
   ],
+  "jhonyralph/jarvis": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 1
+    }
+  ],
+  "keenableai/keenable-grok-plugin": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 1
+    }
+  ],
+  "luxardolabs/luxswirl": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 0
+    }
+  ],
   "magnusfroste/flowwink": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 26
+    }
+  ],
+  "maidou75293/dataworks-ai": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 0
+    }
+  ],
+  "markusweldon/cverdict": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 1
+    }
+  ],
+  "mediavee/dougs-mcp-server": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 2
     }
   ],
   "melodic-software/claude-code-plugins": [
@@ -91,6 +155,18 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 54851
+    }
+  ],
+  "niuwoai/willdeep-cli": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 76
+    }
+  ],
+  "pakistancaselaw/pakistan-case-law-mcp": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 1
     }
   ],
   "perceo-ai/archivum": [
@@ -111,10 +187,22 @@
       "stars": 183
     }
   ],
+  "sympoies/nils-cli": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 3
+    }
+  ],
   "xiechimon/cairn": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 4
+    }
+  ],
+  "zoghlamimostafa/BrowserForge-MCP": [
+    {
+      "at": "2026-11-04T19:23:57Z",
+      "stars": 0
     }
   ],
   "zytyan/sessmcp": [
