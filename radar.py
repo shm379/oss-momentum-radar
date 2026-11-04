@@ -42,7 +42,7 @@ def count_commits_7d(repo, now, api=request_json):
     endpoint = "/repos/" + repo["full_name"] + "/commits?" + urlencode({"since": since, "per_page": 100})
     try:
         result = api(endpoint)
-        return len(result) if isinstance(result, list) else None
+        return ("100+" if len(result) == 100 else len(result)) if isinstance(result, list) else None
     except RuntimeError:
         return None
 
@@ -82,7 +82,7 @@ def star_change(history, now, days=7):
     return None if not older else history[-1]["stars"] - max(older)[1]
 
 def rank(repo):
-    return 5 * (repo.get("commits_7d") or 0) + 3 * (repo.get("stars_gained_7d") or 0) + math.log1p(repo.get("stargazers_count", 0))
+    return 5 * int(str(repo.get("commits_7d") or 0).rstrip("+")) + 3 * (repo.get("stars_gained_7d") or 0) + math.log1p(repo.get("stargazers_count", 0))
 
 def markdown(repos, now, limit):
     output = [
