@@ -23,6 +23,20 @@ class Tests(unittest.TestCase):
         self.assertEqual(radar.star_change([{"at": old, "stars": 12}, {"at": new, "stars": 15}], self.now), 3)
         self.assertIsNone(radar.star_change([{"at": new, "stars": 15}], self.now))
 
+    def test_commit_counts_are_bounded_when_first_page_is_full(self):
+        for count, expected in ((0, 0), (99, 99), (100, "100+")):
+            def api(_endpoint):
+                return [{} for _ in range(count)]
+            repo = {"full_name": "example/repo"}
+            self.assertEqual(radar.count_commits_7d(repo, self.now, api=api), expected)
+
+    def test_bounded_commit_count_renders_and_ranks(self):
+        repo = {"full_name": "example/repo", "topics_found": ["mcp"],
+                "commits_7d": "100+", "stars_gained_7d": None,
+                "stargazers_count": 5, "license": None}
+        self.assertIn("100+", radar.markdown([repo], self.now, 1))
+        self.assertGreater(radar.rank(repo), 500)
+
     def test_report_is_honest_about_missing_growth(self):
         repo = {"full_name": "x/y", "topics_found": ["mcp"], "commits_7d": 2,
                 "stars_gained_7d": None, "stargazers_count": 5, "license": None}
