@@ -56,17 +56,23 @@ def load_history(path):
 def record(history, repos, now):
     stamp = now.isoformat(timespec="seconds").replace("+00:00", "Z")
     oldest = now - timedelta(days=9)
-    for repo in repos:
-        key = repo["full_name"]
+    # Prune every key, not only repos seen in this run: search results rotate.
+    for key in list(history):
         saved = []
-        for item in history.get(key, []):
+        for item in history[key]:
             try:
                 date = datetime.fromisoformat(item["at"].replace("Z", "+00:00"))
-                if date >= oldest:
+                if oldest <= date <= now:
                     saved.append(item)
             except (KeyError, TypeError, ValueError):
                 pass
-        history[key] = (saved + [{"at": stamp, "stars": repo.get("stargazers_count", 0)}])[-60:]
+        if saved:
+            history[key] = saved[-60:]
+        else:
+            del history[key]
+    for repo in repos:
+        key = repo["full_name"]
+        history[key] = (history.get(key, []) + [{"at": stamp, "stars": repo.get("stargazers_count", 0)}])[-60:]
     return history
 
 def star_change(history, now, days=7):
