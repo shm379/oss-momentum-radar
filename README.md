@@ -22,19 +22,19 @@ This is a research aid, not a guarantee that a repository is safe, commercially 
 
 Requirements: Python 3.10+ and internet access.
 
-\`\`\`sh
+```sh
 python3 -m unittest discover -s tests -v
 python3 radar.py
 cat reports/latest.md
-\`\`\`
+```
 
 Customize topics and sample size:
 
-\`\`\`sh
+```sh
 python3 radar.py --topic "mcp server" --topic "rust automation" --limit 8 --top 5
-\`\`\`
+```
 
-No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional \`GITHUB_TOKEN\` or reduce \`--limit\`. The workflow updates every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits. Scheduled jobs can be delayed.
+No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional `GITHUB_TOKEN` or reduce `--limit`. The workflow updates every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits. Scheduled jobs can be delayed.
 
 ## Contributing
 
