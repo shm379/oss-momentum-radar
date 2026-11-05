@@ -13,16 +13,40 @@
       "stars": 7
     }
   ],
+  "Arienax/dsh-gxworks": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 1
+    }
+  ],
   "Bewinxed/cawco": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 1
     }
   ],
+  "Efidripy/BlackHoleMemory": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 5
+    }
+  ],
+  "GSD500BPO/gsd-open-ops": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 0
+    }
+  ],
   "Globussoft-Technologies/globussoft-crm": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 7
+    }
+  ],
+  "MemTether/MemTether": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 1
     }
   ],
   "Miri-Labs/MoMo-Agent": [
@@ -37,10 +61,22 @@
       "stars": 0
     }
   ],
+  "NoahLaHaise/stock-MCP": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 0
+    }
+  ],
   "OmarAlex24/quoro": [
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 0
+    }
+  ],
+  "Servosity/msp-skills": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 70
     }
   ],
   "Steema/TeeChart-MCP-Server": [
@@ -55,6 +91,18 @@
       "stars": 0
     }
   ],
+  "Wildstone-Systems/wildstone-homelab": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 0
+    }
+  ],
+  "atrislabs/atris": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 71
+    }
+  ],
   "bytechefhq/bytechef": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -64,6 +112,12 @@
   "chalet-do/chalet-mcp-server": [
     {
       "at": "2026-11-04T09:58:48Z",
+      "stars": 0
+    }
+  ],
+  "clawpage/aio-agent": [
+    {
+      "at": "2026-11-05T05:15:02Z",
       "stars": 0
     }
   ],
@@ -107,6 +161,18 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 1
+    }
+  ],
+  "jordiboehme/crystalline": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 17
+    }
+  ],
+  "jose-pr/ai6": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 0
     }
   ],
   "keenableai/keenable-grok-plugin": [
@@ -191,6 +257,30 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 3
+    }
+  ],
+  "tako0614/takos-office": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 1
+    }
+  ],
+  "tangency-labs/solidcraft": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 13753
+    }
+  ],
+  "termenbox/termenbox": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 4
+    }
+  ],
+  "windy664/Ru41": [
+    {
+      "at": "2026-11-05T05:15:02Z",
+      "stars": 1
     }
   ],
   "xiechimon/cairn": [
