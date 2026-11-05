@@ -73,6 +73,12 @@
       "stars": 0
     }
   ],
+  "OmerTurkenits/flownav": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 1
+    }
+  ],
   "Servosity/msp-skills": [
     {
       "at": "2026-11-05T05:15:02Z",
@@ -83,6 +89,12 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 0
+    }
+  ],
+  "StepFunctionLLC/mcp-server-cantera": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 5
     }
   ],
   "Whoawhen/FusionVisionMCP": [
@@ -97,6 +109,12 @@
       "stars": 0
     }
   ],
+  "arsmith0922/listing-lens": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 0
+    }
+  ],
   "atrislabs/atris": [
     {
       "at": "2026-11-05T05:15:02Z",
@@ -107,6 +125,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 1054
+    }
+  ],
+  "cempack/facteur": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 0
     }
   ],
   "chalet-do/chalet-mcp-server": [
@@ -127,6 +151,12 @@
       "stars": 2
     }
   ],
+  "demi-sh/demi": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 26
+    }
+  ],
   "desktopmachineshop/OpenV": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -143,6 +173,10 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 96
+    },
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 96
     }
   ],
   "goodmai/basalt": [
@@ -154,6 +188,12 @@
   "hitkeeen/blender-ai-copilot-mcp": [
     {
       "at": "2026-11-04T10:02:27Z",
+      "stars": 0
+    }
+  ],
+  "incmak/tether": [
+    {
+      "at": "2026-11-05T14:02:03Z",
       "stars": 0
     }
   ],
@@ -179,6 +219,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 1
+    }
+  ],
+  "lsfusion-solutions/mycompany": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 370
     }
   ],
   "luxardolabs/luxswirl": [
@@ -217,6 +263,12 @@
       "stars": 28
     }
   ],
+  "mikimatsub/swsd-mcp": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 4
+    }
+  ],
   "multica-ai/multica": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -227,6 +279,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 76
+    }
+  ],
+  "nydiokar/AI-team": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 0
     }
   ],
   "pakistancaselaw/pakistan-case-law-mcp": [
@@ -247,16 +305,40 @@
       "stars": 0
     }
   ],
+  "sandbox-quantum/switch": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 3899
+    }
+  ],
   "serpapi/serpapi-mcp": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 183
     }
   ],
+  "shaikbasha1437/meetminder-ai": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 0
+    }
+  ],
+  "summerdawn-ai/mcpifier": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 2
+    }
+  ],
   "sympoies/nils-cli": [
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 3
+    }
+  ],
+  "tailrocks/ruxel": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 1
     }
   ],
   "tako0614/takos-office": [
@@ -275,6 +357,12 @@
     {
       "at": "2026-11-05T05:15:02Z",
       "stars": 4
+    }
+  ],
+  "undivisible/rs_peekaboo": [
+    {
+      "at": "2026-11-05T14:02:03Z",
+      "stars": 1
     }
   ],
   "windy664/Ru41": [
