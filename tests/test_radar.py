@@ -23,6 +23,28 @@ class Tests(unittest.TestCase):
         self.assertEqual(radar.star_change([{"at": old, "stars": 12}, {"at": new, "stars": 15}], self.now), 3)
         self.assertIsNone(radar.star_change([{"at": new, "stars": 15}], self.now))
 
+    def test_record_prunes_expired_history_for_undiscovered_repos(self):
+        old = (self.now - timedelta(days=10)).isoformat()
+        recent = (self.now - timedelta(days=2)).isoformat()
+        history = {
+            "stale/repo": [{"at": old, "stars": 1}],
+            "recent/repo": [{"at": recent, "stars": 2}],
+        }
+        result = radar.record(history, [], self.now)
+        self.assertNotIn("stale/repo", result)
+        self.assertEqual(result["recent/repo"], [{"at": recent, "stars": 2}])
+
+    def test_record_keeps_recent_history_and_appends_current_sample(self):
+        recent = (self.now - timedelta(days=8)).isoformat()
+        history = {"example/repo": [{"at": recent, "stars": 3}]}
+        result = radar.record(history, [{"full_name": "example/repo", "stargazers_count": 5}], self.now)
+        self.assertEqual([row["stars"] for row in result["example/repo"]], [3, 5])
+
+    def test_record_discards_invalid_and_future_dated_history(self):
+        future = (self.now + timedelta(days=1)).isoformat()
+        history = {"bad/repo": [{"stars": 3}, {"at": future, "stars": 4}]}
+        self.assertEqual(radar.record(history, [], self.now), {})
+
     def test_commit_counts_are_bounded_when_first_page_is_full(self):
         for count, expected in ((0, 0), (99, 99), (100, "100+")):
             def api(_endpoint):
