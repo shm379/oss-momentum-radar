@@ -11,6 +11,12 @@
       "stars": 1
     }
   ],
+  "AnEntrypoint/gm": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 0
+    }
+  ],
   "Aquaticats/Monochromatic": [
     {
       "at": "2026-11-04T09:58:48Z",
@@ -39,12 +45,22 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 1
     }
   ],
   "DMontgomery40/mcp-3D-printer-server": [
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 259
+    }
+  ],
+  "DoliCloud/DoliMed": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 39
     }
   ],
   "Efidripy/BlackHoleMemory": [
@@ -59,15 +75,33 @@
       "stars": 0
     }
   ],
+  "Gekkotron/Nidoo": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 0
+    }
+  ],
   "Globussoft-Technologies/globussoft-crm": [
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 7
     }
   ],
+  "HigherMaestro/highwire": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 0
+    }
+  ],
   "KooshaPari/kiro-adapters": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "MRvirusIR/wraith": [
+    {
+      "at": "2026-11-06T13:46:47Z",
       "stars": 0
     }
   ],
@@ -93,6 +127,12 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 10
+    }
+  ],
+  "MythicalLTD/PeltyCMS": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 232
     }
   ],
   "NebuloK/s02e03-mcp-server": [
@@ -265,6 +305,12 @@
       "stars": 1
     }
   ],
+  "elee1766/jobshop": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 2
+    }
+  ],
   "elgorro/aiquila": [
     {
       "at": "2026-11-05T23:17:25Z",
@@ -275,6 +321,18 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 6
+    }
+  ],
+  "fkauanGIT/StealthDesk": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 2
+    }
+  ],
+  "flowleap-ai/flowleap-harness": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 0
     }
   ],
   "generalbots/generalbots": [
@@ -295,6 +353,12 @@
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 1
+    }
+  ],
+  "grunion-ai/weave": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 15
     }
   ],
   "hitkeeen/blender-ai-copilot-mcp": [
@@ -379,6 +443,12 @@
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 4
+    }
+  ],
+  "mixpeek/amux": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 554
     }
   ],
   "mkuf/TrainingPulse": [
@@ -485,6 +555,10 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 3
+    },
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 3
     }
   ],
   "synchronicity-labs/mcp-server": [
@@ -525,10 +599,22 @@
       "stars": 4
     }
   ],
+  "thetahealth/mirobody": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 1408
+    }
+  ],
   "undivisible/rs_peekaboo": [
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 1
+    }
+  ],
+  "vslon/vslon_ae_mcp": [
+    {
+      "at": "2026-11-06T13:46:47Z",
+      "stars": 2
     }
   ],
   "windy664/Ru41": [
