@@ -51,10 +51,28 @@
       "stars": 1
     }
   ],
+  "Cognitohazard/ltspice-mcp": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 68
+    }
+  ],
+  "CorvinLabs/CorvinOS": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 24
+    }
+  ],
   "DMontgomery40/mcp-3D-printer-server": [
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 259
+    }
+  ],
+  "DhurimHalili/influenceflow-crm": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 1
     }
   ],
   "DoliCloud/DoliMed": [
@@ -241,6 +259,12 @@
       "stars": 2
     }
   ],
+  "blackwell-systems/mcp-assert": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 26
+    }
+  ],
   "bytechefhq/bytechef": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -329,6 +353,12 @@
       "stars": 2
     }
   ],
+  "flokkit/apptown": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 0
+    }
+  ],
   "flowleap-ai/flowleap-harness": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -347,12 +377,22 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 96
+    },
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 97
     }
   ],
   "goodmai/basalt": [
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 1
+    }
+  ],
+  "gronare/mindin": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 2
     }
   ],
   "grunion-ai/weave": [
@@ -421,6 +461,12 @@
       "stars": 0
     }
   ],
+  "maksugr/acp-devtools": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 5
+    }
+  ],
   "markusweldon/cverdict": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -457,6 +503,12 @@
       "stars": 0
     }
   ],
+  "mortennordbye/verksted": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 0
+    }
+  ],
   "multica-ai/multica": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -490,6 +542,12 @@
   "pakistancaselaw/pakistan-case-law-mcp": [
     {
       "at": "2026-11-04T19:23:57Z",
+      "stars": 1
+    }
+  ],
+  "patrickbdevaney/manuk": [
+    {
+      "at": "2026-11-06T22:44:17Z",
       "stars": 1
     }
   ],
@@ -535,6 +593,12 @@
       "stars": 0
     }
   ],
+  "shanselman/sandbox-mcp": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 2
+    }
+  ],
   "shlim-t/labview-mcp": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -564,6 +628,12 @@
   "synchronicity-labs/mcp-server": [
     {
       "at": "2026-11-05T23:17:25Z",
+      "stars": 1
+    }
+  ],
+  "tadasant/zimmer": [
+    {
+      "at": "2026-11-06T22:44:17Z",
       "stars": 1
     }
   ],
@@ -627,6 +697,22 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 4
+    },
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 4
+    }
+  ],
+  "yicone/agents-lab": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 1
+    }
+  ],
+  "yorch/wp-guarded-mcp": [
+    {
+      "at": "2026-11-06T22:44:17Z",
+      "stars": 0
     }
   ],
   "zoghlamimostafa/BrowserForge-MCP": [

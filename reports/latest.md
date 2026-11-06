@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-06 13:46
+Updated UTC: 2026-11-06 22:44
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [thetahealth/mirobody](https://github.com/thetahealth/mirobody) | mcp server | 100+ | 1408 | not yet measurable | Apache-2.0 |
-| [mixpeek/amux](https://github.com/mixpeek/amux) | self hosted agent | 100+ | 554 | not yet measurable | NOASSERTION |
-| [sympoies/nils-cli](https://github.com/sympoies/nils-cli) | rust automation | 100+ | 3 | not yet measurable | MIT |
-| [elee1766/jobshop](https://github.com/elee1766/jobshop) | self hosted agent | 100+ | 2 | not yet measurable | AGPL-3.0 |
-| [Bewinxed/cawco](https://github.com/Bewinxed/cawco) | self hosted agent | 100+ | 1 | not yet measurable | NOASSERTION |
-| [AnEntrypoint/gm](https://github.com/AnEntrypoint/gm) | mcp server | 100+ | 0 | not yet measurable | unverified |
-| [flowleap-ai/flowleap-harness](https://github.com/flowleap-ai/flowleap-harness) | self hosted agent | 100+ | 0 | not yet measurable | MIT |
-| [Gekkotron/Nidoo](https://github.com/Gekkotron/Nidoo) | rust automation | 100+ | 0 | not yet measurable | Apache-2.0 |
-| [grunion-ai/weave](https://github.com/grunion-ai/weave) | mcp server, self hosted agent | 99 | 15 | not yet measurable | MIT |
-| [MythicalLTD/PeltyCMS](https://github.com/MythicalLTD/PeltyCMS) | rust automation | 85 | 232 | not yet measurable | NOASSERTION |
+| [generalbots/generalbots](https://github.com/generalbots/generalbots) | rust automation, open source CRM | 100+ | 97 | not yet measurable | MIT |
+| [Cognitohazard/ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp) | mcp server | 100+ | 68 | not yet measurable | GPL-3.0 |
+| [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | self hosted agent | 100+ | 24 | not yet measurable | Apache-2.0 |
+| [xiechimon/cairn](https://github.com/xiechimon/cairn) | self hosted agent | 100+ | 4 | not yet measurable | Apache-2.0 |
+| [gronare/mindin](https://github.com/gronare/mindin) | self hosted agent | 100+ | 2 | not yet measurable | MIT |
+| [patrickbdevaney/manuk](https://github.com/patrickbdevaney/manuk) | rust automation | 100+ | 1 | not yet measurable | unverified |
+| [flokkit/apptown](https://github.com/flokkit/apptown) | self hosted agent | 100+ | 0 | not yet measurable | Apache-2.0 |
+| [DhurimHalili/influenceflow-crm](https://github.com/DhurimHalili/influenceflow-crm) | open source CRM | 43 | 1 | not yet measurable | MIT |
+| [mortennordbye/verksted](https://github.com/mortennordbye/verksted) | self hosted agent | 38 | 0 | not yet measurable | MIT |
+| [tadasant/zimmer](https://github.com/tadasant/zimmer) | self hosted agent | 37 | 1 | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
