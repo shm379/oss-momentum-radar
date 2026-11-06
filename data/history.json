@@ -1,4 +1,10 @@
 {
+  "12burb/pdf2openapi": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
   "AXIOVEX/syncyard": [
     {
       "at": "2026-11-05T23:17:25Z",
@@ -29,6 +35,10 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 1
     }
   ],
   "DMontgomery40/mcp-3D-printer-server": [
@@ -53,6 +63,12 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 7
+    }
+  ],
+  "KooshaPari/kiro-adapters": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
     }
   ],
   "MemTether/MemTether": [
@@ -113,6 +129,16 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 2
+    },
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 2
+    }
+  ],
+  "SenjuWoo/SkyrimForge": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 4
     }
   ],
   "Servosity/msp-skills": [
@@ -145,10 +171,22 @@
       "stars": 0
     }
   ],
+  "answerLoops/answerLoops": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 23
+    }
+  ],
   "arsmith0922/listing-lens": [
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 0
+    }
+  ],
+  "asimfali/datum": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 2
     }
   ],
   "atrislabs/atris": [
@@ -167,6 +205,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 1054
+    }
+  ],
+  "ccfos/nightingale": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 13453
     }
   ],
   "cempack/facteur": [
@@ -191,6 +235,18 @@
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 2
+    }
+  ],
+  "cubicecho/mcp-discovery": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "cyfrworks/cyfr": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
     }
   ],
   "demi-sh/demi": [
@@ -343,6 +399,12 @@
       "stars": 8
     }
   ],
+  "nirholas/three.ws": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 269
+    }
+  ],
   "niuwoai/willdeep-cli": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -379,6 +441,12 @@
       "stars": 1812
     }
   ],
+  "rishi12438/hearth": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
   "sandbox-quantum/switch": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -397,6 +465,12 @@
       "stars": 0
     }
   ],
+  "shlim-t/labview-mcp": [
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
   "summerdawn-ai/mcpifier": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -406,6 +480,10 @@
   "sympoies/nils-cli": [
     {
       "at": "2026-11-04T19:23:57Z",
+      "stars": 3
+    },
+    {
+      "at": "2026-11-06T05:14:34Z",
       "stars": 3
     }
   ],
@@ -435,6 +513,10 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 14139
+    },
+    {
+      "at": "2026-11-06T05:14:34Z",
+      "stars": 14242
     }
   ],
   "termenbox/termenbox": [
