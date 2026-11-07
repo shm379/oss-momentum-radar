@@ -51,6 +51,12 @@
       "stars": 1
     }
   ],
+  "CarletonTorpin/Zorderz": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
   "Cognitohazard/ltspice-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -193,6 +199,12 @@
       "stars": 2
     }
   ],
+  "Reimann-IT-Web/kontorfreund": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
   "SenjuWoo/SkyrimForge": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -215,6 +227,18 @@
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 5
+    }
+  ],
+  "Team-Commonly/commonly": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 1390
+    }
+  ],
+  "UpstageAI/korean-report-hwpx": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 17
     }
   ],
   "Whoawhen/FusionVisionMCP": [
@@ -289,6 +313,12 @@
       "stars": 0
     }
   ],
+  "chedong/phpman": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 1
+    }
+  ],
   "clawpage/aio-agent": [
     {
       "at": "2026-11-05T05:15:02Z",
@@ -311,6 +341,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 0
+    }
+  ],
+  "daqifi/daqifi-core": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 5
     }
   ],
   "demi-sh/demi": [
@@ -339,6 +375,12 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 39
+    }
+  ],
+  "epell-development/RadioMaster": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 14
     }
   ],
   "firsttris/kontext": [
@@ -407,6 +449,12 @@
       "stars": 0
     }
   ],
+  "hproxy-com/free-proxy-list": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 89
+    }
+  ],
   "incmak/tether": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -471,6 +519,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 1
+    }
+  ],
+  "maxcodefaster/open-software-factory": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 0
     }
   ],
   "mediavee/dougs-mcp-server": [
@@ -539,6 +593,18 @@
       "stars": 0
     }
   ],
+  "oneirum/aliquot": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
+  "ouracli/oura": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 1
+    }
+  ],
   "pakistancaselaw/pakistan-case-law-mcp": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -548,6 +614,10 @@
   "patrickbdevaney/manuk": [
     {
       "at": "2026-11-06T22:44:17Z",
+      "stars": 1
+    },
+    {
+      "at": "2026-11-07T04:45:19Z",
       "stars": 1
     }
   ],
@@ -561,6 +631,12 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 0
+    }
+  ],
+  "rainyflash/agent-room": [
+    {
+      "at": "2026-11-07T04:45:19Z",
+      "stars": 17
     }
   ],
   "relaticle/relaticle": [
@@ -602,6 +678,12 @@
   "shlim-t/labview-mcp": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "spore-host/spore-host-mcp": [
+    {
+      "at": "2026-11-07T04:45:19Z",
       "stars": 0
     }
   ],
@@ -700,6 +782,10 @@
     },
     {
       "at": "2026-11-06T22:44:17Z",
+      "stars": 4
+    },
+    {
+      "at": "2026-11-07T04:45:19Z",
       "stars": 4
     }
   ],

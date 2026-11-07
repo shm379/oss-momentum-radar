@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-06 22:44
+Updated UTC: 2026-11-07 04:45
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [generalbots/generalbots](https://github.com/generalbots/generalbots) | rust automation, open source CRM | 100+ | 97 | not yet measurable | MIT |
-| [Cognitohazard/ltspice-mcp](https://github.com/Cognitohazard/ltspice-mcp) | mcp server | 100+ | 68 | not yet measurable | GPL-3.0 |
-| [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | self hosted agent | 100+ | 24 | not yet measurable | Apache-2.0 |
+| [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | self hosted agent | 100+ | 1390 | not yet measurable | Apache-2.0 |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 89 | not yet measurable | MIT |
 | [xiechimon/cairn](https://github.com/xiechimon/cairn) | self hosted agent | 100+ | 4 | not yet measurable | Apache-2.0 |
-| [gronare/mindin](https://github.com/gronare/mindin) | self hosted agent | 100+ | 2 | not yet measurable | MIT |
 | [patrickbdevaney/manuk](https://github.com/patrickbdevaney/manuk) | rust automation | 100+ | 1 | not yet measurable | unverified |
-| [flokkit/apptown](https://github.com/flokkit/apptown) | self hosted agent | 100+ | 0 | not yet measurable | Apache-2.0 |
-| [DhurimHalili/influenceflow-crm](https://github.com/DhurimHalili/influenceflow-crm) | open source CRM | 43 | 1 | not yet measurable | MIT |
-| [mortennordbye/verksted](https://github.com/mortennordbye/verksted) | self hosted agent | 38 | 0 | not yet measurable | MIT |
-| [tadasant/zimmer](https://github.com/tadasant/zimmer) | self hosted agent | 37 | 1 | not yet measurable | MIT |
+| [oneirum/aliquot](https://github.com/oneirum/aliquot) | self hosted agent | 100+ | 0 | not yet measurable | Apache-2.0 |
+| [maxcodefaster/open-software-factory](https://github.com/maxcodefaster/open-software-factory) | self hosted agent | 100+ | 0 | not yet measurable | Apache-2.0 |
+| [rainyflash/agent-room](https://github.com/rainyflash/agent-room) | self hosted agent | 92 | 17 | not yet measurable | MIT |
+| [Reimann-IT-Web/kontorfreund](https://github.com/Reimann-IT-Web/kontorfreund) | open source CRM | 57 | 0 | not yet measurable | AGPL-3.0 |
+| [epell-development/RadioMaster](https://github.com/epell-development/RadioMaster) | rust automation | 48 | 14 | not yet measurable | MIT |
+| [daqifi/daqifi-core](https://github.com/daqifi/daqifi-core) | mcp server | 48 | 5 | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
