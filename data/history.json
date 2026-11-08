@@ -79,6 +79,10 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 989
+    },
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 989
     }
   ],
   "Cognitohazard/ltspice-mcp": [
@@ -177,9 +181,21 @@
       "stars": 1
     }
   ],
+  "Iweisc/splee": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 0
+    }
+  ],
   "KooshaPari/kiro-adapters": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "Luvi-io/luw-mcp": [
+    {
+      "at": "2026-11-08T21:41:49Z",
       "stars": 0
     }
   ],
@@ -217,6 +233,12 @@
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 10
+    }
+  ],
+  "MustCodeAl/seleniumbase-rs": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 1
     }
   ],
   "MythicalLTD/PeltyCMS": [
@@ -295,6 +317,18 @@
       "stars": 70
     }
   ],
+  "Softeria/ms-365-mcp-server": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 1122
+    }
+  ],
+  "Sora-bluesky/real-estate-brokerage-act-mcp": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 0
+    }
+  ],
   "SplittingAtom/kobe": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -371,6 +405,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 23
+    }
+  ],
+  "arilumbudeta/edlink-mcp": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 0
     }
   ],
   "arsmith0922/listing-lens": [
@@ -497,6 +537,12 @@
       "stars": 0
     }
   ],
+  "danilkotelnikov/Molecullage": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 3
+    }
+  ],
   "daqifi/daqifi-core": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -561,6 +607,12 @@
       "stars": 10
     }
   ],
+  "f-miousset/demo-tinternship": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 0
+    }
+  ],
   "f1shyondrugs/metis": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -617,6 +669,10 @@
     {
       "at": "2026-11-07T21:28:23Z",
       "stars": 97
+    },
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 97
     }
   ],
   "goodmai/basalt": [
@@ -640,6 +696,10 @@
   "grunion-ai/weave": [
     {
       "at": "2026-11-06T13:46:47Z",
+      "stars": 15
+    },
+    {
+      "at": "2026-11-08T21:41:49Z",
       "stars": 15
     }
   ],
@@ -947,6 +1007,12 @@
       "stars": 3899
     }
   ],
+  "sapientsai/openfda-mcp-server": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 1
+    }
+  ],
   "senacula/senacula-imagestudio": [
     {
       "at": "2026-11-08T12:47:46Z",
@@ -1051,6 +1117,10 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 14242
+    },
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 15006
     }
   ],
   "termenbox/termenbox": [
@@ -1062,6 +1132,10 @@
   "themark-net/pfy-mentat": [
     {
       "at": "2026-11-08T04:35:18Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-08T21:41:49Z",
       "stars": 0
     }
   ],
@@ -1099,6 +1173,12 @@
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 1
+    }
+  ],
+  "vasdko4/universal-crm-ua": [
+    {
+      "at": "2026-11-08T21:41:49Z",
+      "stars": 0
     }
   ],
   "vslon/vslon_ae_mcp": [
