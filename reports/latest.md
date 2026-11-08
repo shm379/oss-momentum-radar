@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-08 04:35
+Updated UTC: 2026-11-08 12:47
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | open source CRM | 100+ | 5268 | not yet measurable | MIT |
-| [MCPJam/inspector](https://github.com/MCPJam/inspector) | mcp server | 100+ | 2304 | not yet measurable | NOASSERTION |
-| [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) | self hosted agent | 100+ | 360 | not yet measurable | Apache-2.0 |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 89 | not yet measurable | MIT |
-| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | not yet measurable | LGPL-3.0 |
-| [SplittingAtom/kobe](https://github.com/SplittingAtom/kobe) | self hosted agent | 100+ | 0 | not yet measurable | Apache-2.0 |
-| [themark-net/pfy-mentat](https://github.com/themark-net/pfy-mentat) | self hosted agent | 100+ | 0 | not yet measurable | unverified |
-| [turjaun985123/stykanimaters](https://github.com/turjaun985123/stykanimaters) | mcp server | 57 | 0 | not yet measurable | unverified |
-| [tsrman/AurumAI](https://github.com/tsrman/AurumAI) | self hosted agent | 52 | 0 | not yet measurable | AGPL-3.0 |
-| [bry-guy/pi-web](https://github.com/bry-guy/pi-web) | self hosted agent | 31 | 0 | not yet measurable | unverified |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 100+ | 989 | not yet measurable | MIT |
+| [kironovlaziz-del/provenza](https://github.com/kironovlaziz-del/provenza) | self hosted agent | 30 | 5 | not yet measurable | Apache-2.0 |
+| [bergaaberg/dovre](https://github.com/bergaaberg/dovre) | self hosted agent | 43 | 2 | not yet measurable | MIT |
+| [rudalabs/TeamCraft](https://github.com/rudalabs/TeamCraft) | mcp server | 100+ | 1 | not yet measurable | MPL-2.0 |
+| [megamen32/agent-herder](https://github.com/megamen32/agent-herder) | mcp server | 100+ | 1 | not yet measurable | MIT |
+| [Xxx91n/anysearch-cli](https://github.com/Xxx91n/anysearch-cli) | mcp server | 77 | 0 | not yet measurable | Apache-2.0 |
+| [The1UNeed/hexbot](https://github.com/The1UNeed/hexbot) | self hosted agent | 40 | 0 | not yet measurable | Apache-2.0 |
+| [EunhakChoi/artifree](https://github.com/EunhakChoi/artifree) | self hosted agent | 68 | 0 | not yet measurable | MIT |
+| [Farstax/agent-bridge](https://github.com/Farstax/agent-bridge) | self hosted agent | 89 | 0 | not yet measurable | Apache-2.0 |
+| [ZenoWangzy/zenoforge](https://github.com/ZenoWangzy/zenoforge) | self hosted agent | 100+ | 0 | not yet measurable | NOASSERTION |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

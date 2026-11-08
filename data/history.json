@@ -75,6 +75,12 @@
       "stars": 0
     }
   ],
+  "ChurchCRM/CRM": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 989
+    }
+  ],
   "Cognitohazard/ltspice-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -109,6 +115,18 @@
     {
       "at": "2026-11-05T05:15:02Z",
       "stars": 5
+    }
+  ],
+  "EunhakChoi/artifree": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
+  "Farstax/agent-bridge": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
     }
   ],
   "FruitieX/homectl": [
@@ -247,6 +265,12 @@
       "stars": 2
     }
   ],
+  "Panchak2d/Aerini": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 1
+    }
+  ],
   "Reimann-IT-Web/kontorfreund": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -295,6 +319,12 @@
       "stars": 1390
     }
   ],
+  "The1UNeed/hexbot": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
   "Tommi2Day/pg-mcp-server": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -316,6 +346,18 @@
   "Wildstone-Systems/wildstone-homelab": [
     {
       "at": "2026-11-05T05:15:02Z",
+      "stars": 0
+    }
+  ],
+  "Xxx91n/anysearch-cli": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
+  "ZenoWangzy/zenoforge": [
+    {
+      "at": "2026-11-08T12:47:46Z",
       "stars": 0
     }
   ],
@@ -352,6 +394,12 @@
   "benethos-hub/lexware-office-mcp": [
     {
       "at": "2026-11-07T12:29:46Z",
+      "stars": 2
+    }
+  ],
+  "bergaaberg/dovre": [
+    {
+      "at": "2026-11-08T12:47:46Z",
       "stars": 2
     }
   ],
@@ -477,6 +525,12 @@
       "stars": 9
     }
   ],
+  "dkedar7/streamlit-mcp": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 2
+    }
+  ],
   "elee1766/jobshop": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -595,6 +649,12 @@
       "stars": 0
     }
   ],
+  "harshjeengar1408/highlevel-clone": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
   "hitkeeen/blender-ai-copilot-mcp": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -661,6 +721,12 @@
       "stars": 1
     }
   ],
+  "kironovlaziz-del/provenza": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 5
+    }
+  ],
   "lsfusion-solutions/mycompany": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -707,6 +773,12 @@
     {
       "at": "2026-11-04T19:23:57Z",
       "stars": 2
+    }
+  ],
+  "megamen32/agent-herder": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 1
     }
   ],
   "melgarafael/DeskcommCRM": [
@@ -857,6 +929,12 @@
       "stars": 0
     }
   ],
+  "rudalabs/TeamCraft": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 1
+    }
+  ],
   "rush86999/atom": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -867,6 +945,18 @@
     {
       "at": "2026-11-05T14:02:03Z",
       "stars": 3899
+    }
+  ],
+  "senacula/senacula-imagestudio": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
+  "senacula/senacula-shapestudio": [
+    {
+      "at": "2026-11-08T12:47:46Z",
+      "stars": 1
     }
   ],
   "serpapi/serpapi-mcp": [
