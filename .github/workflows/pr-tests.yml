@@ -1,0 +1,18 @@
+name: PR unit tests
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile Python
+        run: python3 -m compileall -q radar.py tests
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -v
