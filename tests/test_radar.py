@@ -57,7 +57,17 @@ class Tests(unittest.TestCase):
                 "commits_7d": "100+", "stars_gained_7d": None,
                 "stargazers_count": 5, "license": None}
         self.assertIn("100+", radar.markdown([repo], self.now, 1))
-        self.assertGreater(radar.rank(repo), 500)
+        # 100+ is a lower bound, not 100 exact commits or quality.
+        self.assertAlmostEqual(radar.rank(repo), radar.rank({**repo, "commits_7d": 30}))
+
+    def test_commit_burst_cannot_swamp_other_signals(self):
+        burst = {"commits_7d": "100+", "stargazers_count": 0}
+        balanced = {"commits_7d": 30, "stargazers_count": 20, "stars_gained_7d": 2}
+        self.assertGreater(radar.rank(balanced), radar.rank(burst))
+
+    def test_negative_star_growth_is_not_a_bonus_or_penalty(self):
+        base = {"commits_7d": 8, "stargazers_count": 10}
+        self.assertEqual(radar.rank(base), radar.rank({**base, "stars_gained_7d": -3}))
 
     def test_report_is_honest_about_missing_growth(self):
         repo = {"full_name": "x/y", "topics_found": ["mcp"], "commits_7d": 2,
