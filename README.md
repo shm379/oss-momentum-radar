@@ -12,6 +12,7 @@ MIT-licensed. No subscription, paid model, credit card, or third-party service r
 
 - **Recent activity:** GitHub repositories with pushes in the past 14 days.
 - **Maintenance momentum:** public commits in the last seven days, even for small projects.
+- **Burst-resistant ranking:** commit contributions have diminishing returns, capped after 30 weekly commits; raw activity is not proof of sustained maintenance.
 - **Real star growth:** only calculated once seven days of past samples exist (never invented).
 - **License metadata:** flags unknown SPDX data for manual review.
 - **Ranked shortlist:** saves a Markdown report and a compact history file.
