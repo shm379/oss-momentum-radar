@@ -88,7 +88,12 @@ def star_change(history, now, days=7):
     return None if not older else history[-1]["stars"] - max(older)[1]
 
 def rank(repo):
-    return 5 * int(str(repo.get("commits_7d") or 0).rstrip("+")) + 3 * (repo.get("stars_gained_7d") or 0) + math.log1p(repo.get("stargazers_count", 0))
+    # Commit bursts are evidence of activity, not proportional evidence of
+    # maintenance quality. Cap the contribution to avoid 100+ commits swamping
+    # a smaller project with steadier activity or observed star growth.
+    commits = max(0, int(str(repo.get("commits_7d") or 0).rstrip("+")))
+    growth = max(0, repo.get("stars_gained_7d") or 0)
+    return 12 * math.log1p(min(commits, 30)) + 3 * growth + math.log1p(repo.get("stargazers_count", 0))
 
 def markdown(repos, now, limit):
     output = [
