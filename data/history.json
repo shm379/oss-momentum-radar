@@ -47,6 +47,10 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 7
     }
   ],
   "Arienax/dsh-gxworks": [
@@ -181,6 +185,12 @@
       "stars": 1
     }
   ],
+  "IvanMurzak/Unreal-MCP": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 58
+    }
+  ],
   "Iweisc/splee": [
     {
       "at": "2026-11-08T21:41:49Z",
@@ -296,6 +306,12 @@
   "Reimann-IT-Web/kontorfreund": [
     {
       "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
+  "Rirychh/revit-mcp": [
+    {
+      "at": "2026-11-09T04:46:47Z",
       "stars": 0
     }
   ],
@@ -423,6 +439,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 2
+    }
+  ],
+  "atomantic/PortOS": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 73
     }
   ],
   "atrislabs/atris": [
@@ -565,6 +587,12 @@
       "stars": 1
     }
   ],
+  "dev-universe/fender-studio-pro-mcp": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 0
+    }
+  ],
   "dizzlkheinz/ynab-mcpb": [
     {
       "at": "2026-11-07T21:28:23Z",
@@ -575,6 +603,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 2
+    }
+  ],
+  "duketopceo/tallyline": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 1
     }
   ],
   "elee1766/jobshop": [
@@ -649,6 +683,12 @@
       "stars": 0
     }
   ],
+  "garyhooi/omnichat": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 0
+    }
+  ],
   "generalbots/generalbots": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -703,6 +743,24 @@
       "stars": 15
     }
   ],
+  "guaardvark/guaardvark": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 308
+    }
+  ],
+  "handaas/cloudmigration-skill": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 2
+    }
+  ],
+  "handaas/competitive-analysis-skill": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 2
+    }
+  ],
   "hara-seihun/kenan-stack": [
     {
       "at": "2026-11-07T21:28:23Z",
@@ -742,6 +800,12 @@
   "incmak/tether": [
     {
       "at": "2026-11-05T14:02:03Z",
+      "stars": 0
+    }
+  ],
+  "innotelinc/sage": [
+    {
+      "at": "2026-11-09T04:46:47Z",
       "stars": 0
     }
   ],
@@ -899,6 +963,10 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 54851
+    },
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 55340
     }
   ],
   "nedonatelli/sidecar": [
@@ -928,6 +996,18 @@
   "oneirum/aliquot": [
     {
       "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
+  "opikdev/mcp-server-python-starter": [
+    {
+      "at": "2026-11-09T04:46:47Z",
+      "stars": 0
+    }
+  ],
+  "opikdev/mcp-server-ts-starter": [
+    {
+      "at": "2026-11-09T04:46:47Z",
       "stars": 0
     }
   ],
@@ -1178,6 +1258,12 @@
   "vasdko4/universal-crm-ua": [
     {
       "at": "2026-11-08T21:41:49Z",
+      "stars": 0
+    }
+  ],
+  "veyndo/veyndo": [
+    {
+      "at": "2026-11-09T04:46:47Z",
       "stars": 0
     }
   ],
