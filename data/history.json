@@ -51,6 +51,10 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 7
     }
   ],
   "Arienax/dsh-gxworks": [
@@ -107,6 +111,12 @@
       "stars": 259
     }
   ],
+  "DevNexsler/RAG-In-A-Box": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 4
+    }
+  ],
   "DhurimHalili/influenceflow-crm": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -134,6 +144,12 @@
   "Farstax/agent-bridge": [
     {
       "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
+  "Flow-Steward/mcps": [
+    {
+      "at": "2026-11-09T15:15:42Z",
       "stars": 0
     }
   ],
@@ -233,6 +249,12 @@
       "stars": 3
     }
   ],
+  "Mistgate/mistgate": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 269
+    }
+  ],
   "MohamedEslam04/screenpilot": [
     {
       "at": "2026-11-04T09:58:48Z",
@@ -301,6 +323,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 1
+    }
+  ],
+  "RdyGaming/hated-wow-mcp": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 26
     }
   ],
   "Reimann-IT-Web/kontorfreund": [
@@ -405,6 +433,12 @@
       "stars": 0
     }
   ],
+  "YuanYeYouTao/Yuki": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 25
+    }
+  ],
   "ZenoWangzy/zenoforge": [
     {
       "at": "2026-11-08T12:47:46Z",
@@ -451,6 +485,12 @@
     {
       "at": "2026-11-05T05:15:02Z",
       "stars": 71
+    }
+  ],
+  "beknownllc/the-marketing-vault-mcp": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 0
     }
   ],
   "benethos-hub/lexware-office-mcp": [
@@ -533,6 +573,12 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 0
+    }
+  ],
+  "clouatre-labs/aptu-coder": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 7
     }
   ],
   "commonpost/thunderbird-mcp": [
@@ -653,6 +699,12 @@
       "stars": 8
     }
   ],
+  "fathomise/MailFathom": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 21
+    }
+  ],
   "firsttris/kontext": [
     {
       "at": "2026-11-04T19:23:57Z",
@@ -725,6 +777,10 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 0
     }
   ],
   "gronare/mindin": [
@@ -794,6 +850,10 @@
     },
     {
       "at": "2026-11-08T04:35:18Z",
+      "stars": 89
+    },
+    {
+      "at": "2026-11-09T15:15:42Z",
       "stars": 89
     }
   ],
@@ -999,6 +1059,12 @@
       "stars": 0
     }
   ],
+  "open-net-worth-ai/open-net-worth": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 265
+    }
+  ],
   "opikdev/mcp-server-python-starter": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1045,6 +1111,12 @@
       "stars": 17
     }
   ],
+  "picoduck/wollipog": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 3
+    }
+  ],
   "psychofict/codexwatch": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -1067,6 +1139,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 0
+    }
+  ],
+  "rizom-ai/brains": [
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 5
     }
   ],
   "rudalabs/TeamCraft": [
@@ -1201,6 +1279,10 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 15006
+    },
+    {
+      "at": "2026-11-09T15:15:42Z",
+      "stars": 15204
     }
   ],
   "termenbox/termenbox": [
