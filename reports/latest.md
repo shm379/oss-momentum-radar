@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-10 01:12
+Updated UTC: 2026-11-10 14:23
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [open-net-worth-ai/open-net-worth](https://github.com/open-net-worth-ai/open-net-worth) | self hosted agent | 100+ | 305 | not yet measurable | AGPL-3.0 |
-| [skulitom/Pixelbolt](https://github.com/skulitom/Pixelbolt) | mcp server | 100+ | 72 | not yet measurable | MIT |
-| [StoryFunnels/storyOS](https://github.com/StoryFunnels/storyOS) | mcp server, self hosted agent | 77 | 7 | not yet measurable | NOASSERTION |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 15407 | not yet measurable | Apache-2.0 |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 100+ | 991 | not yet measurable | MIT |
+| [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | mcp server, self hosted agent | 100+ | 250 | not yet measurable | Apache-2.0 |
+| [TulipFarm/tulipfarm](https://github.com/TulipFarm/tulipfarm) | self hosted agent | 100+ | 12 | not yet measurable | AGPL-3.0 |
 | [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | not yet measurable | LGPL-3.0 |
-| [sandrpod/sandrpod](https://github.com/sandrpod/sandrpod) | self hosted agent | 33 | 4 | not yet measurable | Apache-2.0 |
-| [luckyzifan/futureox-design-editor](https://github.com/luckyzifan/futureox-design-editor) | rust automation | 100+ | 2 | not yet measurable | MIT |
-| [Ahmedabied/agent-guard](https://github.com/Ahmedabied/agent-guard) | mcp server | 37 | 0 | not yet measurable | MIT |
-| [OmarAlex24/quoro](https://github.com/OmarAlex24/quoro) | self hosted agent | 100+ | 0 | not yet measurable | AGPL-3.0 |
-| [ben-efros/caddy-rs](https://github.com/ben-efros/caddy-rs) | rust automation | 100+ | 0 | not yet measurable | Apache-2.0 |
-| [smokeysrh/bitcoin-solo-miner-monitor](https://github.com/smokeysrh/bitcoin-solo-miner-monitor) | self hosted agent | 27 | 2 | not yet measurable | MIT |
+| [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl) | mcp server, self hosted agent | 100+ | 5 | not yet measurable | AGPL-3.0 |
+| [galyarderlabs/notchfolk](https://github.com/galyarderlabs/notchfolk) | mcp server | 100+ | 5 | not yet measurable | GPL-3.0 |
+| [gfx-labs/jobshop](https://github.com/gfx-labs/jobshop) | self hosted agent | 100+ | 3 | not yet measurable | AGPL-3.0 |
+| [cplieger/marotte](https://github.com/cplieger/marotte) | self hosted agent | 100+ | 2 | not yet measurable | AGPL-3.0 |
+| [veyndo/veyndo](https://github.com/veyndo/veyndo) | rust automation | 100+ | 1 | not yet measurable | NOASSERTION |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

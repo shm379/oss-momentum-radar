@@ -15,6 +15,10 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 5
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 5
     }
   ],
   "AXIOVEX/syncyard": [
@@ -71,6 +75,10 @@
     {
       "at": "2026-11-10T01:12:50Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 7
     }
   ],
   "Arienax/dsh-gxworks": [
@@ -113,6 +121,10 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 989
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 991
     }
   ],
   "Cognitohazard/ltspice-mcp": [
@@ -202,6 +214,10 @@
   "Glubiz/zirv-flow": [
     {
       "at": "2026-11-07T21:28:23Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
       "stars": 0
     }
   ],
@@ -375,6 +391,12 @@
       "stars": 0
     }
   ],
+  "SaadAhmed7/findairepos": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 0
+    }
+  ],
   "Saurabhzz9/tethertrace": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -445,6 +467,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 0
+    }
+  ],
+  "TulipFarm/tulipfarm": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 12
     }
   ],
   "UpstageAI/korean-report-hwpx": [
@@ -569,6 +597,10 @@
     {
       "at": "2026-11-07T21:28:23Z",
       "stars": 26
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 26
     }
   ],
   "bry-guy/pi-web": [
@@ -640,6 +672,12 @@
   "commonpost/thunderbird-mcp": [
     {
       "at": "2026-11-04T09:58:48Z",
+      "stars": 2
+    }
+  ],
+  "cplieger/marotte": [
+    {
+      "at": "2026-11-10T14:23:20Z",
       "stars": 2
     }
   ],
@@ -791,6 +829,12 @@
       "stars": 0
     }
   ],
+  "galyarderlabs/notchfolk": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 5
+    }
+  ],
   "garyhooi/omnichat": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -821,6 +865,12 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 97
+    }
+  ],
+  "gfx-labs/jobshop": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 3
     }
   ],
   "goodmai/basalt": [
@@ -923,6 +973,12 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 0
+    }
+  ],
+  "jeffton/kladde": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 3
     }
   ],
   "jhonyralph/jarvis": [
@@ -1261,6 +1317,12 @@
       "stars": 183
     }
   ],
+  "shahmirdelfanazari/Microsoft-Exchange-2019-ON-Premises-Claude-MCP": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 0
+    }
+  ],
   "shaikbasha1437/meetminder-ai": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -1367,6 +1429,10 @@
     {
       "at": "2026-11-09T15:15:42Z",
       "stars": 15204
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 15407
     }
   ],
   "termenbox/termenbox": [
@@ -1431,12 +1497,22 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 1
     }
   ],
   "vslon/vslon_ae_mcp": [
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 2
+    }
+  ],
+  "vstorm-co/agenticos": [
+    {
+      "at": "2026-11-10T14:23:20Z",
+      "stars": 250
     }
   ],
   "windy664/Ru41": [
