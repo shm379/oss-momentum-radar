@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-10 14:23
+Updated UTC: 2026-11-10 22:51
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 15407 | not yet measurable | Apache-2.0 |
-| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 100+ | 991 | not yet measurable | MIT |
-| [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | mcp server, self hosted agent | 100+ | 250 | not yet measurable | Apache-2.0 |
-| [TulipFarm/tulipfarm](https://github.com/TulipFarm/tulipfarm) | self hosted agent | 100+ | 12 | not yet measurable | AGPL-3.0 |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 15492 | not yet measurable | Apache-2.0 |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | self hosted agent, open source CRM | 100+ | 5333 | not yet measurable | MIT |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 88 | not yet measurable | MIT |
+| [Miosa-osa/OptimalEngine](https://github.com/Miosa-osa/OptimalEngine) | self hosted agent | 34 | 48 | not yet measurable | Apache-2.0 |
+| [grunion-ai/weave](https://github.com/grunion-ai/weave) | self hosted agent | 100+ | 16 | not yet measurable | MIT |
+| [skyphusion-labs/postern](https://github.com/skyphusion-labs/postern) | self hosted agent | 46 | 11 | not yet measurable | AGPL-3.0 |
 | [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | not yet measurable | LGPL-3.0 |
-| [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl) | mcp server, self hosted agent | 100+ | 5 | not yet measurable | AGPL-3.0 |
-| [galyarderlabs/notchfolk](https://github.com/galyarderlabs/notchfolk) | mcp server | 100+ | 5 | not yet measurable | GPL-3.0 |
-| [gfx-labs/jobshop](https://github.com/gfx-labs/jobshop) | self hosted agent | 100+ | 3 | not yet measurable | AGPL-3.0 |
-| [cplieger/marotte](https://github.com/cplieger/marotte) | self hosted agent | 100+ | 2 | not yet measurable | AGPL-3.0 |
-| [veyndo/veyndo](https://github.com/veyndo/veyndo) | rust automation | 100+ | 1 | not yet measurable | NOASSERTION |
+| [pejmanjohn/chickpea](https://github.com/pejmanjohn/chickpea) | self hosted agent | 100+ | 7 | not yet measurable | Apache-2.0 |
+| [agent-labs-dev/mergeloop](https://github.com/agent-labs-dev/mergeloop) | self hosted agent | 100+ | 6 | not yet measurable | Apache-2.0 |
+| [MustCodeAl/seleniumbase-rs](https://github.com/MustCodeAl/seleniumbase-rs) | rust automation | 100+ | 1 | not yet measurable | NOASSERTION |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
