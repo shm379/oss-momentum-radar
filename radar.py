@@ -76,16 +76,23 @@ def record(history, repos, now):
     return history
 
 def star_change(history, now, days=7):
+    """Compare the latest valid observation to the nearest observation at least days old."""
     threshold = now - timedelta(days=days)
-    older = []
+    valid = []
     for entry in history:
         try:
             when = datetime.fromisoformat(entry["at"].replace("Z", "+00:00"))
-            if when <= threshold:
-                older.append((when, entry["stars"]))
-        except (KeyError, ValueError, TypeError):
+            stars = entry["stars"]
+            if when.tzinfo is None or not isinstance(stars, int) or isinstance(stars, bool) or when > now:
+                continue
+            valid.append((when, stars))
+        except (KeyError, ValueError, TypeError, AttributeError):
             continue
-    return None if not older else history[-1]["stars"] - max(older)[1]
+    baseline = [(when, stars) for when, stars in valid if when <= threshold]
+    current = [(when, stars) for when, stars in valid if when > threshold]
+    if not baseline or not current:
+        return None
+    return max(current)[1] - max(baseline)[1]
 
 def rank(repo):
     # Commit bursts are evidence of activity, not proportional evidence of
