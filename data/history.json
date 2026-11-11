@@ -83,6 +83,10 @@
     {
       "at": "2026-11-10T22:51:47Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 7
     }
   ],
   "Arienax/dsh-gxworks": [
@@ -167,6 +171,12 @@
       "stars": 39
     }
   ],
+  "Dolibarr/dolibarr": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 7850
+    }
+  ],
   "Efidripy/BlackHoleMemory": [
     {
       "at": "2026-11-05T05:15:02Z",
@@ -195,6 +205,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 109
+    }
+  ],
+  "FulopJozsi/QuorumAI": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 0
     }
   ],
   "GSD500BPO/gsd-open-ops": [
@@ -405,6 +421,12 @@
       "stars": 1
     }
   ],
+  "PotterSkxawng/chat-unleashed": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 1
+    }
+  ],
   "RdyGaming/hated-wow-mcp": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -499,6 +521,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 0
+    }
+  ],
+  "TruffleCraft/feedbackkit": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 1
     }
   ],
   "TulipFarm/tulipfarm": [
@@ -603,6 +631,12 @@
       "stars": 0
     }
   ],
+  "ashevchuk/personal-wiki": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 2
+    }
+  ],
   "asimfali/datum": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -619,6 +653,12 @@
     {
       "at": "2026-11-05T05:15:02Z",
       "stars": 71
+    }
+  ],
+  "balaena01/gguf-neuron-explorer": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 94
     }
   ],
   "beknownllc/the-marketing-vault-mcp": [
@@ -771,6 +811,12 @@
     {
       "at": "2026-11-07T04:45:19Z",
       "stars": 5
+    }
+  ],
+  "davidemoraschi/effective-telegram": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 0
     }
   ],
   "demi-sh/demi": [
@@ -995,6 +1041,12 @@
       "stars": 308
     }
   ],
+  "guru431/studio": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 0
+    }
+  ],
   "handaas/cloudmigration-skill": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1059,6 +1111,10 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 88
+    },
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 88
     }
   ],
   "incmak/tether": [
@@ -1103,10 +1159,22 @@
       "stars": 11
     }
   ],
+  "kamilkaczmareksolutions/polish-mcp-servers": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 0
+    }
+  ],
   "kanap-hq/KANAP": [
     {
       "at": "2026-11-07T21:28:23Z",
       "stars": 7
+    }
+  ],
+  "kartollikaa/telegram-plugin": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 0
     }
   ],
   "keenableai/keenable-grok-plugin": [
@@ -1119,6 +1187,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 5
+    }
+  ],
+  "langfuse/langfuse": [
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 37300
     }
   ],
   "lsfusion-solutions/mycompany": [
@@ -1301,6 +1375,10 @@
     {
       "at": "2026-11-10T01:12:50Z",
       "stars": 305
+    },
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 346
     }
   ],
   "opikdev/mcp-server-python-starter": [
@@ -1579,6 +1657,10 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 15550
+    },
+    {
+      "at": "2026-11-11T13:36:55Z",
+      "stars": 15669
     }
   ],
   "termenbox/termenbox": [
