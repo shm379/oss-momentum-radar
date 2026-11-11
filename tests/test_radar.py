@@ -23,6 +23,21 @@ class Tests(unittest.TestCase):
         self.assertEqual(radar.star_change([{"at": old, "stars": 12}, {"at": new, "stars": 15}], self.now), 3)
         self.assertIsNone(radar.star_change([{"at": new, "stars": 15}], self.now))
 
+    def test_star_growth_uses_chronological_samples_even_if_history_is_unsorted(self):
+        old = (self.now - timedelta(days=8)).isoformat()
+        new = self.now.isoformat()
+        self.assertEqual(radar.star_change([{"at": new, "stars": 15},
+                                            {"at": old, "stars": 12}], self.now), 3)
+
+    def test_star_growth_ignores_future_and_malformed_observations(self):
+        old = (self.now - timedelta(days=8)).isoformat()
+        new = self.now.isoformat()
+        future = (self.now + timedelta(days=1)).isoformat()
+        history = [{"at": old, "stars": 12}, {"at": new, "stars": 15},
+                   {"at": future, "stars": 999}, {"at": "bad", "stars": 5},
+                   {"at": new, "stars": "invalid"}]
+        self.assertEqual(radar.star_change(history, self.now), 3)
+
     def test_record_prunes_expired_history_for_undiscovered_repos(self):
         old = (self.now - timedelta(days=10)).isoformat()
         recent = (self.now - timedelta(days=2)).isoformat()
