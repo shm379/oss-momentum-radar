@@ -163,6 +163,12 @@
       "stars": 259
     }
   ],
+  "DeskLabs-OpenSource/DeskVoice": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 54
+    }
+  ],
   "DevNexsler/RAG-In-A-Box": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -513,6 +519,12 @@
       "stars": 0
     }
   ],
+  "SoulInfernoDE/gitswitch": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 0
+    }
+  ],
   "SplittingAtom/kobe": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -631,6 +643,12 @@
       "stars": 0
     }
   ],
+  "adamcfield/zoho-analytics-mcp-worker": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 1
+    }
+  ],
   "agent-labs-dev/mergeloop": [
     {
       "at": "2026-11-10T22:51:47Z",
@@ -641,6 +659,12 @@
     {
       "at": "2026-11-12T00:04:23Z",
       "stars": 107
+    }
+  ],
+  "airbytehq/airbyte": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 22369
     }
   ],
   "alfredang/AI-LMS-TMS": [
@@ -1179,6 +1203,10 @@
     {
       "at": "2026-11-12T00:04:23Z",
       "stars": 88
+    },
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 88
     }
   ],
   "incmak/tether": [
@@ -1190,6 +1218,12 @@
   "innotelinc/sage": [
     {
       "at": "2026-11-09T04:46:47Z",
+      "stars": 0
+    }
+  ],
+  "ivanmosetti07/AnoniMaiker": [
+    {
+      "at": "2026-11-12T14:40:30Z",
       "stars": 0
     }
   ],
@@ -1259,6 +1293,12 @@
       "stars": 37300
     }
   ],
+  "langgenius/dify": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 161045
+    }
+  ],
   "lsfusion-solutions/mycompany": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -1297,6 +1337,12 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 5
+    }
+  ],
+  "maleon17/telegram-ai-core": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 0
     }
   ],
   "markusweldon/cverdict": [
@@ -1469,6 +1515,12 @@
       "stars": 0
     }
   ],
+  "ortic/TaskCraft": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 1
+    }
+  ],
   "ouracli/oura": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -1539,6 +1591,12 @@
       "stars": 0
     }
   ],
+  "rivi-software/agentic-seo-check": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 2
+    }
+  ],
   "rizom-ai/brains": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -1591,6 +1649,12 @@
     {
       "at": "2026-11-04T10:02:27Z",
       "stars": 183
+    }
+  ],
+  "seung-gu/sgmcp": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 1
     }
   ],
   "shahmirdelfanazari/Microsoft-Exchange-2019-ON-Premises-Claude-MCP": [
@@ -1741,6 +1805,10 @@
     {
       "at": "2026-11-12T00:04:23Z",
       "stars": 15792
+    },
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 15926
     }
   ],
   "termenbox/termenbox": [
@@ -1807,6 +1875,12 @@
       "stars": 1
     }
   ],
+  "vapao/MinDeck": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 0
+    }
+  ],
   "vasdko4/universal-crm-ua": [
     {
       "at": "2026-11-08T21:41:49Z",
@@ -1821,6 +1895,10 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 1
     }
   ],
   "vslon/vslon_ae_mcp": [
@@ -1833,6 +1911,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 250
+    }
+  ],
+  "waddington/job-application-tracker": [
+    {
+      "at": "2026-11-12T14:40:30Z",
+      "stars": 13
     }
   ],
   "windy664/Ru41": [

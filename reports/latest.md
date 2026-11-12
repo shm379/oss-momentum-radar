@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-12 00:04
+Updated UTC: 2026-11-12 14:40
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 15792 | not yet measurable | Apache-2.0 |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | self hosted agent | 100+ | 107 | not yet measurable | AGPL-3.0 |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 15926 | 2173 | Apache-2.0 |
+| [langgenius/dify](https://github.com/langgenius/dify) | self hosted agent | 100+ | 161045 | not yet measurable | NOASSERTION |
+| [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | self hosted agent | 100+ | 22369 | not yet measurable | NOASSERTION |
 | [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 88 | not yet measurable | MIT |
-| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | 0 | LGPL-3.0 |
-| [ZacxDev/muster](https://github.com/ZacxDev/muster) | self hosted agent | 100+ | 2 | not yet measurable | MIT |
-| [courage-zen/excel-mcp](https://github.com/courage-zen/excel-mcp) | mcp server | 49 | 0 | not yet measurable | Apache-2.0 |
-| [ChefTaco/magnus](https://github.com/ChefTaco/magnus) | self hosted agent | 99 | 0 | not yet measurable | Apache-2.0 |
-| [mguttmann/bothy](https://github.com/mguttmann/bothy) | self hosted agent | 66 | 0 | not yet measurable | Apache-2.0 |
-| [Gekkotron/Nidoo](https://github.com/Gekkotron/Nidoo) | rust automation | 100+ | 0 | not yet measurable | Apache-2.0 |
-| [Lasqueti/vanquel-oss](https://github.com/Lasqueti/vanquel-oss) | self hosted agent | 29 | 0 | not yet measurable | AGPL-3.0 |
+| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | self hosted agent | 79 | 54 | not yet measurable | MIT |
+| [waddington/job-application-tracker](https://github.com/waddington/job-application-tracker) | open source CRM | 100+ | 13 | not yet measurable | Apache-2.0 |
+| [rivi-software/agentic-seo-check](https://github.com/rivi-software/agentic-seo-check) | mcp server | 93 | 2 | not yet measurable | MIT |
+| [veyndo/veyndo](https://github.com/veyndo/veyndo) | rust automation | 100+ | 1 | not yet measurable | NOASSERTION |
+| [ortic/TaskCraft](https://github.com/ortic/TaskCraft) | rust automation | 26 | 1 | not yet measurable | Apache-2.0 |
+| [vapao/MinDeck](https://github.com/vapao/MinDeck) | self hosted agent | 23 | 0 | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
