@@ -59,12 +59,14 @@ def record(history, repos, now):
     # Prune every key, not only repos seen in this run: search results rotate.
     for key in list(history):
         saved = []
-        for item in history[key]:
+        entries = history[key] if isinstance(history[key], list) else []
+        for item in entries:
             try:
                 date = datetime.fromisoformat(item["at"].replace("Z", "+00:00"))
-                if oldest <= date <= now:
+                # Naive timestamps have no reliable UTC meaning; discard them.
+                if date.tzinfo is not None and oldest <= date <= now:
                     saved.append(item)
-            except (KeyError, TypeError, ValueError):
+            except (KeyError, TypeError, ValueError, AttributeError):
                 pass
         if saved:
             history[key] = saved[-60:]
