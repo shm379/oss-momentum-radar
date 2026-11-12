@@ -87,6 +87,10 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 7
     }
   ],
   "Arienax/dsh-gxworks": [
@@ -118,6 +122,12 @@
   "Chat2AnyLLM/awesome-mcp-servers": [
     {
       "at": "2026-11-10T01:12:50Z",
+      "stars": 0
+    }
+  ],
+  "ChefTaco/magnus": [
+    {
+      "at": "2026-11-12T00:04:23Z",
       "stars": 0
     }
   ],
@@ -223,6 +233,10 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 0
     }
   ],
   "GetActionSpace/mcp-context-server": [
@@ -265,6 +279,12 @@
       "stars": 1
     }
   ],
+  "INTEVIA/money-s3-mcp-server": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 1
+    }
+  ],
   "InstinctBYTE/space-show": [
     {
       "at": "2026-11-10T01:12:50Z",
@@ -286,6 +306,12 @@
   "KooshaPari/kiro-adapters": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "Lasqueti/vanquel-oss": [
+    {
+      "at": "2026-11-12T00:04:23Z",
       "stars": 0
     }
   ],
@@ -439,6 +465,12 @@
       "stars": 0
     }
   ],
+  "RiDDiX/ulrmm": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 1
+    }
+  ],
   "Rirychh/revit-mcp": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -575,6 +607,10 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 2
+    },
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 2
     }
   ],
   "Zeitro/bluerate-api": [
@@ -601,10 +637,22 @@
       "stars": 6
     }
   ],
+  "agentes-chat/agentes-chat": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 107
+    }
+  ],
   "alfredang/AI-LMS-TMS": [
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 22
+    }
+  ],
+  "anshdhawann/hermes-manager": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 0
     }
   ],
   "answerLoops/answerLoops": [
@@ -677,6 +725,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 2
+    }
+  ],
+  "benjamin-di/signin-window": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 0
     }
   ],
   "bergaaberg/dovre": [
@@ -775,6 +829,12 @@
     {
       "at": "2026-11-04T09:58:48Z",
       "stars": 2
+    }
+  ],
+  "courage-zen/excel-mcp": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 0
     }
   ],
   "cplieger/marotte": [
@@ -1115,6 +1175,10 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 88
+    },
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 88
     }
   ],
   "incmak/tether": [
@@ -1285,6 +1349,12 @@
       "stars": 0
     }
   ],
+  "mguttmann/bothy": [
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 0
+    }
+  ],
   "mikimatsub/swsd-mcp": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -1364,6 +1434,12 @@
   "oneirum/aliquot": [
     {
       "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
+  "ooo-hq/zils-agent-skills": [
+    {
+      "at": "2026-11-12T00:04:23Z",
       "stars": 0
     }
   ],
@@ -1661,6 +1737,10 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 15669
+    },
+    {
+      "at": "2026-11-12T00:04:23Z",
+      "stars": 15792
     }
   ],
   "termenbox/termenbox": [
