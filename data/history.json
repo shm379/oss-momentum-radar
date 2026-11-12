@@ -39,6 +39,12 @@
       "stars": 0
     }
   ],
+  "AncientiCe/palace-rs": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 10
+    }
+  ],
   "Aquaticats/Monochromatic": [
     {
       "at": "2026-11-04T09:58:48Z",
@@ -469,6 +475,10 @@
     {
       "at": "2026-11-07T04:45:19Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 2
     }
   ],
   "RiDDiX/ulrmm": [
@@ -659,6 +669,10 @@
     {
       "at": "2026-11-12T00:04:23Z",
       "stars": 107
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 1146
     }
   ],
   "airbytehq/airbyte": [
@@ -727,10 +741,22 @@
       "stars": 71
     }
   ],
+  "autonomio/poise": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 0
+    }
+  ],
   "balaena01/gguf-neuron-explorer": [
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 94
+    }
+  ],
+  "beenuar/AiSOC": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 7493
     }
   ],
   "beknownllc/the-marketing-vault-mcp": [
@@ -1155,6 +1181,12 @@
       "stars": 0
     }
   ],
+  "harrylabsj/hermes-plugin-kiwi": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 0
+    }
+  ],
   "harshjeengar1408/highlevel-clone": [
     {
       "at": "2026-11-08T12:47:46Z",
@@ -1207,6 +1239,10 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 88
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 90
     }
   ],
   "incmak/tether": [
@@ -1224,6 +1260,12 @@
   "ivanmosetti07/AnoniMaiker": [
     {
       "at": "2026-11-12T14:40:30Z",
+      "stars": 0
+    }
+  ],
+  "ivannikolovbg/repull-mcp": [
+    {
+      "at": "2026-11-12T23:14:14Z",
       "stars": 0
     }
   ],
@@ -1249,6 +1291,12 @@
     {
       "at": "2026-11-05T05:15:02Z",
       "stars": 0
+    }
+  ],
+  "just-every/run-orbit": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 3
     }
   ],
   "justskill-ai/justskill-design": [
@@ -1348,6 +1396,10 @@
   "markusweldon/cverdict": [
     {
       "at": "2026-11-04T19:23:57Z",
+      "stars": 1
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
       "stars": 1
     }
   ],
@@ -1521,6 +1573,12 @@
       "stars": 1
     }
   ],
+  "osrim/voliere": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 1
+    }
+  ],
   "ouracli/oura": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -1540,6 +1598,10 @@
     },
     {
       "at": "2026-11-07T04:45:19Z",
+      "stars": 1
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
       "stars": 1
     }
   ],
@@ -1703,6 +1765,12 @@
       "stars": 11
     }
   ],
+  "slow-loop/hello-web-reader": [
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 0
+    }
+  ],
   "smokeysrh/bitcoin-solo-miner-monitor": [
     {
       "at": "2026-11-10T01:12:50Z",
@@ -1738,6 +1806,10 @@
     },
     {
       "at": "2026-11-06T13:46:47Z",
+      "stars": 3
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
       "stars": 3
     }
   ],
@@ -1809,6 +1881,10 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 15926
+    },
+    {
+      "at": "2026-11-12T23:14:14Z",
+      "stars": 15991
     }
   ],
   "termenbox/termenbox": [
