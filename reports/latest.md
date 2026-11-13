@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-13 13:57
+Updated UTC: 2026-11-13 23:16
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 16084 | 1842 | Apache-2.0 |
-| [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) | mcp server | 29 | 371 | not yet measurable | Apache-2.0 |
-| [waddington/job-application-tracker](https://github.com/waddington/job-application-tracker) | open source CRM | 100+ | 15 | not yet measurable | Apache-2.0 |
-| [thingery/thingery](https://github.com/thingery/thingery) | self hosted agent | 71 | 1 | not yet measurable | Apache-2.0 |
-| [Logical-Works-Inc/logicalworks-crates](https://github.com/Logical-Works-Inc/logicalworks-crates) | rust automation | 56 | 0 | not yet measurable | MPL-2.0 |
-| [tonyctalope/socle](https://github.com/tonyctalope/socle) | self hosted agent | 33 | 0 | not yet measurable | MIT |
-| [pgoell/kasten](https://github.com/pgoell/kasten) | self hosted agent | 100+ | 0 | not yet measurable | AGPL-3.0 |
-| [padmk/bruse](https://github.com/padmk/bruse) | mcp server | 23 | 1 | not yet measurable | MIT |
-| [benethos-hub/mailbox](https://github.com/benethos-hub/mailbox) | mcp server, self hosted agent | 21 | 3 | not yet measurable | MIT |
-| [ShohagkMohanta/mcp-bangladesh](https://github.com/ShohagkMohanta/mcp-bangladesh) | mcp server | 11 | 0 | not yet measurable | unverified |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 16151 | 1909 | Apache-2.0 |
+| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | mcp server | 100+ | 79 | 9 | NOASSERTION |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 100+ | 993 | not yet measurable | MIT |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | self hosted agent | 100+ | 667 | not yet measurable | NOASSERTION |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 91 | not yet measurable | MIT |
+| [electron-stagewright/electron-stagewright](https://github.com/electron-stagewright/electron-stagewright) | mcp server | 30 | 12 | not yet measurable | MIT |
+| [reliant-labs/forge](https://github.com/reliant-labs/forge) | mcp server | 100+ | 10 | not yet measurable | Apache-2.0 |
+| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | not yet measurable | LGPL-3.0 |
+| [autonomio/poise](https://github.com/autonomio/poise) | self hosted agent | 100+ | 0 | not yet measurable | MIT |
+| [smorand/mcp-htmleditor](https://github.com/smorand/mcp-htmleditor) | mcp server | 44 | 0 | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
