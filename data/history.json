@@ -149,6 +149,10 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 991
+    },
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 993
     }
   ],
   "Cognitohazard/ltspice-mcp": [
@@ -315,9 +319,21 @@
       "stars": 0
     }
   ],
+  "Kalmido/kalmido": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 0
+    }
+  ],
   "KooshaPari/kiro-adapters": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "Kx96xx/tshark-mcp": [
+    {
+      "at": "2026-11-13T05:11:57Z",
       "stars": 0
     }
   ],
@@ -456,6 +472,12 @@
   "Panchak2d/Aerini": [
     {
       "at": "2026-11-08T12:47:46Z",
+      "stars": 1
+    }
+  ],
+  "Pigeon-Home/homing-pigeon": [
+    {
+      "at": "2026-11-13T05:11:57Z",
       "stars": 1
     }
   ],
@@ -647,10 +669,22 @@
       "stars": 0
     }
   ],
+  "a2237837517/ops-hub": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 0
+    }
+  ],
   "abdou-rgd/caladrius": [
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 0
+    }
+  ],
+  "abhijeet-maharana/tara-agent": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 1
     }
   ],
   "adamcfield/zoho-analytics-mcp-worker": [
@@ -908,6 +942,12 @@
   "cyfrworks/cyfr": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "cynthiawang109-sudo/ai-workspace-kit": [
+    {
+      "at": "2026-11-13T05:11:57Z",
       "stars": 0
     }
   ],
@@ -1199,6 +1239,12 @@
       "stars": 0
     }
   ],
+  "hourmere/hourmere": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 0
+    }
+  ],
   "hproxy-com/free-proxy-list": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -1243,6 +1289,10 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 90
+    },
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 90
     }
   ],
   "incmak/tether": [
@@ -1267,6 +1317,12 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 0
+    }
+  ],
+  "jackson-cmd/zeus-options-terminal": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 18
     }
   ],
   "jeffton/kladde": [
@@ -1297,12 +1353,22 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 3
+    },
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 3
     }
   ],
   "justskill-ai/justskill-design": [
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 11
+    }
+  ],
+  "kajisho5/ffmpeg-skill": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 5319
     }
   ],
   "kamilkaczmareksolutions/polish-mcp-servers": [
@@ -1489,6 +1555,12 @@
       "stars": 2
     }
   ],
+  "mrfentmen/awesome-servers": [
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 0
+    }
+  ],
   "multica-ai/multica": [
     {
       "at": "2026-11-04T10:02:27Z",
@@ -1532,6 +1604,12 @@
   "oneirum/aliquot": [
     {
       "at": "2026-11-07T04:45:19Z",
+      "stars": 0
+    }
+  ],
+  "onstash/agent-cloud": [
+    {
+      "at": "2026-11-13T05:11:57Z",
       "stars": 0
     }
   ],
@@ -1885,6 +1963,10 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 15991
+    },
+    {
+      "at": "2026-11-13T05:11:57Z",
+      "stars": 16029
     }
   ],
   "termenbox/termenbox": [
