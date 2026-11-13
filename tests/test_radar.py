@@ -60,6 +60,25 @@ class Tests(unittest.TestCase):
         history = {"bad/repo": [{"stars": 3}, {"at": future, "stars": 4}]}
         self.assertEqual(radar.record(history, [], self.now), {})
 
+    def test_record_rejects_naive_timestamps_without_dropping_valid_samples(self):
+        recent = (self.now - timedelta(days=2)).isoformat()
+        history = {"mixed/repo": [
+            {"at": "2026-11-03T00:00:00", "stars": 1},
+            {"at": recent, "stars": 2},
+        ]}
+        result = radar.record(history, [], self.now)
+        self.assertEqual(result["mixed/repo"], [{"at": recent, "stars": 2}])
+
+    def test_record_ignores_malformed_history_containers_and_entries(self):
+        history = {"null/repo": None, "text/repo": "invalid",
+                   "mixed/repo": [None, 42, {"at": 123},
+                                  {"at": self.now.isoformat(), "stars": 3}]}
+        result = radar.record(history, [], self.now)
+        self.assertNotIn("null/repo", result)
+        self.assertNotIn("text/repo", result)
+        self.assertEqual(len(result["mixed/repo"]), 1)
+        self.assertEqual(result["mixed/repo"][0]["stars"], 3)
+
     def test_commit_counts_are_bounded_when_first_page_is_full(self):
         for count, expected in ((0, 0), (99, 99), (100, "100+")):
             def api(_endpoint):
