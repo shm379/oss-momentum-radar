@@ -101,12 +101,6 @@
       "stars": 7
     }
   ],
-  "Arienax/dsh-gxworks": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 1
-    }
-  ],
   "Bewinxed/cawco": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -217,12 +211,6 @@
       "stars": 7850
     }
   ],
-  "Efidripy/BlackHoleMemory": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 5
-    }
-  ],
   "EunhakChoi/artifree": [
     {
       "at": "2026-11-08T12:47:46Z",
@@ -250,12 +238,6 @@
   "FulopJozsi/QuorumAI": [
     {
       "at": "2026-11-11T13:36:55Z",
-      "stars": 0
-    }
-  ],
-  "GSD500BPO/gsd-open-ops": [
-    {
-      "at": "2026-11-05T05:15:02Z",
       "stars": 0
     }
   ],
@@ -339,9 +321,21 @@
       "stars": 0
     }
   ],
+  "JoKeks2023/huly-mcp": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 1
+    }
+  ],
   "Kalmido/kalmido": [
     {
       "at": "2026-11-13T05:11:57Z",
+      "stars": 0
+    }
+  ],
+  "KekcuHa/kimi-session-mcp": [
+    {
+      "at": "2026-11-14T12:59:16Z",
       "stars": 0
     }
   ],
@@ -393,12 +387,6 @@
       "stars": 0
     }
   ],
-  "MemTether/MemTether": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 1
-    }
-  ],
   "Miosa-osa/OptimalEngine": [
     {
       "at": "2026-11-10T22:51:47Z",
@@ -445,9 +433,9 @@
       "stars": 0
     }
   ],
-  "NoahLaHaise/stock-MCP": [
+  "NijoP/electronics-agent-kit-new-prototype": [
     {
-      "at": "2026-11-05T05:15:02Z",
+      "at": "2026-11-14T12:59:16Z",
       "stars": 0
     }
   ],
@@ -488,6 +476,10 @@
   "Pigeon-Home/homing-pigeon": [
     {
       "at": "2026-11-13T05:11:57Z",
+      "stars": 1
+    },
+    {
+      "at": "2026-11-14T12:59:16Z",
       "stars": 1
     }
   ],
@@ -544,10 +536,6 @@
     }
   ],
   "Servosity/msp-skills": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 70
-    },
     {
       "at": "2026-11-13T23:16:10Z",
       "stars": 79
@@ -643,12 +631,6 @@
       "stars": 17
     }
   ],
-  "Wildstone-Systems/wildstone-homelab": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 0
-    }
-  ],
   "Xustalis/OpenPanda": [
     {
       "at": "2026-11-11T04:49:23Z",
@@ -733,6 +715,10 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 1146
+    },
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 1367
     }
   ],
   "aignerdevelopment/harnessator": [
@@ -745,6 +731,12 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 22369
+    }
+  ],
+  "alexratmanpl/poland-transit-mcp": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 0
     }
   ],
   "alexseymer/Stackward": [
@@ -805,12 +797,6 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 73
-    }
-  ],
-  "atrislabs/atris": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 71
     }
   ],
   "autonomio/poise": [
@@ -895,6 +881,12 @@
       "stars": 26
     }
   ],
+  "brcampidelli/chimera-agent": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 29
+    }
+  ],
   "bry-guy/pi-web": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -929,12 +921,6 @@
     {
       "at": "2026-11-07T21:28:23Z",
       "stars": 2938
-    }
-  ],
-  "clawpage/aio-agent": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 0
     }
   ],
   "cleberreissosdocs/gobackup": [
@@ -1127,6 +1113,12 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 2
+    }
+  ],
+  "flisk-sh/flisk": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 45
     }
   ],
   "flokkit/apptown": [
@@ -1351,6 +1343,10 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 91
+    },
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 91
     }
   ],
   "incmak/tether": [
@@ -1387,18 +1383,6 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 3
-    }
-  ],
-  "jordiboehme/crystalline": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 17
-    }
-  ],
-  "jose-pr/ai6": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 0
     }
   ],
   "just-every/run-orbit": [
@@ -1447,6 +1431,12 @@
       "stars": 0
     }
   ],
+  "kennyL1692/mini-crm-plus-gsheet-db": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 0
+    }
+  ],
   "kironovlaziz-del/provenza": [
     {
       "at": "2026-11-08T12:47:46Z",
@@ -1463,6 +1453,12 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 161045
+    }
+  ],
+  "linkbreakers-com/agent-skills": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 0
     }
   ],
   "lsfusion-solutions/mycompany": [
@@ -1501,6 +1497,12 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 1
+    }
+  ],
+  "masa-med-ai/pubmed_mcp_server2": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 0
     }
   ],
   "mattoddie/unifi-mcp": [
@@ -1605,6 +1607,10 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 55340
+    },
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 56092
     }
   ],
   "nathwn12/oc-collections": [
@@ -1791,6 +1797,12 @@
       "stars": 911
     }
   ],
+  "samugit83/redamon": [
+    {
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 3395
+    }
+  ],
   "sandbox-quantum/switch": [
     {
       "at": "2026-11-05T14:02:03Z",
@@ -1941,17 +1953,7 @@
       "stars": 1
     }
   ],
-  "tako0614/takos-office": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 1
-    }
-  ],
   "tangency-labs/solidcraft": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 13753
-    },
     {
       "at": "2026-11-05T23:17:25Z",
       "stars": 14139
@@ -2011,12 +2013,10 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 16169
-    }
-  ],
-  "termenbox/termenbox": [
+    },
     {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 4
+      "at": "2026-11-14T12:59:16Z",
+      "stars": 16227
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -2141,12 +2141,6 @@
     {
       "at": "2026-11-13T13:57:34Z",
       "stars": 15
-    }
-  ],
-  "windy664/Ru41": [
-    {
-      "at": "2026-11-05T05:15:02Z",
-      "stars": 1
     }
   ],
   "xiechimon/cairn": [
