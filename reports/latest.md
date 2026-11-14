@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-14 12:59
+Updated UTC: 2026-11-14 21:59
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (7d) | Stars | Stars gained (7d) | License metadata |
 | --- | --- | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 16227 | 1985 | Apache-2.0 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | self hosted agent | 100+ | 56092 | not yet measurable | NOASSERTION |
 | [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 91 | 2 | MIT |
-| [samugit83/redamon](https://github.com/samugit83/redamon) | self hosted agent | 100+ | 3395 | not yet measurable | MIT |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | self hosted agent | 100+ | 1367 | not yet measurable | AGPL-3.0 |
-| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | mcp server | 100+ | 45 | not yet measurable | MIT |
-| [brcampidelli/chimera-agent](https://github.com/brcampidelli/chimera-agent) | self hosted agent | 65 | 29 | not yet measurable | Apache-2.0 |
-| [Pigeon-Home/homing-pigeon](https://github.com/Pigeon-Home/homing-pigeon) | self hosted agent | 100+ | 1 | not yet measurable | Apache-2.0 |
-| [JoKeks2023/huly-mcp](https://github.com/JoKeks2023/huly-mcp) | self hosted agent | 100+ | 1 | not yet measurable | EPL-2.0 |
-| [NijoP/electronics-agent-kit-new-prototype](https://github.com/NijoP/electronics-agent-kit-new-prototype) | rust automation | 24 | 0 | not yet measurable | Apache-2.0 |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | self hosted agent | 100+ | 1395 | not yet measurable | AGPL-3.0 |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | self hosted agent | 100+ | 860 | not yet measurable | NOASSERTION |
+| [j0hanz/filesystem-mcp](https://github.com/j0hanz/filesystem-mcp) | mcp server | 100+ | 32 | not yet measurable | MIT |
+| [BetaNYC/New-York-City-Budget](https://github.com/BetaNYC/New-York-City-Budget) | mcp server | 100+ | 19 | not yet measurable | NOASSERTION |
+| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 7 | 0 | LGPL-3.0 |
+| [cyberducttape/wayexpand](https://github.com/cyberducttape/wayexpand) | rust automation | 100+ | 6 | 0 | MIT |
+| [saiidz/solvelang](https://github.com/saiidz/solvelang) | rust automation | 100+ | 1 | not yet measurable | MIT |
+| [sarthakdev143-lite/toolwarden](https://github.com/sarthakdev143-lite/toolwarden) | mcp server | 100+ | 1 | not yet measurable | MIT |
+| [rhnfzl/agent-usage-tracker](https://github.com/rhnfzl/agent-usage-tracker) | self hosted agent | 42 | 1 | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

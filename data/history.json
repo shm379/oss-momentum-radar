@@ -5,6 +5,12 @@
       "stars": 0
     }
   ],
+  "0xroots/imessage-mcp": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 0
+    }
+  ],
   "12burb/pdf2openapi": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -99,6 +105,16 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 7
+    }
+  ],
+  "BetaNYC/New-York-City-Budget": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 19
     }
   ],
   "Bewinxed/cawco": [
@@ -264,6 +280,12 @@
     },
     {
       "at": "2026-11-10T14:23:20Z",
+      "stars": 0
+    }
+  ],
+  "Handigraphs/handigraphs-stats-api-mcp": [
+    {
+      "at": "2026-11-14T21:59:14Z",
       "stars": 0
     }
   ],
@@ -451,12 +473,6 @@
       "stars": 0
     }
   ],
-  "OmerTurkenits/flownav": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 1
-    }
-  ],
   "Oshyan/better-cal": [
     {
       "at": "2026-11-05T23:17:25Z",
@@ -571,12 +587,6 @@
       "stars": 0
     }
   ],
-  "StepFunctionLLC/mcp-server-cantera": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 5
-    }
-  ],
   "StoryFunnels/storyOS": [
     {
       "at": "2026-11-10T01:12:50Z",
@@ -599,6 +609,10 @@
     {
       "at": "2026-11-13T23:16:10Z",
       "stars": 667
+    },
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 860
     }
   ],
   "The1UNeed/hexbot": [
@@ -719,6 +733,10 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 1367
+    },
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 1395
     }
   ],
   "aignerdevelopment/harnessator": [
@@ -751,6 +769,12 @@
       "stars": 22
     }
   ],
+  "andrey-usa/navigera": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 0
+    }
+  ],
   "anshdhawann/hermes-manager": [
     {
       "at": "2026-11-12T00:04:23Z",
@@ -766,12 +790,6 @@
   "arilumbudeta/edlink-mcp": [
     {
       "at": "2026-11-08T21:41:49Z",
-      "stars": 0
-    }
-  ],
-  "arsmith0922/listing-lens": [
-    {
-      "at": "2026-11-05T14:02:03Z",
       "stars": 0
     }
   ],
@@ -905,12 +923,6 @@
       "stars": 3
     }
   ],
-  "cempack/facteur": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 0
-    }
-  ],
   "chedong/phpman": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -963,6 +975,10 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 6
+    },
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 6
     }
   ],
   "cyfrworks/cyfr": [
@@ -993,12 +1009,6 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 0
-    }
-  ],
-  "demi-sh/demi": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 26
     }
   ],
   "desktopmachineshop/OpenV": [
@@ -1159,10 +1169,6 @@
   ],
   "generalbots/generalbots": [
     {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 96
-    },
-    {
       "at": "2026-11-05T23:17:25Z",
       "stars": 96
     },
@@ -1177,6 +1183,12 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 97
+    }
+  ],
+  "georgecejr/hermes-agent-security-automation-lab": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 0
     }
   ],
   "gfx-labs/jobshop": [
@@ -1347,12 +1359,10 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 91
-    }
-  ],
-  "incmak/tether": [
+    },
     {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 0
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 91
     }
   ],
   "innotelinc/sage": [
@@ -1371,6 +1381,12 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 0
+    }
+  ],
+  "j0hanz/filesystem-mcp": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 32
     }
   ],
   "jackson-cmd/zeus-options-terminal": [
@@ -1443,6 +1459,12 @@
       "stars": 5
     }
   ],
+  "kmanisk/bridge-dev": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 0
+    }
+  ],
   "langfuse/langfuse": [
     {
       "at": "2026-11-11T13:36:55Z",
@@ -1459,12 +1481,6 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 0
-    }
-  ],
-  "lsfusion-solutions/mycompany": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 370
     }
   ],
   "luckyzifan/futureox-design-editor": [
@@ -1555,12 +1571,6 @@
       "stars": 0
     }
   ],
-  "mikimatsub/swsd-mcp": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 4
-    }
-  ],
   "mindroom-ai/mindroom": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -1629,12 +1639,6 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 269
-    }
-  ],
-  "nydiokar/AI-team": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 0
     }
   ],
   "oneirum/aliquot": [
@@ -1767,6 +1771,12 @@
       "stars": 10
     }
   ],
+  "rhnfzl/agent-usage-tracker": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 1
+    }
+  ],
   "rishi12438/hearth": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1797,16 +1807,16 @@
       "stars": 911
     }
   ],
+  "saiidz/solvelang": [
+    {
+      "at": "2026-11-14T21:59:14Z",
+      "stars": 1
+    }
+  ],
   "samugit83/redamon": [
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 3395
-    }
-  ],
-  "sandbox-quantum/switch": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 3899
     }
   ],
   "sandrpod/sandrpod": [
@@ -1818,6 +1828,12 @@
   "sapientsai/openfda-mcp-server": [
     {
       "at": "2026-11-08T21:41:49Z",
+      "stars": 1
+    }
+  ],
+  "sarthakdev143-lite/toolwarden": [
+    {
+      "at": "2026-11-14T21:59:14Z",
       "stars": 1
     }
   ],
@@ -1842,12 +1858,6 @@
   "shahmirdelfanazari/Microsoft-Exchange-2019-ON-Premises-Claude-MCP": [
     {
       "at": "2026-11-10T14:23:20Z",
-      "stars": 0
-    }
-  ],
-  "shaikbasha1437/meetminder-ai": [
-    {
-      "at": "2026-11-05T14:02:03Z",
       "stars": 0
     }
   ],
@@ -1915,12 +1925,6 @@
       "stars": 0
     }
   ],
-  "summerdawn-ai/mcpifier": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 2
-    }
-  ],
   "sympoies/nils-cli": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1944,12 +1948,6 @@
   "tadasant/zimmer": [
     {
       "at": "2026-11-06T22:44:17Z",
-      "stars": 1
-    }
-  ],
-  "tailrocks/ruxel": [
-    {
-      "at": "2026-11-05T14:02:03Z",
       "stars": 1
     }
   ],
@@ -2087,12 +2085,6 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 0
-    }
-  ],
-  "undivisible/rs_peekaboo": [
-    {
-      "at": "2026-11-05T14:02:03Z",
-      "stars": 1
     }
   ],
   "vapao/MinDeck": [
