@@ -27,12 +27,6 @@
       "stars": 5
     }
   ],
-  "AXIOVEX/syncyard": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 1
-    }
-  ],
   "AgentTools-Cloud/agent-tools-gemini": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -109,6 +103,10 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 7
     }
   ],
   "BetaNYC/New-York-City-Budget": [
@@ -167,6 +165,12 @@
       "stars": 993
     }
   ],
+  "ClickHouse/loom": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 68
+    }
+  ],
   "Cognitohazard/ltspice-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -189,12 +193,6 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 24
-    }
-  ],
-  "DMontgomery40/mcp-3D-printer-server": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 259
     }
   ],
   "DeskLabs-OpenSource/DeskVoice": [
@@ -427,12 +425,6 @@
       "stars": 1
     }
   ],
-  "Mubder/kazma": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 10
-    }
-  ],
   "MustCodeAl/seleniumbase-rs": [
     {
       "at": "2026-11-08T21:41:49Z",
@@ -449,21 +441,9 @@
       "stars": 232
     }
   ],
-  "NebuloK/s02e03-mcp-server": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 0
-    }
-  ],
   "NijoP/electronics-agent-kit-new-prototype": [
     {
       "at": "2026-11-14T12:59:16Z",
-      "stars": 0
-    }
-  ],
-  "Nulladrift/nulladrift": [
-    {
-      "at": "2026-11-05T23:17:25Z",
       "stars": 0
     }
   ],
@@ -474,10 +454,6 @@
     }
   ],
   "Oshyan/better-cal": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 2
-    },
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 2
@@ -503,6 +479,12 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 1
+    }
+  ],
+  "Preetish/switchboard": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 3
     }
   ],
   "RdyGaming/hated-wow-mcp": [
@@ -682,6 +664,12 @@
   "Zeitro/bluerate-api": [
     {
       "at": "2026-11-10T01:12:50Z",
+      "stars": 0
+    }
+  ],
+  "ZengXingCun/mobile-ai-host": [
+    {
+      "at": "2026-11-15T04:54:43Z",
       "stars": 0
     }
   ],
@@ -879,12 +867,6 @@
       "stars": 2
     }
   ],
-  "bivysh/bivy": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 2
-    }
-  ],
   "blackwell-systems/mcp-assert": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -1011,12 +993,6 @@
       "stars": 0
     }
   ],
-  "desktopmachineshop/OpenV": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 1
-    }
-  ],
   "dev-universe/fender-studio-pro-mcp": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1063,12 +1039,6 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 2
-    }
-  ],
-  "elgorro/aiquila": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 39
     }
   ],
   "epatel/ai-health": [
@@ -1169,10 +1139,6 @@
   ],
   "generalbots/generalbots": [
     {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 96
-    },
-    {
       "at": "2026-11-06T22:44:17Z",
       "stars": 97
     },
@@ -1195,6 +1161,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 3
+    }
+  ],
+  "ginutgeorge-Aus/parishcrm": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 1
     }
   ],
   "gptnius/hermes-crm": [
@@ -1363,6 +1335,10 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 91
+    },
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 91
     }
   ],
   "innotelinc/sage": [
@@ -1415,6 +1391,12 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 11
+    }
+  ],
+  "k-k1/agent-fleet": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 9
     }
   ],
   "kajisho5/ffmpeg-skill": [
@@ -1497,6 +1479,12 @@
       "stars": 7
     }
   ],
+  "madhu-zuuz51/zuuz-mcp": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 0
+    }
+  ],
   "maksugr/acp-devtools": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -1551,6 +1539,10 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 5344
+    },
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 5418
     }
   ],
   "metaspartan/homebrew-cybara": [
@@ -1581,12 +1573,6 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 554
-    }
-  ],
-  "mkuf/TrainingPulse": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 0
     }
   ],
   "momcrm/momcrm": [
@@ -1627,12 +1613,6 @@
     {
       "at": "2026-11-10T22:51:47Z",
       "stars": 0
-    }
-  ],
-  "nedonatelli/sidecar": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 8
     }
   ],
   "nirholas/three.ws": [
@@ -1759,12 +1739,6 @@
       "stars": 17
     }
   ],
-  "relaticle/relaticle": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 1812
-    }
-  ],
   "reliant-labs/forge": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -1811,6 +1785,10 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 1
     }
   ],
   "samugit83/redamon": [
@@ -1855,6 +1833,12 @@
       "stars": 1
     }
   ],
+  "sfls1397/Apple-Tools-MCP": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 0
+    }
+  ],
   "shahmirdelfanazari/Microsoft-Exchange-2019-ON-Premises-Claude-MCP": [
     {
       "at": "2026-11-10T14:23:20Z",
@@ -1870,6 +1854,12 @@
   "shlim-t/labview-mcp": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "sickhye/agents-agora": [
+    {
+      "at": "2026-11-15T04:54:43Z",
       "stars": 0
     }
   ],
@@ -1939,9 +1929,9 @@
       "stars": 3
     }
   ],
-  "synchronicity-labs/mcp-server": [
+  "szl-holdings/hatun-mcp": [
     {
-      "at": "2026-11-05T23:17:25Z",
+      "at": "2026-11-15T04:54:43Z",
       "stars": 1
     }
   ],
@@ -1952,10 +1942,6 @@
     }
   ],
   "tangency-labs/solidcraft": [
-    {
-      "at": "2026-11-05T23:17:25Z",
-      "stars": 14139
-    },
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 14242
@@ -2020,6 +2006,12 @@
   "thanhdatpb/Listing-Guard": [
     {
       "at": "2026-11-11T04:49:23Z",
+      "stars": 0
+    }
+  ],
+  "theabbie/tailshell": [
+    {
+      "at": "2026-11-15T04:54:43Z",
       "stars": 0
     }
   ],
@@ -2161,6 +2153,12 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 0
+    }
+  ],
+  "zovulrira1974/blender-ai-copilot-assets": [
+    {
+      "at": "2026-11-15T04:54:43Z",
+      "stars": 383
     }
   ]
 }
