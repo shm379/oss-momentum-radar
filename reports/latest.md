@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-15 13:28
+Updated UTC: 2026-11-15 22:29
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | open source CRM | 100+ | 100+ | 100+ | 5420 | 76 | 152 | not yet measurable | MIT |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 20 | 100+ | 100+ | 997 | 4 | 8 | not yet measurable | MIT |
 | [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 100+ | 100+ | 100+ | 92 | 1 | 3 | not yet measurable | MIT |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | self hosted agent | 22 | 100+ | 100+ | 56171 | 79 | not yet measurable | not yet measurable | NOASSERTION |
-| [kstevica/captain-claw](https://github.com/kstevica/captain-claw) | self hosted agent | 78 | 100+ | 100+ | 196 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [florinel-chis/GopherCRM](https://github.com/florinel-chis/GopherCRM) | open source CRM | 6 | 32 | 100+ | 26 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [waddington/job-application-tracker](https://github.com/waddington/job-application-tracker) | open source CRM | 40 | 100+ | 100+ | 15 | 0 | not yet measurable | not yet measurable | Apache-2.0 |
+| [generalbots/generalbots](https://github.com/generalbots/generalbots) | open source CRM | 67 | 100+ | 100+ | 98 | 1 | 1 | not yet measurable | MIT |
+| [atomantic/PortOS](https://github.com/atomantic/PortOS) | self hosted agent | 100+ | 100+ | 100+ | 74 | 1 | not yet measurable | not yet measurable | MIT |
+| [discostu105/lox](https://github.com/discostu105/lox) | mcp server | 50 | 69 | 100+ | 40 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
 | [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 100+ | 100+ | 100+ | 7 | 0 | 0 | not yet measurable | LGPL-3.0 |
-| [dimakis/mitzo](https://github.com/dimakis/mitzo) | self hosted agent | 8 | 79 | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [sentienceAdjacent/onenote-mcp](https://github.com/sentienceAdjacent/onenote-mcp) | mcp server | 33 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [emreocell/Praxi-Bot](https://github.com/emreocell/Praxi-Bot) | rust automation | 97 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [kiff/planque](https://github.com/kiff/planque) | self hosted agent | 22 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [spietrza/taskcell](https://github.com/spietrza/taskcell) | self hosted agent | 72 | 100+ | 100+ | 5 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [sumioshi/wacrew](https://github.com/sumioshi/wacrew) | open source CRM | 2 | 34 | 85 | 4 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [aleskalfas/project-kit](https://github.com/aleskalfas/project-kit) | self hosted agent | 15 | 100+ | 100+ | 2 | not yet measurable | not yet measurable | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

@@ -111,6 +111,10 @@
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 7
     }
   ],
   "BetaNYC/New-York-City-Budget": [
@@ -167,6 +171,10 @@
     {
       "at": "2026-11-13T23:16:10Z",
       "stars": 993
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 997
     }
   ],
   "ClickHouse/loom": [
@@ -743,6 +751,12 @@
       "stars": 22369
     }
   ],
+  "aleskalfas/project-kit": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 2
+    }
+  ],
   "alexratmanpl/poland-transit-mcp": [
     {
       "at": "2026-11-14T12:59:16Z",
@@ -807,6 +821,10 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 73
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 74
     }
   ],
   "autonomio/poise": [
@@ -895,6 +913,12 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 0
+    }
+  ],
+  "bykarantelicom/bykaranteli-mcp": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 2
     }
   ],
   "ccfos/nightingale": [
@@ -1021,6 +1045,12 @@
       "stars": 1
     }
   ],
+  "discostu105/lox": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 40
+    }
+  ],
   "dizzlkheinz/ynab-mcpb": [
     {
       "at": "2026-11-07T21:28:23Z",
@@ -1043,6 +1073,12 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 7
+    }
+  ],
+  "edddh/voxlyne": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 0
     }
   ],
   "electron-stagewright/electron-stagewright": [
@@ -1183,6 +1219,10 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 97
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 98
     }
   ],
   "georgecejr/hermes-agent-security-automation-lab": [
@@ -1376,6 +1416,10 @@
     },
     {
       "at": "2026-11-15T13:28:04Z",
+      "stars": 92
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
       "stars": 92
     }
   ],
@@ -1593,6 +1637,10 @@
     {
       "at": "2026-11-15T04:54:43Z",
       "stars": 5418
+    },
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 5420
     }
   ],
   "metaspartan/homebrew-cybara": [
@@ -1673,6 +1721,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 269
+    }
+  ],
+  "nri99/aerolith-agent": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 0
     }
   ],
   "oneirum/aliquot": [
@@ -1929,6 +1983,12 @@
       "stars": 2
     }
   ],
+  "shinobi81/fusion360-mcp-server": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 0
+    }
+  ],
   "shlim-t/labview-mcp": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1981,6 +2041,12 @@
       "stars": 0
     }
   ],
+  "spietrza/taskcell": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 5
+    }
+  ],
   "spore-host/spore-host-mcp": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -1991,6 +2057,12 @@
     {
       "at": "2026-11-10T22:51:47Z",
       "stars": 0
+    }
+  ],
+  "sumioshi/wacrew": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 4
     }
   ],
   "sympoies/nils-cli": [
@@ -2167,6 +2239,12 @@
     {
       "at": "2026-11-08T21:41:49Z",
       "stars": 0
+    }
+  ],
+  "vaugouin/fastapi-text2sql": [
+    {
+      "at": "2026-11-15T22:29:40Z",
+      "stars": 1
     }
   ],
   "veyndo/veyndo": [
