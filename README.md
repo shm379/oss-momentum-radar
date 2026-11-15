@@ -11,9 +11,10 @@ MIT-licensed. No subscription, paid model, credit card, or third-party service r
 ## What it measures
 
 - **Recent activity:** GitHub repositories with pushes in the past 14 days.
-- **Maintenance momentum:** public commits in the last seven days, even for small projects.
-- **Burst-resistant ranking:** commit contributions have diminishing returns, capped after 30 weekly commits; raw activity is not proof of sustained maintenance.
-- **Real star growth:** only calculated once seven days of past samples exist (never invented).
+- **Multi-window maintenance momentum:** public commits in the last 24 hours, 7 days, and 30 days, sampled from one 30-day API page per repository.
+- **Bounded counts:** 100+ is an explicit lower bound when the GitHub API page is full; it is never presented as an exact count.
+- **Burst-resistant ranking:** the 7-day commit contribution has diminishing returns and is capped after 30 commits; raw activity is not proof of sustained maintenance.
+- **Real star growth:** 24-hour, 7-day, and 30-day deltas are calculated only when saved observations cover the full window. The 30-day value remains unavailable until 30 days of history accumulate.
 - **License metadata:** flags unknown SPDX data for manual review.
 - **Ranked shortlist:** saves a Markdown report and a compact history file.
 
@@ -35,7 +36,7 @@ Customize topics and sample size:
 python3 radar.py --topic "mcp server" --topic "rust automation" --limit 8 --top 5
 ```
 
-No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional `GITHUB_TOKEN` or reduce `--limit`. The workflow updates every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits. Scheduled jobs can be delayed.
+No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional `GITHUB_TOKEN` or reduce `--limit`. The workflow updates every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits. Scheduled jobs can be delayed. Pull requests run the unit-test job with read-only repository permissions; report updates run only for scheduled/manual executions on main.
 
 ## Contributing
 
