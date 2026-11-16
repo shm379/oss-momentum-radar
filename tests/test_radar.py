@@ -22,25 +22,58 @@ class Tests(unittest.TestCase):
                            radar.rank({"commits_7d": 0, "stargazers_count": 3000}))
 
     def test_star_growth_requires_history(self):
-        old = (self.now - timedelta(days=8)).isoformat()
+        old = (self.now - timedelta(days=7, hours=6)).isoformat()
         new = self.now.isoformat()
         self.assertEqual(radar.star_change([{"at": old, "stars": 12}, {"at": new, "stars": 15}], self.now), 3)
         self.assertIsNone(radar.star_change([{"at": new, "stars": 15}], self.now))
 
     def test_star_growth_uses_chronological_samples_even_if_history_is_unsorted(self):
-        old = (self.now - timedelta(days=8)).isoformat()
+        old = (self.now - timedelta(days=7, hours=6)).isoformat()
         new = self.now.isoformat()
         self.assertEqual(radar.star_change([{"at": new, "stars": 15},
                                             {"at": old, "stars": 12}], self.now), 3)
 
     def test_star_growth_ignores_future_and_malformed_observations(self):
-        old = (self.now - timedelta(days=8)).isoformat()
+        old = (self.now - timedelta(days=7, hours=6)).isoformat()
         new = self.now.isoformat()
         future = (self.now + timedelta(days=1)).isoformat()
         history = [{"at": old, "stars": 12}, {"at": new, "stars": 15},
                    {"at": future, "stars": 999}, {"at": "bad", "stars": 5},
                    {"at": new, "stars": "invalid"}]
         self.assertEqual(radar.star_change(history, self.now), 3)
+
+    def test_star_growth_rejects_stale_baseline_for_24h_window(self):
+        old = (self.now - timedelta(days=5)).isoformat()
+        new = self.now.isoformat()
+        self.assertIsNone(
+            radar.star_change(
+                [{"at": old, "stars": 12}, {"at": new, "stars": 15}],
+                self.now,
+                days=1,
+            )
+        )
+
+    def test_star_growth_rejects_stale_baseline_for_7d_window(self):
+        old = (self.now - timedelta(days=8)).isoformat()
+        new = self.now.isoformat()
+        self.assertIsNone(
+            radar.star_change(
+                [{"at": old, "stars": 12}, {"at": new, "stars": 15}],
+                self.now,
+                days=7,
+            )
+        )
+
+    def test_star_growth_rejects_baseline_older_than_31d_for_30d_window(self):
+        old = (self.now - timedelta(days=32)).isoformat()
+        new = self.now.isoformat()
+        self.assertIsNone(
+            radar.star_change(
+                [{"at": old, "stars": 20}, {"at": new, "stars": 26}],
+                self.now,
+                days=30,
+            )
+        )
 
     def test_record_prunes_expired_history_for_undiscovered_repos(self):
         old = (self.now - timedelta(days=32)).isoformat()

@@ -15,7 +15,7 @@ MIT-licensed. No subscription, paid model, credit card, or third-party service r
 - **Multi-window maintenance momentum:** public commits in the last 24 hours, 7 days, and 30 days, sampled from one 30-day API page per repository.
 - **Bounded counts:** 100+ is an explicit lower bound when the GitHub API page is full; it is never presented as an exact count.
 - **Burst-resistant ranking:** the 7-day commit contribution has diminishing returns and is capped after 30 commits; raw activity is not proof of sustained maintenance.
-- **Real star growth:** 24-hour, 7-day, and 30-day deltas are calculated only when saved observations cover the full window. The 30-day value remains unavailable until 30 days of history accumulate.
+- **Real star growth:** 24-hour and 7-day deltas require a baseline within 12 hours of the window boundary; 30-day deltas allow a one-day sampling tolerance. Longer gaps are reported as not yet measurable instead of being mislabeled as shorter-window growth. The 30-day value remains unavailable until enough history accumulates.
 - **License metadata:** flags unknown SPDX data for manual review.
 - **Ranked shortlist:** saves a Markdown report and a compact history file.
 
