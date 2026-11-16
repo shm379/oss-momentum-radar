@@ -27,6 +27,12 @@
       "stars": 5
     }
   ],
+  "AIpRoBuilder/FlowX": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 203
+    }
+  ],
   "AgentTools-Cloud/agent-tools-gemini": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -239,6 +245,10 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 7850
+    },
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 7875
     }
   ],
   "EunhakChoi/artifree": [
@@ -433,6 +443,12 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 1
+    }
+  ],
+  "Martynez99/nexus-flow": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
     }
   ],
   "Miosa-osa/OptimalEngine": [
@@ -651,6 +667,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 12
+    }
+  ],
+  "UFCalendar/fight-api-skill": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
     }
   ],
   "UpstageAI/korean-report-hwpx": [
@@ -959,10 +981,22 @@
       "stars": 1
     }
   ],
+  "chrismsmr-celcom/cerbere-cohort": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 1
+    }
+  ],
   "chrisryugj/kordoc": [
     {
       "at": "2026-11-07T21:28:23Z",
       "stars": 2938
+    }
+  ],
+  "cirwel/unitares": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 6
     }
   ],
   "cleberreissosdocs/gobackup": [
@@ -1083,6 +1117,12 @@
       "stars": 2
     }
   ],
+  "docteurzoidberg/circuit-studio-agent-kit": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
+    }
+  ],
   "duketopceo/tallyline": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1099,6 +1139,12 @@
     {
       "at": "2026-11-15T22:29:40Z",
       "stars": 0
+    }
+  ],
+  "elcoosp/takumi-motion": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 1
     }
   ],
   "electron-stagewright/electron-stagewright": [
@@ -1581,6 +1627,10 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 37300
+    },
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 37493
     }
   ],
   "langgenius/dify": [
@@ -1709,6 +1759,12 @@
       "stars": 0
     }
   ],
+  "migl06/penclone": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
+    }
+  ],
   "mindroom-ai/mindroom": [
     {
       "at": "2026-11-08T04:35:18Z",
@@ -1817,6 +1873,12 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 346
+    }
+  ],
+  "openartifact/openartifact-agent-plugin": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
     }
   ],
   "opikdev/mcp-server-python-starter": [
@@ -1951,6 +2013,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 911
+    }
+  ],
+  "ryuzcorp/noite": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 37
     }
   ],
   "saiidz/solvelang": [
@@ -2213,6 +2281,10 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 16538
+    },
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 16615
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -2315,6 +2387,12 @@
       "stars": 1
     }
   ],
+  "vdeabreu/bring-mcp": [
+    {
+      "at": "2026-11-16T14:52:06Z",
+      "stars": 0
+    }
+  ],
   "veyndo/veyndo": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -2352,6 +2430,10 @@
     },
     {
       "at": "2026-11-15T13:28:04Z",
+      "stars": 15
+    },
+    {
+      "at": "2026-11-16T14:52:06Z",
       "stars": 15
     }
   ],
