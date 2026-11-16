@@ -2,7 +2,7 @@
 
 Updated UTC: 2026-11-16 14:52
 
-Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
+Recent commits indicate activity, **not** a guarantee of quality. Star growth is shown only when a baseline observation is close enough to the requested window; stale gaps are not relabeled as 24h/7d/30d growth.
 
 | Repository | Search topics | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
@@ -20,7 +20,7 @@ Recent commits indicate activity, **not** a guarantee of quality. Star growth is
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
 - Commit counts are bounded to the first 100 results per repository; 100+ is a lower bound, not an exact count.
-- Star deltas need saved observations at least as old as each window; 30-day star growth is unavailable until 30 days of history accumulate.
+- Star deltas require a baseline within 12 hours of the 24h/7d boundary or one day of the 30d boundary; larger sampling gaps are reported as not yet measurable.
 - GitHub API rate limits and scheduled workflow delays may apply.
 - Review project LICENSE, CI, maintainer responsiveness, and security before adopting.
 - No paid model or third-party key required. An optional GitHub token raises rate limits.
