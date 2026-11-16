@@ -10,6 +10,7 @@ MIT-licensed. No subscription, paid model, credit card, or third-party service r
 
 ## What it measures
 
+- **Discovery coverage:** default searches include MCP servers, Rust automation, self-hosted agents, open-source CRM, agent coordination, and self-hosted PaaS.
 - **Recent activity:** GitHub repositories with pushes in the past 14 days.
 - **Multi-window maintenance momentum:** public commits in the last 24 hours, 7 days, and 30 days, sampled from one 30-day API page per repository.
 - **Bounded counts:** 100+ is an explicit lower bound when the GitHub API page is full; it is never presented as an exact count.

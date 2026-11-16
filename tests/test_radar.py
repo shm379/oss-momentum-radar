@@ -6,6 +6,10 @@ class Tests(unittest.TestCase):
     def setUp(self):
         self.now = datetime(2026, 11, 4, tzinfo=timezone.utc)
 
+    def test_default_topics_cover_agent_coordination_and_self_hosted_paas(self):
+        self.assertIn("agent coordination", radar.TOPICS)
+        self.assertIn("self hosted paas", radar.TOPICS)
+
     def test_duplicate_results_merge_topic_names(self):
         def api(_):
             return {"items": [{"full_name": "x/y", "archived": False, "fork": False}]}
