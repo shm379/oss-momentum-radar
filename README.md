@@ -37,7 +37,7 @@ Customize topics and sample size:
 python3 radar.py --topic "mcp server" --topic "rust automation" --limit 8 --top 5
 ```
 
-No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional `GITHUB_TOKEN` or reduce `--limit`. The workflow updates every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits. Scheduled jobs can be delayed. Pull requests run the unit-test job with read-only repository permissions; report updates run only for scheduled/manual executions on main.
+No personal token is necessary for the default small sample. If you hit GitHub API limits, set your own optional `GITHUB_TOKEN` or reduce `--limit`. A scheduled workflow updates the report every six hours using a free standard runner for public repositories, subject to GitHub's platform policies and limits; scheduled jobs can be delayed. A separate CI workflow runs the unit tests on pull requests and pushes to main with read-only repository permissions. Only the scheduled/manual report workflow receives contents-write permission.
 
 ## Contributing
 
