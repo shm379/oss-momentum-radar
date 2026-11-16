@@ -117,8 +117,11 @@ def record(history, repos, now):
     return history
 
 def star_change(history, now, days=7):
-    """Compare the latest valid observation to the nearest observation at least days old."""
+    """Compare the latest sample with a baseline close to the requested window."""
     threshold = now - timedelta(days=days)
+    # The radar runs every six hours. Allow two missed samples for 24h/7d
+    # windows, and one day for the 30d window (history is retained for 31d).
+    max_lag = timedelta(hours=12) if days <= 7 else timedelta(days=1)
     valid = []
     for entry in history:
         try:
@@ -129,12 +132,11 @@ def star_change(history, now, days=7):
             valid.append((when, stars))
         except (KeyError, ValueError, TypeError, AttributeError):
             continue
-    baseline = [(when, stars) for when, stars in valid if when <= threshold]
+    baseline = [(when, stars) for when, stars in valid if threshold - max_lag <= when <= threshold]
     current = [(when, stars) for when, stars in valid if when > threshold]
     if not baseline or not current:
         return None
     return max(current)[1] - max(baseline)[1]
-
 def rank(repo):
     # Commit bursts are evidence of activity, not proportional evidence of
     # maintenance quality. Cap the contribution to avoid 100+ commits swamping
