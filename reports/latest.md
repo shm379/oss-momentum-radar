@@ -6,11 +6,11 @@ Recent commits indicate activity, **not** a guarantee of quality. Star growth is
 
 | Repository | Search topics | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 100+ | 100+ | 16615 | 388 | 1609 | not yet measurable | Apache-2.0 |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | self hosted agent | 42 | 100+ | 100+ | 37493 | 193 | not yet measurable | not yet measurable | NOASSERTION |
-| [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) | open source CRM | 65 | 100+ | 100+ | 7875 | 25 | not yet measurable | not yet measurable | GPL-3.0 |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 100+ | 100+ | 100+ | 16615 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | self hosted agent | 42 | 100+ | 100+ | 37493 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) | open source CRM | 65 | 100+ | 100+ | 7875 | not yet measurable | not yet measurable | not yet measurable | GPL-3.0 |
 | [ryuzcorp/noite](https://github.com/ryuzcorp/noite) | self hosted paas | 12 | 100+ | 100+ | 37 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [waddington/job-application-tracker](https://github.com/waddington/job-application-tracker) | open source CRM | 100+ | 100+ | 100+ | 15 | 0 | not yet measurable | not yet measurable | Apache-2.0 |
+| [waddington/job-application-tracker](https://github.com/waddington/job-application-tracker) | open source CRM | 100+ | 100+ | 100+ | 15 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
 | [chrismsmr-celcom/cerbere-cohort](https://github.com/chrismsmr-celcom/cerbere-cohort) | agent coordination | 80 | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
 | [elcoosp/takumi-motion](https://github.com/elcoosp/takumi-motion) | rust automation | 20 | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
 | [cirwel/unitares](https://github.com/cirwel/unitares) | self hosted agent | 4 | 26 | 100+ | 6 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
