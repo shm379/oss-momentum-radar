@@ -175,6 +175,10 @@
     {
       "at": "2026-11-15T22:29:40Z",
       "stars": 997
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 997
     }
   ],
   "ClickHouse/loom": [
@@ -389,6 +393,12 @@
       "stars": 0
     }
   ],
+  "LeoLin990405/Conductor": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
   "Logical-Works-Inc/logicalworks-crates": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -417,6 +427,12 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 0
+    }
+  ],
+  "MaksPyn/arxiv-mcp-server": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 1
     }
   ],
   "Miosa-osa/OptimalEngine": [
@@ -456,6 +472,10 @@
   "NijoP/electronics-agent-kit-new-prototype": [
     {
       "at": "2026-11-14T12:59:16Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
       "stars": 0
     }
   ],
@@ -1259,6 +1279,12 @@
       "stars": 1
     }
   ],
+  "greenfield-inc/Pane": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 636
+    }
+  ],
   "gronare/mindin": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -1288,6 +1314,12 @@
   "guru431/studio": [
     {
       "at": "2026-11-11T13:36:55Z",
+      "stars": 0
+    }
+  ],
+  "gwnexus/nexus-mcp": [
+    {
+      "at": "2026-11-16T04:52:03Z",
       "stars": 0
     }
   ],
@@ -1420,6 +1452,10 @@
     },
     {
       "at": "2026-11-15T22:29:40Z",
+      "stars": 92
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
       "stars": 92
     }
   ],
@@ -1591,6 +1627,12 @@
       "stars": 0
     }
   ],
+  "marciocar/kg-ssot": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
   "markusweldon/cverdict": [
     {
       "at": "2026-11-12T23:14:14Z",
@@ -1655,6 +1697,12 @@
       "stars": 0
     }
   ],
+  "michalhron/new-outlook-mcp": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
   "michtill/SiteTiller": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -1667,6 +1715,12 @@
       "stars": 360
     }
   ],
+  "mirastacklabs-ai/mirafleet": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
   "mixpeek/amux": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -1676,6 +1730,10 @@
   "momcrm/momcrm": [
     {
       "at": "2026-11-14T05:01:22Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
       "stars": 0
     }
   ],
@@ -2151,6 +2209,10 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 16227
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 16538
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -2191,6 +2253,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 2
+    }
+  ],
+  "tiobeharxi1987/blender-ai-copilot-flow": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 510
     }
   ],
   "tk103331/mymcp": [
@@ -2295,6 +2363,16 @@
     {
       "at": "2026-11-07T04:45:19Z",
       "stars": 4
+    },
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 4
+    }
+  ],
+  "xiron902224/norix": [
+    {
+      "at": "2026-11-16T04:52:03Z",
+      "stars": 1
     }
   ],
   "xtermium/xtermium": [
