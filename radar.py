@@ -137,6 +137,8 @@ def star_change(history, now, days=7):
     if not baseline or not current:
         return None
     return max(current)[1] - max(baseline)[1]
+
+
 def rank(repo):
     # Commit bursts are evidence of activity, not proportional evidence of
     # maintenance quality. Cap the contribution to avoid 100+ commits swamping
