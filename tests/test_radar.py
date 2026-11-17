@@ -195,5 +195,40 @@ class Tests(unittest.TestCase):
         self.assertIn("Commits (30d)", result)
         self.assertIn("Stars gained (30d)", result)
 
+    def test_latest_release_returns_tag_and_published_date(self):
+        result = radar.latest_release(
+            {"full_name": "example/repo"},
+            api=lambda _: {"tag_name": "v1.2.3", "published_at": "2026-11-01T10:00:00Z"},
+        )
+        self.assertEqual(result, {
+            "release_status": "available",
+            "latest_release_tag": "v1.2.3",
+            "latest_release_published_at": "2026-11-01T10:00:00Z",
+        })
+
+    def test_latest_release_distinguishes_missing_release_from_api_failure(self):
+        def missing(_):
+            raise RuntimeError("GitHub request failed: HTTP Error 404: Not Found")
+        def rate_limited(_):
+            raise RuntimeError("GitHub request failed: HTTP Error 403: rate limit")
+        self.assertEqual(radar.latest_release({"full_name": "x/y"}, api=missing)["release_status"], "none")
+        self.assertEqual(radar.latest_release({"full_name": "x/y"}, api=rate_limited)["release_status"], "unknown")
+
+    def test_report_includes_release_and_maintenance_signals(self):
+        repo = {
+            "full_name": "x/y", "topics_found": ["mcp"], "pushed_at": "2026-11-17T10:00:00Z",
+            "open_issues_count": 17, "release_status": "available", "latest_release_tag": "v1.2.3",
+            "latest_release_published_at": "2026-11-01T10:00:00Z",
+            "commits_24h": 1, "commits_7d": 2, "commits_30d": 3,
+            "stars_gained_24h": None, "stars_gained_7d": None, "stars_gained_30d": None,
+            "stargazers_count": 5, "license": None,
+        }
+        result = radar.markdown([repo], self.now, 5)
+        self.assertIn("2026-11-17", result)
+        self.assertIn("17", result)
+        self.assertIn("v1.2.3", result)
+        self.assertIn("2026-11-01", result)
+        self.assertIn("Open items*", result)
+
 if __name__ == "__main__":
     unittest.main()
