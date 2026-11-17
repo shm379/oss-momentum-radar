@@ -193,6 +193,12 @@
       "stars": 68
     }
   ],
+  "CoderHelm/coderhelm-platform": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 2
+    }
+  ],
   "Cognitohazard/ltspice-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -215,6 +221,12 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 24
+    }
+  ],
+  "Cotal-AI/Cotal": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 394
     }
   ],
   "DeskLabs-OpenSource/DeskVoice": [
@@ -249,6 +261,10 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 7875
+    },
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 7874
     }
   ],
   "EunhakChoi/artifree": [
@@ -305,6 +321,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 0
+    }
+  ],
+  "Goldwep/enfusion-workbench-mcp": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 2
     }
   ],
   "Handigraphs/handigraphs-stats-api-mcp": [
@@ -617,6 +639,12 @@
       "stars": 0
     }
   ],
+  "Starlight-Unit-Studio/CoreAI-TCI-Interface": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 1
+    }
+  ],
   "StoryFunnels/storyOS": [
     {
       "at": "2026-11-10T01:12:50Z",
@@ -643,6 +671,12 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 860
+    }
+  ],
+  "The-Y-CRM/the-y-crm-mcp": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 0
     }
   ],
   "The1UNeed/hexbot": [
@@ -679,6 +713,12 @@
     {
       "at": "2026-11-07T04:45:19Z",
       "stars": 17
+    }
+  ],
+  "Vanclief/compose": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 0
     }
   ],
   "Xustalis/OpenPanda": [
@@ -835,6 +875,12 @@
       "stars": 23
     }
   ],
+  "aphrody-labs/auto": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 0
+    }
+  ],
   "arilumbudeta/edlink-mcp": [
     {
       "at": "2026-11-08T21:41:49Z",
@@ -904,6 +950,10 @@
   "ben-efros/caddy-rs": [
     {
       "at": "2026-11-10T01:12:50Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-17T01:36:26Z",
       "stars": 0
     }
   ],
@@ -1121,6 +1171,12 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 0
+    }
+  ],
+  "dongdonglog/Agenthub": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 1
     }
   ],
   "duketopceo/tallyline": [
@@ -1893,6 +1949,12 @@
       "stars": 0
     }
   ],
+  "opok-ops/MindForge": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 4
+    }
+  ],
   "ortic/TaskCraft": [
     {
       "at": "2026-11-12T14:40:30Z",
@@ -1961,10 +2023,22 @@
       "stars": 21
     }
   ],
+  "punkpeye/awesome-remote-mcp-servers": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 3359
+    }
+  ],
   "racdeufindurch198812/Blender-AI-MCP-Studio": [
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 452
+    }
+  ],
+  "raiigauravv/job-hunt-n8n": [
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 0
     }
   ],
   "rainyflash/agent-room": [
@@ -2285,6 +2359,10 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 16615
+    },
+    {
+      "at": "2026-11-17T01:36:26Z",
+      "stars": 16684
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -2472,6 +2550,12 @@
   "yorch/wp-guarded-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
+      "stars": 0
+    }
+  ],
+  "zaccomode/github-issues-mcp": [
+    {
+      "at": "2026-11-17T01:36:26Z",
       "stars": 0
     }
   ],
