@@ -85,6 +85,31 @@ def count_commits_7d(repo, now, api=request_json):
     except RuntimeError:
         return None
 
+def latest_release(repo, api=request_json):
+    """Fetch the latest GitHub Release; distinguish no release from lookup failure."""
+    endpoint = "/repos/" + repo["full_name"] + "/releases/latest"
+    try:
+        release = api(endpoint)
+    except RuntimeError as error:
+        status = "none" if "HTTP Error 404" in str(error) else "unknown"
+        return {
+            "release_status": status,
+            "latest_release_tag": None,
+            "latest_release_published_at": None,
+        }
+    if not isinstance(release, dict):
+        return {
+            "release_status": "unknown",
+            "latest_release_tag": None,
+            "latest_release_published_at": None,
+        }
+    return {
+        "release_status": "available",
+        "latest_release_tag": release.get("tag_name") or "untagged",
+        "latest_release_published_at": release.get("published_at") or release.get("created_at"),
+    }
+
+
 def load_history(path):
     try:
         value = json.loads(path.read_text(encoding="utf-8"))
@@ -155,22 +180,31 @@ def markdown(repos, now, limit):
         "",
         "Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.",
         "",
-        "| Repository | Search topics | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |",
-        "| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |",
+        "| Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |",
+        "| --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |",
     ]
     for repo in sorted(repos, key=rank, reverse=True)[:limit]:
         key = repo["full_name"]
         license_name = (repo.get("license") or {}).get("spdx_id") or "unverified"
         commits = ["unknown" if repo.get(f"commits_{label}") is None else str(repo[f"commits_{label}"]) for label, _ in WINDOWS]
         growth = ["not yet measurable" if repo.get(f"stars_gained_{label}") is None else str(repo[f"stars_gained_{label}"]) for label, _ in WINDOWS]
+        last_push = (repo.get("pushed_at") or "unknown")[:10]
+        open_items = repo.get("open_issues_count")
+        open_items = "unknown" if open_items is None else str(open_items)
+        release_status = repo.get("release_status", "unknown")
+        release_tag = repo.get("latest_release_tag") or ("none" if release_status == "none" else "unknown")
+        release_date = (repo.get("latest_release_published_at") or "")[:10] or "—"
         output.append(
             f"| [{key}](https://github.com/{key}) | {', '.join(repo['topics_found'])} | "
+            f"{last_push} | {open_items} | {release_tag} | {release_date} | "
             f"{commits[0]} | {commits[1]} | {commits[2]} | {repo.get('stargazers_count', 0)} | "
             f"{growth[0]} | {growth[1]} | {growth[2]} | {license_name} |"
         )
     output += ["", "## Limitations", "- Not GitHub's official Trending list. Results come from sampled GitHub Search queries.",
                "- Commit counts are bounded to the first 100 results per repository; 100+ is a lower bound, not an exact count.",
                "- Star deltas need saved observations at least as old as each window; 30-day star growth is unavailable until 30 days of history accumulate.",
+               "- Open items is GitHub's combined open-issue and pull-request count, not separate counts.",
+               "- Latest release refers to GitHub Releases, not tags; 'none' means no published release was found, while 'unknown' means lookup failed.",
                "- GitHub API rate limits and scheduled workflow delays may apply.",
                "- Review project LICENSE, CI, maintainer responsiveness, and security before adopting.",
                "- No paid model or third-party key required. An optional GitHub token raises rate limits.", ""]
@@ -191,6 +225,7 @@ def main():
         history = load_history(args.history)
         for repo in repos:
             repo.update(count_commit_windows(repo, now))
+            repo.update(latest_release(repo))
         history = record(history, repos, now)
         for repo in repos:
             for label, days in WINDOWS:
