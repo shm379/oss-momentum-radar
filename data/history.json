@@ -559,9 +559,21 @@
       "stars": 0
     }
   ],
+  "Ofelpes/fastskins-mcp": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 0
+    }
+  ],
   "OmarAlex24/quoro": [
     {
       "at": "2026-11-10T01:12:50Z",
+      "stars": 0
+    }
+  ],
+  "OpenHCSDev/agent-comms": [
+    {
+      "at": "2026-11-18T23:54:32Z",
       "stars": 0
     }
   ],
@@ -871,6 +883,10 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 1395
+    },
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 1720
     }
   ],
   "aignerdevelopment/harnessator": [
@@ -997,6 +1013,10 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 7493
+    },
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 8257
     }
   ],
   "beknownllc/the-marketing-vault-mcp": [
@@ -1081,6 +1101,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 13453
+    }
+  ],
+  "ccruz-dev/venulo-swarm": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 0
     }
   ],
   "cedricziel/hermes-app": [
@@ -1264,6 +1290,12 @@
   "edddh/voxlyne": [
     {
       "at": "2026-11-15T22:29:40Z",
+      "stars": 0
+    }
+  ],
+  "egao1980/lisp-mcp": [
+    {
+      "at": "2026-11-18T23:54:32Z",
       "stars": 0
     }
   ],
@@ -1457,6 +1489,12 @@
     {
       "at": "2026-11-15T04:54:43Z",
       "stars": 1
+    }
+  ],
+  "glincker/levelrail": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 228
     }
   ],
   "gptnius/hermes-crm": [
@@ -1671,6 +1709,10 @@
     {
       "at": "2026-11-18T15:08:52Z",
       "stars": 94
+    },
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 94
     }
   ],
   "imwangpan/WeMind": [
@@ -1835,6 +1877,12 @@
       "stars": 161045
     }
   ],
+  "leestripp/hivemind": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 0
+    }
+  ],
   "linkbreakers-com/agent-skills": [
     {
       "at": "2026-11-14T12:59:16Z",
@@ -1859,6 +1907,12 @@
     {
       "at": "2026-11-15T04:54:43Z",
       "stars": 0
+    }
+  ],
+  "magnusfroste/flowwink": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 26
     }
   ],
   "maksugr/acp-devtools": [
@@ -2141,6 +2195,18 @@
     {
       "at": "2026-11-13T13:57:34Z",
       "stars": 1
+    }
+  ],
+  "panguard-ai/panguard-ai": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 69
+    }
+  ],
+  "parkjaehyeon12354/crack-mcp": [
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 0
     }
   ],
   "patrickbdevaney/manuk": [
@@ -2457,6 +2523,10 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 3
+    },
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 3
     }
   ],
   "szl-holdings/hatun-mcp": [
@@ -2555,6 +2625,10 @@
     {
       "at": "2026-11-18T15:08:52Z",
       "stars": 17059
+    },
+    {
+      "at": "2026-11-18T23:54:32Z",
+      "stars": 17106
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -2786,6 +2860,12 @@
   "yorch/wp-guarded-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
+      "stars": 0
+    }
+  ],
+  "yulanventures/commonswarm": [
+    {
+      "at": "2026-11-18T23:54:32Z",
       "stars": 0
     }
   ],
