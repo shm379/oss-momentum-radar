@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-18 00:34
+Updated UTC: 2026-11-18 15:08
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-18 | 7493 | v0.44.1 | 2026-11-17 | 100+ | 100+ | 100+ | 16944 | 329 | 1452 | not yet measurable | Apache-2.0 |
-| [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | self hosted agent | 2026-11-18 | 31 | v1.82.2 | 2026-11-18 | 8 | 60 | 100+ | 408 | not yet measurable | 158 | not yet measurable | Apache-2.0 |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-18 | 7602 | v0.44.1 | 2026-11-17 | 100+ | 100+ | 100+ | 17059 | not yet measurable | 1390 | not yet measurable | Apache-2.0 |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | self hosted agent | 2026-11-18 | 1173 | v4.82.0 | 2026-11-17 | 57 | 100+ | 100+ | 37594 | not yet measurable | 294 | not yet measurable | NOASSERTION |
 | [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-18 | 0 | none | — | 100+ | 100+ | 100+ | 94 | not yet measurable | 6 | not yet measurable | MIT |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | self hosted agent | 2026-11-18 | 128 | v1.1.0 | 2026-11-17 | 27 | 100+ | 100+ | 12738 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [florinel-chis/GopherCRM](https://github.com/florinel-chis/GopherCRM) | open source CRM | 2026-11-18 | 25 | v1.2.0 | 2026-09-25 | 11 | 40 | 100+ | 26 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 2026-11-18 | 4957 | monochromatic-git-policy-cli-v0.6.1-alpha.44 | 2026-11-16 | 69 | 100+ | 100+ | 7 | not yet measurable | 0 | not yet measurable | LGPL-3.0 |
-| [roseengineering/nina_planner_mcp_server](https://github.com/roseengineering/nina_planner_mcp_server) | mcp server | 2026-11-18 | 0 | none | — | 9 | 40 | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [frizynn/nenu](https://github.com/frizynn/nenu) | self hosted agent | 2026-11-18 | 12 | v2.16.0 | 2026-11-08 | 34 | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [emreocell/Praxi-Bot](https://github.com/emreocell/Praxi-Bot) | rust automation | 2026-11-18 | 41 | none | — | 16 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [ultrastable/ultrastable](https://github.com/ultrastable/ultrastable) | self hosted agent | 2026-11-18 | 4 | none | — | 100+ | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | self hosted agent | 2026-11-18 | 221 | v0.4.0 | 2026-11-17 | 3 | 100+ | 100+ | 3745 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [ClickHouse/loom](https://github.com/ClickHouse/loom) | self hosted agent | 2026-11-18 | 81 | v1.2.0 | 2026-11-12 | 90 | 100+ | 100+ | 164 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [generalbots/generalbots](https://github.com/generalbots/generalbots) | rust automation, open source CRM | 2026-11-18 | 166 | v7.0.34 | 2026-11-10 | 99 | 99 | 100+ | 98 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [minusxai/artifactbin](https://github.com/minusxai/artifactbin) | self hosted agent | 2026-11-18 | 1 | afbin-v0.6.0 | 2026-10-28 | 65 | 97 | 100+ | 7 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [vitral-ai/context-session-librarian](https://github.com/vitral-ai/context-session-librarian) | agent coordination | 2026-11-18 | 2 | v0.4.2 | 2026-11-15 | 90 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [fuba-agent/feiyu-tools](https://github.com/fuba-agent/feiyu-tools) | self hosted agent | 2026-11-18 | 0 | none | — | 74 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
+| [kyaswanthneeli-stack/codeatlas-mcp](https://github.com/kyaswanthneeli-stack/codeatlas-mcp) | mcp server | 2026-11-18 | 0 | none | — | 9 | 9 | 9 | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
