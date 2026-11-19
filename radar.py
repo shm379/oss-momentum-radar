@@ -86,28 +86,44 @@ def count_commits_7d(repo, now, api=request_json):
         return None
 
 def latest_release(repo, api=request_json):
-    """Fetch the latest GitHub Release; distinguish no release from lookup failure."""
-    endpoint = "/repos/" + repo["full_name"] + "/releases/latest"
+    """Fetch the newest published GitHub Release, including prereleases."""
+    endpoint = "/repos/" + repo["full_name"] + "/releases?" + urlencode({"per_page": 100})
     try:
-        release = api(endpoint)
-    except RuntimeError as error:
-        status = "none" if "HTTP Error 404" in str(error) else "unknown"
-        return {
-            "release_status": status,
-            "latest_release_tag": None,
-            "latest_release_published_at": None,
-        }
-    if not isinstance(release, dict):
+        releases = api(endpoint)
+    except RuntimeError:
         return {
             "release_status": "unknown",
             "latest_release_tag": None,
             "latest_release_published_at": None,
         }
+    if not isinstance(releases, list):
+        return {
+            "release_status": "unknown",
+            "latest_release_tag": None,
+            "latest_release_published_at": None,
+        }
+    published = [
+        release for release in releases
+        if isinstance(release, dict) and not release.get("draft")
+        and isinstance(release.get("published_at"), str) and release["published_at"]
+    ]
+    if not published:
+        return {
+            "release_status": "none",
+            "latest_release_tag": None,
+            "latest_release_published_at": None,
+        }
+    release = max(published, key=lambda item: item["published_at"])
     return {
         "release_status": "available",
         "latest_release_tag": release.get("tag_name") or "untagged",
-        "latest_release_published_at": release.get("published_at") or release.get("created_at"),
+        "latest_release_published_at": release["published_at"],
     }
+
+
+def markdown_cell(value):
+    """Escape repository-controlled text before placing it in a Markdown table cell."""
+    return str(value).replace("\\", "\\\\").replace("|", "\\|").replace("\r", " ").replace("\n", " ")
 
 
 def load_history(path):
@@ -192,7 +208,7 @@ def markdown(repos, now, limit):
         open_items = repo.get("open_issues_count")
         open_items = "unknown" if open_items is None else str(open_items)
         release_status = repo.get("release_status", "unknown")
-        release_tag = repo.get("latest_release_tag") or ("none" if release_status == "none" else "unknown")
+        release_tag = markdown_cell(repo.get("latest_release_tag") or ("none" if release_status == "none" else "unknown"))
         release_date = (repo.get("latest_release_published_at") or "")[:10] or "—"
         output.append(
             f"| [{key}](https://github.com/{key}) | {', '.join(repo['topics_found'])} | "
