@@ -198,7 +198,12 @@ class Tests(unittest.TestCase):
     def test_latest_release_returns_tag_and_published_date(self):
         result = radar.latest_release(
             {"full_name": "example/repo"},
-            api=lambda _: {"tag_name": "v1.2.3", "published_at": "2026-11-01T10:00:00Z"},
+            api=lambda _: [{
+                "tag_name": "v1.2.3",
+                "published_at": "2026-11-01T10:00:00Z",
+                "draft": False,
+                "prerelease": False,
+            }],
         )
         self.assertEqual(result, {
             "release_status": "available",
@@ -207,12 +212,16 @@ class Tests(unittest.TestCase):
         })
 
     def test_latest_release_distinguishes_missing_release_from_api_failure(self):
-        def missing(_):
-            raise RuntimeError("GitHub request failed: HTTP Error 404: Not Found")
         def rate_limited(_):
             raise RuntimeError("GitHub request failed: HTTP Error 403: rate limit")
-        self.assertEqual(radar.latest_release({"full_name": "x/y"}, api=missing)["release_status"], "none")
-        self.assertEqual(radar.latest_release({"full_name": "x/y"}, api=rate_limited)["release_status"], "unknown")
+        self.assertEqual(
+            radar.latest_release({"full_name": "x/y"}, api=lambda _: [])["release_status"],
+            "none",
+        )
+        self.assertEqual(
+            radar.latest_release({"full_name": "x/y"}, api=rate_limited)["release_status"],
+            "unknown",
+        )
 
     def test_report_includes_release_and_maintenance_signals(self):
         repo = {

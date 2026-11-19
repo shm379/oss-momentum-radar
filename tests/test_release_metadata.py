@@ -1,0 +1,82 @@
+import unittest
+from datetime import datetime, timezone
+
+import radar
+
+
+class ReleaseMetadataTests(unittest.TestCase):
+    def test_latest_release_includes_prereleases_and_skips_drafts(self):
+        releases = [
+            {
+                "tag_name": "v2.0.0-rc.1",
+                "published_at": "2026-11-18T12:00:00Z",
+                "draft": False,
+                "prerelease": True,
+            },
+            {
+                "tag_name": "v1.9.0",
+                "published_at": "2026-11-17T12:00:00Z",
+                "draft": False,
+                "prerelease": False,
+            },
+            {
+                "tag_name": "v3.0.0-draft",
+                "published_at": None,
+                "created_at": "2026-11-19T12:00:00Z",
+                "draft": True,
+                "prerelease": True,
+            },
+        ]
+        result = radar.latest_release(
+            {"full_name": "example/repo"},
+            api=lambda endpoint: releases,
+        )
+        self.assertEqual(result, {
+            "release_status": "available",
+            "latest_release_tag": "v2.0.0-rc.1",
+            "latest_release_published_at": "2026-11-18T12:00:00Z",
+        })
+
+    def test_latest_release_reports_none_for_empty_release_list(self):
+        result = radar.latest_release(
+            {"full_name": "example/repo"},
+            api=lambda endpoint: [],
+        )
+        self.assertEqual(result["release_status"], "none")
+
+    def test_latest_release_reports_unknown_when_api_fails(self):
+        def fail(_endpoint):
+            raise RuntimeError("GitHub request failed: HTTP Error 403: rate limit")
+
+        result = radar.latest_release({"full_name": "example/repo"}, api=fail)
+        self.assertEqual(result["release_status"], "unknown")
+
+    def test_markdown_escapes_pipe_in_release_tag(self):
+        repo = {
+            "full_name": "example/repo",
+            "topics_found": ["mcp"],
+            "pushed_at": "2026-11-18T10:00:00Z",
+            "open_issues_count": 1,
+            "release_status": "available",
+            "latest_release_tag": "v1.0|beta",
+            "latest_release_published_at": "2026-11-18T10:00:00Z",
+            "commits_24h": 1,
+            "commits_7d": 2,
+            "commits_30d": 3,
+            "stars_gained_24h": None,
+            "stars_gained_7d": None,
+            "stars_gained_30d": None,
+            "stargazers_count": 5,
+            "license": {"spdx_id": "MIT"},
+        }
+        report = radar.markdown(
+            [repo],
+            datetime(2026, 11, 19, tzinfo=timezone.utc),
+            5,
+        )
+        self.assertIn("v1.0\\|beta", report)
+        self.assertNotIn("v1.0|beta", report)
+
+
+if __name__ == "__main__":
+    unittest.main()
