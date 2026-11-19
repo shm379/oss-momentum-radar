@@ -69,9 +69,9 @@ class ReleaseMetadataTests(unittest.TestCase):
 
         def api(endpoint):
             calls.append(endpoint)
-            if "page=1" in endpoint:
+            if endpoint.endswith("page=1"):
                 return first_page
-            if "page=2" in endpoint:
+            if endpoint.endswith("page=2"):
                 return second_page
             self.fail(f"Unexpected release page request: {endpoint}")
 
