@@ -23,6 +23,12 @@
       "stars": 0
     }
   ],
+  "2Mesh/slide-anki-mcp": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
+    }
+  ],
   "77777R7/Octocrawl": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -130,6 +136,10 @@
     },
     {
       "at": "2026-11-18T00:34:05Z",
+      "stars": 7
+    },
+    {
+      "at": "2026-11-19T05:59:10Z",
       "stars": 7
     }
   ],
@@ -257,6 +267,16 @@
     {
       "at": "2026-11-17T15:31:32Z",
       "stars": 395
+    },
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 401
+    }
+  ],
+  "Dans-Plugins/dpc-mcp-server": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
     }
   ],
   "DeskLabs-OpenSource/DeskVoice": [
@@ -325,6 +345,12 @@
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 0
+    }
+  ],
+  "G-OTW/OpenTraderWorld": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 88
     }
   ],
   "Gekkotron/Nidoo": [
@@ -717,6 +743,12 @@
       "stars": 1390
     }
   ],
+  "TechBlueprints/mcp-slicc": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
+    }
+  ],
   "Tencent/LoopForge": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -947,6 +979,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 23
+    }
+  ],
+  "anulum/synapse-channel": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 1
     }
   ],
   "aphrody-labs/auto": [
@@ -1219,6 +1257,12 @@
     {
       "at": "2026-11-07T04:45:19Z",
       "stars": 5
+    }
+  ],
+  "daquv-core/mcp-fuse": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
     }
   ],
   "davidemoraschi/effective-telegram": [
@@ -1845,6 +1889,12 @@
       "stars": 0
     }
   ],
+  "koidrive/koidrive": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
+    }
+  ],
   "kstevica/captain-claw": [
     {
       "at": "2026-11-15T13:28:04Z",
@@ -1901,6 +1951,10 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 9
     }
   ],
   "madhu-zuuz51/zuuz-mcp": [
@@ -1930,6 +1984,10 @@
   "manaty/ameesh": [
     {
       "at": "2026-11-17T15:31:32Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-19T05:59:10Z",
       "stars": 0
     }
   ],
@@ -2097,6 +2155,12 @@
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 56171
+    }
+  ],
+  "mumong/mcpServer-holmesgpt": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 2
     }
   ],
   "nathwn12/oc-collections": [
@@ -2289,6 +2353,12 @@
       "stars": 1
     }
   ],
+  "riceharvest/agentboard": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 0
+    }
+  ],
   "rishi12438/hearth": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -2469,6 +2539,12 @@
       "stars": 11
     }
   ],
+  "slothflowlabs/duckle": [
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 1577
+    }
+  ],
   "slow-loop/hello-web-reader": [
     {
       "at": "2026-11-12T23:14:14Z",
@@ -2629,6 +2705,10 @@
     {
       "at": "2026-11-18T23:54:32Z",
       "stars": 17106
+    },
+    {
+      "at": "2026-11-19T05:59:10Z",
+      "stars": 17144
     }
   ],
   "thanhdatpb/Listing-Guard": [
