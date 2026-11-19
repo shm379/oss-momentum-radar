@@ -51,6 +51,64 @@ class ReleaseMetadataTests(unittest.TestCase):
         result = radar.latest_release({"full_name": "example/repo"}, api=fail)
         self.assertEqual(result["release_status"], "unknown")
 
+    def test_latest_release_paginates_to_find_newer_published_release(self):
+        first_page = [
+            {
+                "tag_name": f"v0.{index}",
+                "published_at": "2026-10-01T12:00:00Z",
+                "draft": False,
+            }
+            for index in range(radar.RELEASES_PER_PAGE)
+        ]
+        second_page = [{
+            "tag_name": "late-published-release",
+            "published_at": "2026-11-18T12:00:00Z",
+            "draft": False,
+        }]
+        calls = []
+
+        def api(endpoint):
+            calls.append(endpoint)
+            if endpoint.endswith("page=1"):
+                return first_page
+            if endpoint.endswith("page=2"):
+                return second_page
+            self.fail(f"Unexpected release page request: {endpoint}")
+
+        result = radar.latest_release({"full_name": "example/repo"}, api=api)
+        self.assertEqual(result["latest_release_tag"], "late-published-release")
+        self.assertEqual(result["release_status"], "available")
+        self.assertEqual(len(calls), 2)
+
+    def test_latest_release_fails_closed_when_later_page_cannot_be_read(self):
+        first_page = [
+            {"tag_name": f"v0.{index}", "published_at": "2026-10-01T12:00:00Z", "draft": False}
+            for index in range(radar.RELEASES_PER_PAGE)
+        ]
+
+        def api(endpoint):
+            if "page=1" in endpoint:
+                return first_page
+            raise RuntimeError("GitHub request failed: HTTP Error 403: rate limit")
+
+        result = radar.latest_release({"full_name": "example/repo"}, api=api)
+        self.assertEqual(result["release_status"], "unknown")
+        self.assertIsNone(result["latest_release_tag"])
+
+    def test_latest_release_reports_unknown_when_page_limit_is_reached(self):
+        calls = []
+
+        def api(endpoint):
+            calls.append(endpoint)
+            return [
+                {"tag_name": f"v{len(calls)}.{index}", "published_at": "2026-10-01T12:00:00Z", "draft": False}
+                for index in range(radar.RELEASES_PER_PAGE)
+            ]
+
+        result = radar.latest_release({"full_name": "example/repo"}, api=api)
+        self.assertEqual(result["release_status"], "unknown")
+        self.assertEqual(len(calls), radar.MAX_RELEASE_PAGES)
+
     def test_markdown_escapes_pipe_in_release_tag(self):
         repo = {
             "full_name": "example/repo",

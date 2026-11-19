@@ -85,28 +85,47 @@ def count_commits_7d(repo, now, api=request_json):
     except RuntimeError:
         return None
 
+MAX_RELEASE_PAGES = 10
+RELEASES_PER_PAGE = 100
+
+
 def latest_release(repo, api=request_json):
-    """Fetch the newest published GitHub Release, including prereleases."""
-    endpoint = "/repos/" + repo["full_name"] + "/releases?" + urlencode({"per_page": 100})
-    try:
-        releases = api(endpoint)
-    except RuntimeError:
+    """Find the newest published release across bounded pages, including prereleases."""
+    published = []
+    for page in range(1, MAX_RELEASE_PAGES + 1):
+        endpoint = "/repos/" + repo["full_name"] + "/releases?" + urlencode({
+            "per_page": RELEASES_PER_PAGE,
+            "page": page,
+        })
+        try:
+            releases = api(endpoint)
+        except RuntimeError:
+            return {
+                "release_status": "unknown",
+                "latest_release_tag": None,
+                "latest_release_published_at": None,
+            }
+        if not isinstance(releases, list):
+            return {
+                "release_status": "unknown",
+                "latest_release_tag": None,
+                "latest_release_published_at": None,
+            }
+        published.extend(
+            release for release in releases
+            if isinstance(release, dict) and not release.get("draft")
+            and isinstance(release.get("published_at"), str) and release["published_at"]
+        )
+        if len(releases) < RELEASES_PER_PAGE:
+            break
+    else:
+        # Do not claim the newest release if more pages may contain later publications.
         return {
             "release_status": "unknown",
             "latest_release_tag": None,
             "latest_release_published_at": None,
         }
-    if not isinstance(releases, list):
-        return {
-            "release_status": "unknown",
-            "latest_release_tag": None,
-            "latest_release_published_at": None,
-        }
-    published = [
-        release for release in releases
-        if isinstance(release, dict) and not release.get("draft")
-        and isinstance(release.get("published_at"), str) and release["published_at"]
-    ]
+
     if not published:
         return {
             "release_status": "none",
