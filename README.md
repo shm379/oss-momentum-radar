@@ -18,7 +18,7 @@ MIT-licensed. No subscription, paid model, credit card, or third-party service r
 - **Real star growth:** 24-hour and 7-day deltas require a baseline within 12 hours of the window boundary; 30-day deltas allow a one-day sampling tolerance. Longer gaps are reported as not yet measurable instead of being mislabeled as shorter-window growth. The 30-day value remains unavailable until enough history accumulates.
 - **License metadata:** flags unknown SPDX data for manual review.
 - **Release and maintenance signals:** shows the latest published GitHub Release, last push date, and GitHub's combined open-issue/pull-request count. A missing release is distinguished from an API lookup failure.
-- One additional GitHub Releases API lookup is made per inspected repository; API limits still apply.
+- GitHub Releases metadata scans up to 10 pages (1,000 releases) so older-created but newly published releases are not missed. If all 10 pages are full, the release is reported as unknown rather than claiming an incomplete result; API limits still apply.
 - **Ranked shortlist:** saves a Markdown report and a compact history file.
 
 This is a research aid, not a guarantee that a repository is safe, commercially usable, or growing organically.
