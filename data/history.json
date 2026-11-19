@@ -165,6 +165,12 @@
       "stars": 0
     }
   ],
+  "BlessingNyuwani/marona-cpp": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
+    }
+  ],
   "CarletonTorpin/Zorderz": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -315,6 +321,12 @@
     {
       "at": "2026-11-17T01:36:26Z",
       "stars": 7874
+    }
+  ],
+  "Eilbera/dgx-multi-agent-lab": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
     }
   ],
   "EunhakChoi/artifree": [
@@ -1041,10 +1053,22 @@
       "stars": 0
     }
   ],
+  "azamrizki/nextboard": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 1
+    }
+  ],
   "balaena01/gguf-neuron-explorer": [
     {
       "at": "2026-11-11T13:36:55Z",
       "stars": 94
+    }
+  ],
+  "bcheng004/dsh-databricks-genie-one-mcp": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
     }
   ],
   "beenuar/AiSOC": [
@@ -1115,6 +1139,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 26
+    }
+  ],
+  "bmjanet/htb-ctf-agent": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
     }
   ],
   "brcampidelli/chimera-agent": [
@@ -1195,6 +1225,12 @@
       "stars": 7
     }
   ],
+  "coollabsio/coolify": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 66263
+    }
+  ],
   "courage-zen/excel-mcp": [
     {
       "at": "2026-11-12T00:04:23Z",
@@ -1265,6 +1301,12 @@
       "stars": 0
     }
   ],
+  "david-engelmann/maidan": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 9
+    }
+  ],
   "davidemoraschi/effective-telegram": [
     {
       "at": "2026-11-11T13:36:55Z",
@@ -1331,6 +1373,12 @@
       "stars": 7
     }
   ],
+  "dynamics365ninja/d365fo-mcp-server": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 174
+    }
+  ],
   "edddh/voxlyne": [
     {
       "at": "2026-11-15T22:29:40Z",
@@ -1347,6 +1395,12 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 1
+    }
+  ],
+  "electrification-bus/homie5-mcp-server": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
     }
   ],
   "electron-stagewright/electron-stagewright": [
@@ -1539,6 +1593,10 @@
     {
       "at": "2026-11-18T23:54:32Z",
       "stars": 228
+    },
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 230
     }
   ],
   "gptnius/hermes-crm": [
@@ -1756,6 +1814,10 @@
     },
     {
       "at": "2026-11-18T23:54:32Z",
+      "stars": 94
+    },
+    {
+      "at": "2026-11-19T15:38:12Z",
       "stars": 94
     }
   ],
@@ -2125,6 +2187,12 @@
       "stars": 0
     }
   ],
+  "monkeyWie/reignhub": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
+    }
+  ],
   "mortennordbye/verksted": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -2237,6 +2305,12 @@
       "stars": 4
     }
   ],
+  "orib1743/nba-spoiler-free-bot": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
+    }
+  ],
   "ortic/TaskCraft": [
     {
       "at": "2026-11-12T14:40:30Z",
@@ -2309,6 +2383,12 @@
     {
       "at": "2026-11-09T15:15:42Z",
       "stars": 3
+    }
+  ],
+  "pragnition/autonomous-agent": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 0
     }
   ],
   "ptrinh/BorderCheck": [
@@ -2443,6 +2523,12 @@
     {
       "at": "2026-11-14T21:59:14Z",
       "stars": 1
+    }
+  ],
+  "sceneview/sceneview": [
+    {
+      "at": "2026-11-19T15:38:12Z",
+      "stars": 1379
     }
   ],
   "senacula/senacula-imagestudio": [
