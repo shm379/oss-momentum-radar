@@ -63,6 +63,12 @@
       "stars": 0
     }
   ],
+  "AmanMansoori14/mcp-shield": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
+    }
+  ],
   "AnEntrypoint/gm": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -299,6 +305,12 @@
       "stars": 403
     }
   ],
+  "DalatHappyFarm/postbox": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
+    }
+  ],
   "Dans-Plugins/dpc-mcp-server": [
     {
       "at": "2026-11-19T05:59:10Z",
@@ -489,6 +501,12 @@
       "stars": 0
     }
   ],
+  "JoeyKhd/ostra": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
+    }
+  ],
   "Kali123411/k402-mcp": [
     {
       "at": "2026-11-18T00:34:05Z",
@@ -605,6 +623,12 @@
     {
       "at": "2026-11-06T13:46:47Z",
       "stars": 232
+    }
+  ],
+  "NexPG/L4D2-HSMCP": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
     }
   ],
   "NijoP/electronics-agent-kit-new-prototype": [
@@ -837,6 +861,12 @@
       "stars": 0
     }
   ],
+  "UPinar/contrastapi": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 37
+    }
+  ],
   "UpstageAI/korean-report-hwpx": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -911,6 +941,12 @@
     {
       "at": "2026-11-13T05:11:57Z",
       "stars": 0
+    }
+  ],
+  "abcdlsj/sumi": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 3
     }
   ],
   "abdou-rgd/caladrius": [
@@ -1183,6 +1219,12 @@
       "stars": 26
     }
   ],
+  "blowhorn-ai/blowhorn-mcp": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 5
+    }
+  ],
   "bmjanet/htb-ctf-agent": [
     {
       "at": "2026-11-19T15:38:12Z",
@@ -1235,6 +1277,10 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 4
     }
   ],
   "chrisryugj/kordoc": [
@@ -1400,6 +1446,12 @@
   "dongdonglog/Agenthub": [
     {
       "at": "2026-11-17T01:36:26Z",
+      "stars": 1
+    }
+  ],
+  "dr-robert-li/frecklebubby": [
+    {
+      "at": "2026-11-20T14:55:27Z",
       "stars": 1
     }
   ],
@@ -1761,6 +1813,12 @@
       "stars": 0
     }
   ],
+  "helpin-ai/helpin": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 77
+    }
+  ],
   "hoanghainh1188/governed-adlc-fw": [
     {
       "at": "2026-11-14T05:01:22Z",
@@ -1883,6 +1941,10 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 95
+    },
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 98
     }
   ],
   "imwangpan/WeMind": [
@@ -2569,6 +2631,10 @@
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
     }
   ],
   "samugit83/redamon": [
@@ -2979,6 +3045,10 @@
     {
       "at": "2026-11-18T00:34:05Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 0
     }
   ],
   "vapao/MinDeck": [
@@ -3017,6 +3087,12 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 1
+    }
+  ],
+  "vibeunion/supacloud": [
+    {
+      "at": "2026-11-20T14:55:27Z",
+      "stars": 25
     }
   ],
   "vitral-ai/context-session-librarian": [
@@ -3106,6 +3182,12 @@
   "yulanventures/commonswarm": [
     {
       "at": "2026-11-18T23:54:32Z",
+      "stars": 0
+    }
+  ],
+  "yuttan/unofficial-hermes-remote": [
+    {
+      "at": "2026-11-20T14:55:27Z",
       "stars": 0
     }
   ],
