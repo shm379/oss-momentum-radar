@@ -57,6 +57,12 @@
       "stars": 0
     }
   ],
+  "AlexLiAtDuo/mcp-active-directory-server": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 0
+    }
+  ],
   "AnEntrypoint/gm": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -67,6 +73,12 @@
     {
       "at": "2026-11-12T23:14:14Z",
       "stars": 10
+    }
+  ],
+  "AntelopeJS/dms": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 27
     }
   ],
   "Aquaticats/Monochromatic": [
@@ -140,6 +152,10 @@
     },
     {
       "at": "2026-11-19T05:59:10Z",
+      "stars": 7
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
       "stars": 7
     }
   ],
@@ -277,6 +293,10 @@
     {
       "at": "2026-11-19T05:59:10Z",
       "stars": 401
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 403
     }
   ],
   "Dans-Plugins/dpc-mcp-server": [
@@ -743,6 +763,12 @@
       "stars": 7
     }
   ],
+  "Supersynergy/superiss": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 1
+    }
+  ],
   "TSRCHARAN/drishti": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -931,6 +957,10 @@
     {
       "at": "2026-11-18T23:54:32Z",
       "stars": 1720
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 1758
     }
   ],
   "aignerdevelopment/harnessator": [
@@ -949,6 +979,12 @@
     {
       "at": "2026-11-15T22:29:40Z",
       "stars": 2
+    }
+  ],
+  "alex-bridges/coord": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 0
     }
   ],
   "alexratmanpl/poland-transit-mcp": [
@@ -1119,6 +1155,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 2
+    }
+  ],
+  "berntpopp/hgnc-link": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 0
     }
   ],
   "biterik/openbis-mcp-server": [
@@ -1489,6 +1531,10 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 45
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 54
     }
   ],
   "flokkit/apptown": [
@@ -1504,6 +1550,10 @@
     },
     {
       "at": "2026-11-18T00:34:05Z",
+      "stars": 26
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
       "stars": 26
     }
   ],
@@ -1568,6 +1618,10 @@
     },
     {
       "at": "2026-11-18T15:08:52Z",
+      "stars": 98
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
       "stars": 98
     }
   ],
@@ -1662,6 +1716,12 @@
   "gwnexus/nexus-mcp": [
     {
       "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
+  "haddadyousef/nba-scout-mcp": [
+    {
+      "at": "2026-11-20T00:19:29Z",
       "stars": 0
     }
   ],
@@ -1819,6 +1879,10 @@
     {
       "at": "2026-11-19T15:38:12Z",
       "stars": 94
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 95
     }
   ],
   "imwangpan/WeMind": [
@@ -1943,6 +2007,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 5
+    }
+  ],
+  "kleinhansda/ha-mcp-addons": [
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 0
     }
   ],
   "kmanisk/bridge-dev": [
@@ -2795,6 +2865,10 @@
     {
       "at": "2026-11-19T05:59:10Z",
       "stars": 17144
+    },
+    {
+      "at": "2026-11-20T00:19:29Z",
+      "stars": 17292
     }
   ],
   "thanhdatpb/Listing-Guard": [
