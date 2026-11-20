@@ -163,6 +163,10 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 7
     }
   ],
   "BetaNYC/New-York-City-Budget": [
@@ -191,6 +195,12 @@
     {
       "at": "2026-11-19T15:38:12Z",
       "stars": 0
+    }
+  ],
+  "CBIIT/nci-sip-mcp": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 1
     }
   ],
   "CarletonTorpin/Zorderz": [
@@ -303,11 +313,21 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 403
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 404
     }
   ],
   "DalatHappyFarm/postbox": [
     {
       "at": "2026-11-20T14:55:27Z",
+      "stars": 0
+    }
+  ],
+  "DanielVd/icinga-mcp": [
+    {
+      "at": "2026-11-20T23:41:41Z",
       "stars": 0
     }
   ],
@@ -321,6 +341,10 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 54
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 147
     }
   ],
   "DevNexsler/RAG-In-A-Box": [
@@ -364,6 +388,12 @@
   "EunhakChoi/artifree": [
     {
       "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    }
+  ],
+  "Eyephonique/eyedia-mcp": [
+    {
+      "at": "2026-11-20T23:41:41Z",
       "stars": 0
     }
   ],
@@ -997,6 +1027,10 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 1758
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 1845
     }
   ],
   "aignerdevelopment/harnessator": [
@@ -1335,6 +1369,12 @@
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 451
+    }
+  ],
+  "cretli/cretli": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 0
     }
   ],
   "cubicecho/mcp-discovery": [
@@ -1945,6 +1985,10 @@
     {
       "at": "2026-11-20T14:55:27Z",
       "stars": 98
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 97
     }
   ],
   "imwangpan/WeMind": [
@@ -2087,12 +2131,20 @@
     {
       "at": "2026-11-19T05:59:10Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 0
     }
   ],
   "kstevica/captain-claw": [
     {
       "at": "2026-11-15T13:28:04Z",
       "stars": 196
+    },
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 199
     }
   ],
   "kyaswanthneeli-stack/codeatlas-mcp": [
@@ -2207,6 +2259,12 @@
     {
       "at": "2026-11-13T23:16:10Z",
       "stars": 0
+    }
+  ],
+  "matyas-toth/shipperkit": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 1
     }
   ],
   "maxcodefaster/open-software-factory": [
@@ -2379,6 +2437,12 @@
     {
       "at": "2026-11-15T22:29:40Z",
       "stars": 0
+    }
+  ],
+  "oaslananka/kicad-mcp-pro": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 229
     }
   ],
   "oneirum/aliquot": [
@@ -2605,6 +2669,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 911
+    }
+  ],
+  "rxmna8502/vybe-intelligence-vault": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 22
     }
   ],
   "ryuzcorp/noite": [
@@ -3133,6 +3203,12 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 15
+    }
+  ],
+  "waggle-sh/waggle": [
+    {
+      "at": "2026-11-20T23:41:41Z",
+      "stars": 0
     }
   ],
   "wallago/mind": [
