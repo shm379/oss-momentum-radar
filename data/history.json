@@ -329,6 +329,10 @@
     {
       "at": "2026-11-20T23:41:41Z",
       "stars": 404
+    },
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 405
     }
   ],
   "DalatHappyFarm/postbox": [
@@ -1147,6 +1151,12 @@
       "stars": 0
     }
   ],
+  "asevillano/mcp-private-lab": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "ashevchuk/personal-wiki": [
     {
       "at": "2026-11-11T13:36:55Z",
@@ -1583,6 +1593,12 @@
       "stars": 0
     }
   ],
+  "endavis/infrafoundry": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "epatel/ai-health": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -1631,6 +1647,12 @@
       "stars": 21
     }
   ],
+  "ferropod/ferropod": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "findavoulot1973/Blender-AI-MCP-Suite": [
     {
       "at": "2026-11-15T13:28:04Z",
@@ -1674,6 +1696,10 @@
     },
     {
       "at": "2026-11-21T05:43:43Z",
+      "stars": 27
+    },
+    {
+      "at": "2026-11-21T14:15:02Z",
       "stars": 27
     }
   ],
@@ -1869,6 +1895,12 @@
       "stars": 256
     }
   ],
+  "hantrleko/ashare-mcp": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "hara-seihun/kenan-stack": [
     {
       "at": "2026-11-07T21:28:23Z",
@@ -2027,6 +2059,16 @@
     {
       "at": "2026-11-21T05:43:43Z",
       "stars": 97
+    },
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 97
+    }
+  ],
+  "igenexxx/nfc-studio": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
     }
   ],
   "imwangpan/WeMind": [
@@ -2539,6 +2581,12 @@
       "stars": 0
     }
   ],
+  "openforlearning/learn-ansible": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "opikdev/mcp-server-python-starter": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -2721,6 +2769,12 @@
       "stars": 5
     }
   ],
+  "robeertm/AIWerkstatt": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "roseengineering/nina_planner_mcp_server": [
     {
       "at": "2026-11-18T00:34:05Z",
@@ -2863,6 +2917,10 @@
     {
       "at": "2026-11-17T15:31:32Z",
       "stars": 5
+    },
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 6
     }
   ],
   "shlim-t/labview-mcp": [
@@ -2968,6 +3026,10 @@
     },
     {
       "at": "2026-11-18T23:54:32Z",
+      "stars": 3
+    },
+    {
+      "at": "2026-11-21T14:15:02Z",
       "stars": 3
     }
   ],
@@ -3171,6 +3233,12 @@
       "stars": 0
     }
   ],
+  "toprakahmetaydogmus/TZeroAlgorithm": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 46
+    }
+  ],
   "totobusnello/memoria-nox": [
     {
       "at": "2026-11-07T21:28:23Z",
@@ -3333,6 +3401,12 @@
       "stars": 1
     }
   ],
+  "ylkhayat/concierge": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
   "yorch/wp-guarded-mcp": [
     {
       "at": "2026-11-06T22:44:17Z",
@@ -3355,6 +3429,12 @@
     {
       "at": "2026-11-17T01:36:26Z",
       "stars": 0
+    }
+  ],
+  "zkyron-de/agent-bridge-for-bitwig": [
+    {
+      "at": "2026-11-21T14:15:02Z",
+      "stars": 1
     }
   ],
   "zovulrira1974/blender-ai-copilot-assets": [
