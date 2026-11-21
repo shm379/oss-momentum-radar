@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-21 14:15
+Updated UTC: 2026-11-21 22:47
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-21 | 0 | none | — | 100+ | 100+ | 100+ | 97 | not yet measurable | 6 | not yet measurable | MIT |
-| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | agent coordination | 2026-11-21 | 171 | v0.172.2 | 2026-11-21 | 100+ | 100+ | 100+ | 405 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [toprakahmetaydogmus/TZeroAlgorithm](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) | mcp server | 2026-11-21 | 12 | v12.1.0 | 2026-11-21 | 29 | 99 | 100+ | 46 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
-| [florinel-chis/GopherCRM](https://github.com/florinel-chis/GopherCRM) | open source CRM | 2026-11-21 | 10 | v1.2.0 | 2026-09-25 | 40 | 100+ | 100+ | 27 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [shipkeepdev/shipkeep](https://github.com/shipkeepdev/shipkeep) | self hosted paas | 2026-11-21 | 80 | v0.1.0-alpha.3 | 2026-11-19 | 23 | 75 | 100+ | 6 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [sympoies/nils-cli](https://github.com/sympoies/nils-cli) | rust automation | 2026-11-21 | 96 | v1.41.10 | 2026-11-21 | 16 | 98 | 100+ | 3 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [zkyron-de/agent-bridge-for-bitwig](https://github.com/zkyron-de/agent-bridge-for-bitwig) | mcp server | 2026-11-21 | 1 | v2.1.0 | 2026-11-21 | 42 | 42 | 63 | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [robeertm/AIWerkstatt](https://github.com/robeertm/AIWerkstatt) | self hosted agent | 2026-11-21 | 0 | v0.39.0 | 2026-11-21 | 10 | 32 | 53 | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [ferropod/ferropod](https://github.com/ferropod/ferropod) | self hosted paas | 2026-11-21 | 8 | none | — | 49 | 49 | 49 | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [endavis/infrafoundry](https://github.com/endavis/infrafoundry) | infrastructure automation | 2026-11-21 | 16 | none | — | 31 | 97 | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-21 | 7890 | v0.46.1 | 2026-11-21 | 100+ | 100+ | 100+ | 17608 | not yet measurable | 1381 | not yet measurable | Apache-2.0 |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-21 | 0 | none | — | 100+ | 100+ | 100+ | 97 | -1 | 6 | not yet measurable | MIT |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 2026-11-21 | 293 | 7.8.5 | 2026-11-17 | 23 | 100+ | 100+ | 1002 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [miabi-io/miabi](https://github.com/miabi-io/miabi) | self hosted paas | 2026-11-21 | 1 | v1.10.30 | 2026-11-19 | 29 | 96 | 100+ | 96 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [matthewdonsemail-lab/log](https://github.com/matthewdonsemail-lab/log) | mcp server | 2026-11-21 | 26 | v0.4.1-nightly.202611212217.06e706b | 2026-11-21 | 74 | 100+ | 100+ | 90 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | mcp server | 2026-11-21 | 5 | v2.1.0 | 2026-11-20 | 9 | 61 | 100+ | 23 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [Govcraft/beankeeper](https://github.com/Govcraft/beankeeper) | self hosted agent | 2026-11-21 | 30 | beankeeper-cli-v0.27.0 | 2026-11-21 | 28 | 100+ | 100+ | 12 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [emreocell/Praxi-Bot](https://github.com/emreocell/Praxi-Bot) | rust automation | 2026-11-21 | 71 | v0.1.0-alpha.3 | 2026-11-20 | 65 | 100+ | 100+ | 11 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Vadims06/topolograph-mcp-server](https://github.com/Vadims06/topolograph-mcp-server) | mcp server | 2026-11-21 | 0 | none | — | 13 | 31 | 40 | 6 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [bohous04/devbox](https://github.com/bohous04/devbox) | self hosted agent | 2026-11-21 | 0 | none | — | 96 | 100+ | 100+ | 4 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

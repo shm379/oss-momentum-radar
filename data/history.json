@@ -261,6 +261,10 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 997
+    },
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 1002
     }
   ],
   "ClickHouse/loom": [
@@ -473,6 +477,12 @@
     {
       "at": "2026-11-17T01:36:26Z",
       "stars": 2
+    }
+  ],
+  "Govcraft/beankeeper": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 12
     }
   ],
   "Handigraphs/handigraphs-stats-api-mcp": [
@@ -937,6 +947,12 @@
       "stars": 0
     }
   ],
+  "Vadims06/topolograph-mcp-server": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 6
+    }
+  ],
   "Vanclief/compose": [
     {
       "at": "2026-11-17T01:36:26Z",
@@ -1101,6 +1117,12 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 22
+    }
+  ],
+  "ammons-datalabs/adl-context-collector": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 0
     }
   ],
   "andrey-usa/navigera": [
@@ -1297,6 +1319,12 @@
     {
       "at": "2026-11-19T15:38:12Z",
       "stars": 0
+    }
+  ],
+  "bohous04/devbox": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 4
     }
   ],
   "brcampidelli/chimera-agent": [
@@ -1591,6 +1619,10 @@
     {
       "at": "2026-11-18T00:34:05Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 11
     }
   ],
   "endavis/infrafoundry": [
@@ -2063,6 +2095,10 @@
     {
       "at": "2026-11-21T14:15:02Z",
       "stars": 97
+    },
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 97
     }
   ],
   "igenexxx/nfc-studio": [
@@ -2239,6 +2275,12 @@
       "stars": 0
     }
   ],
+  "labsiqbal/minarbot": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 0
+    }
+  ],
   "langfuse/langfuse": [
     {
       "at": "2026-11-11T13:36:55Z",
@@ -2347,6 +2389,12 @@
       "stars": 0
     }
   ],
+  "matthewdonsemail-lab/log": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 90
+    }
+  ],
   "mattoddie/unifi-mcp": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -2415,6 +2463,12 @@
     {
       "at": "2026-11-12T00:04:23Z",
       "stars": 0
+    }
+  ],
+  "miabi-io/miabi": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 96
     }
   ],
   "michalhron/new-outlook-mcp": [
@@ -2715,6 +2769,12 @@
       "stars": 3359
     }
   ],
+  "punt-labs/biff": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 2
+    }
+  ],
   "racdeufindurch198812/Blender-AI-MCP-Studio": [
     {
       "at": "2026-11-15T13:28:04Z",
@@ -2797,6 +2857,10 @@
     {
       "at": "2026-11-20T23:41:41Z",
       "stars": 22
+    },
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 23
     }
   ],
   "ryuzcorp/noite": [
@@ -2993,6 +3057,12 @@
       "stars": 0
     }
   ],
+  "spyrosbazios/drawer": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 0
+    }
+  ],
   "startupbuilders777/within-mcp": [
     {
       "at": "2026-11-10T22:51:47Z",
@@ -3145,6 +3215,10 @@
     {
       "at": "2026-11-21T05:43:43Z",
       "stars": 17491
+    },
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 17608
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -3309,6 +3383,12 @@
     {
       "at": "2026-11-20T14:55:27Z",
       "stars": 25
+    }
+  ],
+  "virtualben89/spoolman-mcp-go": [
+    {
+      "at": "2026-11-21T22:47:11Z",
+      "stars": 0
     }
   ],
   "vitral-ai/context-session-librarian": [
