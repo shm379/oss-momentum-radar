@@ -10,7 +10,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-TOPICS = ("mcp server", "rust automation", "self hosted agent", "open source CRM", "agent coordination", "self hosted paas")
+TOPICS = ("mcp server", "rust automation", "self hosted agent", "open source CRM", "agent coordination", "self hosted paas", "ci/cd reliability", "infrastructure automation")
 WINDOWS = (("24h", 1), ("7d", 7), ("30d", 30))
 
 def request_json(path):

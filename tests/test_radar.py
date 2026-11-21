@@ -10,6 +10,10 @@ class Tests(unittest.TestCase):
         self.assertIn("agent coordination", radar.TOPICS)
         self.assertIn("self hosted paas", radar.TOPICS)
 
+    def test_default_topics_cover_opsless_and_ci_cd_reliability(self):
+        self.assertIn("ci/cd reliability", radar.TOPICS)
+        self.assertIn("infrastructure automation", radar.TOPICS)
+
     def test_duplicate_results_merge_topic_names(self):
         def api(_):
             return {"items": [{"full_name": "x/y", "archived": False, "fork": False}]}
