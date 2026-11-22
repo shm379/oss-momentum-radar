@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-21 22:47
+Updated UTC: 2026-11-22 05:13
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-21 | 7890 | v0.46.1 | 2026-11-21 | 100+ | 100+ | 100+ | 17608 | not yet measurable | 1381 | not yet measurable | Apache-2.0 |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-21 | 0 | none | — | 100+ | 100+ | 100+ | 97 | -1 | 6 | not yet measurable | MIT |
-| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 2026-11-21 | 293 | 7.8.5 | 2026-11-17 | 23 | 100+ | 100+ | 1002 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [miabi-io/miabi](https://github.com/miabi-io/miabi) | self hosted paas | 2026-11-21 | 1 | v1.10.30 | 2026-11-19 | 29 | 96 | 100+ | 96 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
-| [matthewdonsemail-lab/log](https://github.com/matthewdonsemail-lab/log) | mcp server | 2026-11-21 | 26 | v0.4.1-nightly.202611212217.06e706b | 2026-11-21 | 74 | 100+ | 100+ | 90 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | mcp server | 2026-11-21 | 5 | v2.1.0 | 2026-11-20 | 9 | 61 | 100+ | 23 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [Govcraft/beankeeper](https://github.com/Govcraft/beankeeper) | self hosted agent | 2026-11-21 | 30 | beankeeper-cli-v0.27.0 | 2026-11-21 | 28 | 100+ | 100+ | 12 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [emreocell/Praxi-Bot](https://github.com/emreocell/Praxi-Bot) | rust automation | 2026-11-21 | 71 | v0.1.0-alpha.3 | 2026-11-20 | 65 | 100+ | 100+ | 11 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [Vadims06/topolograph-mcp-server](https://github.com/Vadims06/topolograph-mcp-server) | mcp server | 2026-11-21 | 0 | none | — | 13 | 31 | 40 | 6 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [bohous04/devbox](https://github.com/bohous04/devbox) | self hosted agent | 2026-11-21 | 0 | none | — | 96 | 100+ | 100+ | 4 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | mcp server | 2026-11-22 | 35 | none | — | 29 | 29 | 77 | 435 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [miabi-io/miabi](https://github.com/miabi-io/miabi) | self hosted paas | 2026-11-22 | 1 | v1.10.30 | 2026-11-19 | 38 | 100+ | 100+ | 96 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync) | mcp server | 2026-11-22 | 29 | v0.2.0 | 2026-10-22 | 16 | 52 | 100+ | 72 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 2026-11-22 | 4977 | monochromatic-git-policy-cli-v0.6.1-alpha.44 | 2026-11-16 | 100+ | 100+ | 100+ | 7 | 0 | 0 | not yet measurable | LGPL-3.0 |
+| [cyberducttape/wayexpand](https://github.com/cyberducttape/wayexpand) | rust automation | 2026-11-22 | 8 | 1.3.6 | 2026-11-16 | 95 | 100+ | 100+ | 6 | not yet measurable | 0 | not yet measurable | MIT |
+| [xiechimon/cairn](https://github.com/xiechimon/cairn) | self hosted agent | 2026-11-22 | 14 | desktop-v0.1.657 | 2026-11-22 | 94 | 100+ | 100+ | 5 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [sympoies/nils-cli](https://github.com/sympoies/nils-cli) | rust automation | 2026-11-22 | 100 | v1.42.0 | 2026-11-22 | 26 | 100+ | 100+ | 3 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [Maxteabag/clarp](https://github.com/Maxteabag/clarp) | self hosted agent | 2026-11-22 | 78 | desktop-builds | 2026-10-02 | 100+ | 100+ | 100+ | 3 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [MarkTripoli/bakery](https://github.com/MarkTripoli/bakery) | self hosted agent | 2026-11-22 | 126 | none | — | 58 | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [cristiangarciavd/acequias-mcp](https://github.com/cristiangarciavd/acequias-mcp) | mcp server | 2026-11-22 | 23 | none | — | 32 | 43 | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

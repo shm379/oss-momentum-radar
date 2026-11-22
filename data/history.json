@@ -29,6 +29,12 @@
       "stars": 0
     }
   ],
+  "4rkooo/kubernetes-platform-lab": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 0
+    }
+  ],
   "77777R7/Octocrawl": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -172,6 +178,10 @@
     },
     {
       "at": "2026-11-20T23:41:41Z",
+      "stars": 7
+    },
+    {
+      "at": "2026-11-22T05:13:25Z",
       "stars": 7
     }
   ],
@@ -397,6 +407,12 @@
     {
       "at": "2026-11-17T01:36:26Z",
       "stars": 7874
+    }
+  ],
+  "Dominic789654/awesome-deepseek-harness": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 435
     }
   ],
   "Eilbera/dgx-multi-agent-lab": [
@@ -653,10 +669,22 @@
       "stars": 1
     }
   ],
+  "MarkTripoli/bakery": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 1
+    }
+  ],
   "Martynez99/nexus-flow": [
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 0
+    }
+  ],
+  "Maxteabag/clarp": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 3
     }
   ],
   "Miosa-osa/OptimalEngine": [
@@ -1439,6 +1467,12 @@
       "stars": 0
     }
   ],
+  "cristiangarciavd/acequias-mcp": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 0
+    }
+  ],
   "cubicecho/mcp-discovery": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1452,6 +1486,10 @@
     },
     {
       "at": "2026-11-14T21:59:14Z",
+      "stars": 6
+    },
+    {
+      "at": "2026-11-22T05:13:25Z",
       "stars": 6
     }
   ],
@@ -1495,6 +1533,12 @@
     {
       "at": "2026-11-19T15:38:12Z",
       "stars": 9
+    }
+  ],
+  "davidbejar/boe-insights-mcp": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 0
     }
   ],
   "davidemoraschi/effective-telegram": [
@@ -1646,6 +1690,12 @@
   "eugene-chekan/znicz": [
     {
       "at": "2026-11-10T22:51:47Z",
+      "stars": 0
+    }
+  ],
+  "evanatpizzarobot/vr-org-mcp": [
+    {
+      "at": "2026-11-22T05:13:25Z",
       "stars": 0
     }
   ],
@@ -2469,6 +2519,10 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 96
+    },
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 96
     }
   ],
   "michalhron/new-outlook-mcp": [
@@ -2793,6 +2847,12 @@
       "stars": 17
     }
   ],
+  "rakibuilds/rakibuilds.github.io": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 0
+    }
+  ],
   "reliant-labs/forge": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -3045,6 +3105,12 @@
       "stars": 0
     }
   ],
+  "soma-intelligence/open-health-sync": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 72
+    }
+  ],
   "spietrza/taskcell": [
     {
       "at": "2026-11-15T22:29:40Z",
@@ -3100,6 +3166,10 @@
     },
     {
       "at": "2026-11-21T14:15:02Z",
+      "stars": 3
+    },
+    {
+      "at": "2026-11-22T05:13:25Z",
       "stars": 3
     }
   ],
@@ -3443,6 +3513,12 @@
       "stars": 0
     }
   ],
+  "webtools-dotcom/Zynlex": [
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 8
+    }
+  ],
   "wuhanwoaini521/self-tools": [
     {
       "at": "2026-11-21T05:43:43Z",
@@ -3461,6 +3537,10 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 4
+    },
+    {
+      "at": "2026-11-22T05:13:25Z",
+      "stars": 5
     }
   ],
   "xiron902224/norix": [
