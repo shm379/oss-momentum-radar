@@ -51,6 +51,12 @@
       "stars": 203
     }
   ],
+  "ASTRANL/astranl-mcp": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 0
+    }
+  ],
   "AgentTools-Cloud/agent-tools-gemini": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -387,6 +393,12 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 1
+    }
+  ],
+  "DingHappy/VortoOne": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 3
     }
   ],
   "DoliCloud/DoliMed": [
@@ -1045,6 +1057,12 @@
       "stars": 0
     }
   ],
+  "aa0101181514/tw-legal-rag": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 353
+    }
+  ],
   "abcdlsj/sumi": [
     {
       "at": "2026-11-20T14:55:27Z",
@@ -1145,6 +1163,12 @@
     {
       "at": "2026-11-11T04:49:23Z",
       "stars": 22
+    }
+  ],
+  "alphagov/govuk-helm-charts": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 24
     }
   ],
   "ammons-datalabs/adl-context-collector": [
@@ -1367,10 +1391,22 @@
       "stars": 0
     }
   ],
+  "business-wknd/nuluno-engine": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 0
+    }
+  ],
   "bykarantelicom/bykaranteli-mcp": [
     {
       "at": "2026-11-15T22:29:40Z",
       "stars": 2
+    }
+  ],
+  "casoon/macfly": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 0
     }
   ],
   "ccfos/nightingale": [
@@ -1429,12 +1465,22 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 0
     }
   ],
   "clouatre-labs/aptu-coder": [
     {
       "at": "2026-11-09T15:15:42Z",
       "stars": 7
+    }
+  ],
+  "conclavio/w11term": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 0
     }
   ],
   "coollabsio/coolify": [
@@ -1625,6 +1671,12 @@
       "stars": 0
     }
   ],
+  "edgehero/pi-dispatch": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 197
+    }
+  ],
   "egao1980/lisp-mcp": [
     {
       "at": "2026-11-18T23:54:32Z",
@@ -1755,6 +1807,10 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 54
+    },
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 55
     }
   ],
   "flokkit/apptown": [
@@ -1812,6 +1868,12 @@
   "fullstackgtm/canon": [
     {
       "at": "2026-11-11T04:49:23Z",
+      "stars": 0
+    }
+  ],
+  "gabrielemontagnini/sosya": [
+    {
+      "at": "2026-11-22T14:05:29Z",
       "stars": 0
     }
   ],
@@ -2149,6 +2211,10 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 97
+    },
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 97
     }
   ],
   "igenexxx/nfc-studio": [
@@ -2307,6 +2373,10 @@
     {
       "at": "2026-11-20T23:41:41Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 1
     }
   ],
   "kstevica/captain-claw": [
@@ -2349,6 +2419,12 @@
     {
       "at": "2026-11-12T14:40:30Z",
       "stars": 161045
+    }
+  ],
+  "lduchosal/kenboard": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 4
     }
   ],
   "leestripp/hivemind": [
@@ -2587,6 +2663,12 @@
     {
       "at": "2026-11-06T22:44:17Z",
       "stars": 0
+    }
+  ],
+  "moxno/privacyscrubber-mcp": [
+    {
+      "at": "2026-11-22T14:05:29Z",
+      "stars": 3
     }
   ],
   "moyaver/fleet": [
