@@ -51,6 +51,12 @@
       "stars": 203
     }
   ],
+  "AKzar1el/mcp-trendpulse": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 14
+    }
+  ],
   "ASTRANL/astranl-mcp": [
     {
       "at": "2026-11-22T14:05:29Z",
@@ -189,6 +195,12 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 7
+    }
+  ],
+  "AutumnsGrove/Sepia": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
     }
   ],
   "BetaNYC/New-York-City-Budget": [
@@ -353,6 +365,10 @@
     {
       "at": "2026-11-21T14:15:02Z",
       "stars": 405
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 408
     }
   ],
   "DalatHappyFarm/postbox": [
@@ -759,6 +775,10 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
     }
   ],
   "NikhilMank/Job-Tracker-MCP": [
@@ -819,6 +839,12 @@
       "stars": 3
     }
   ],
+  "PrismorSec/prismor": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 588
+    }
+  ],
   "RdyGaming/hated-wow-mcp": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -857,6 +883,12 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 1
+    }
+  ],
+  "Sekinal/waybound": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
     }
   ],
   "SenjuWoo/SkyrimForge": [
@@ -1693,6 +1725,12 @@
       "stars": 1
     }
   ],
+  "dreamor/MemVault": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 2
+    }
+  ],
   "duketopceo/tallyline": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1965,6 +2003,10 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 98
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 98
     }
   ],
   "georgecejr/hermes-agent-security-automation-lab": [
@@ -2015,6 +2057,12 @@
     {
       "at": "2026-11-16T04:52:03Z",
       "stars": 636
+    }
+  ],
+  "grigent/trustdex": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 1
     }
   ],
   "gronare/mindin": [
@@ -2271,6 +2319,10 @@
     {
       "at": "2026-11-22T23:15:41Z",
       "stars": 98
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 99
     }
   ],
   "igenexxx/nfc-studio": [
@@ -2769,6 +2821,16 @@
     {
       "at": "2026-11-10T22:51:47Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
+    }
+  ],
+  "netta-dev/claudesurf": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
     }
   ],
   "nirholas/three.ws": [
@@ -2861,6 +2923,10 @@
     {
       "at": "2026-11-17T01:36:26Z",
       "stars": 4
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 3
     }
   ],
   "orib1743/nba-spoiler-free-bot": [
@@ -3141,6 +3207,12 @@
     {
       "at": "2026-11-19T15:38:12Z",
       "stars": 1379
+    }
+  ],
+  "scoplen/server": [
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 0
     }
   ],
   "senacula/senacula-imagestudio": [
@@ -3453,6 +3525,10 @@
     {
       "at": "2026-11-22T23:15:41Z",
       "stars": 17756
+    },
+    {
+      "at": "2026-11-23T05:52:48Z",
+      "stars": 17802
     }
   ],
   "thanhdatpb/Listing-Guard": [

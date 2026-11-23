@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-22 23:15
+Updated UTC: 2026-11-23 05:52
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-22 | 0 | none | — | 100+ | 100+ | 100+ | 98 | 1 | 6 | not yet measurable | MIT |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-22 | 7848 | v0.46.2-nightly.20261122.155.1 | 2026-11-22 | 100+ | 100+ | 100+ | 17756 | 148 | not yet measurable | not yet measurable | Apache-2.0 |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | ci/cd reliability | 2026-11-22 | 21 | v0.1.2026.11.22 | 2026-11-22 | 6 | 23 | 100+ | 14391 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) | open source CRM | 2026-11-22 | 22 | v0.42.3 | 2026-11-22 | 12 | 23 | 100+ | 743 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [alphagov/govuk-helm-charts](https://github.com/alphagov/govuk-helm-charts) | infrastructure automation | 2026-11-22 | 20 | kubernetes-events-shipper-1.3.0 | 2026-11-19 | 100+ | 100+ | 100+ | 24 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [picoduck/wollipog](https://github.com/picoduck/wollipog) | self hosted agent | 2026-11-22 | 199 | v0.37.1 | 2026-11-21 | 22 | 100+ | 100+ | 3 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [geezoria/FLStudioMCP](https://github.com/geezoria/FLStudioMCP) | mcp server | 2026-11-22 | 0 | v0.5.0 | 2026-11-22 | 26 | 26 | 26 | 11 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [openhuthq/openhut](https://github.com/openhuthq/openhut) | self hosted agent | 2026-11-22 | 1 | v0.5.0-beta.3 | 2026-11-22 | 100+ | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [J-ARTS/de.sketchdraw.io](https://github.com/J-ARTS/de.sketchdraw.io) | mcp server | 2026-11-22 | 6 | v0.1.8 | 2026-11-21 | 32 | 77 | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [NikhilMank/Job-Tracker-MCP](https://github.com/NikhilMank/Job-Tracker-MCP) | mcp server | 2026-11-22 | 0 | none | — | 30 | 38 | 38 | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-23 | 7810 | v0.47.0-nightly.20261123.157.1 | 2026-11-23 | 100+ | 100+ | 100+ | 17802 | 194 | 1264 | not yet measurable | Apache-2.0 |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-23 | 0 | none | — | 100+ | 100+ | 100+ | 99 | 2 | 7 | not yet measurable | MIT |
+| [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | self hosted agent | 2026-11-23 | 48 | v1.80.1 | 2026-11-21 | 6 | 71 | 100+ | 588 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | agent coordination | 2026-11-23 | 224 | v0.175.2 | 2026-11-23 | 100+ | 100+ | 100+ | 408 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [generalbots/generalbots](https://github.com/generalbots/generalbots) | open source CRM | 2026-11-23 | 282 | v7.0.36 | 2026-11-21 | 100+ | 100+ | 100+ | 98 | not yet measurable | 0 | not yet measurable | MIT |
+| [AKzar1el/mcp-trendpulse](https://github.com/AKzar1el/mcp-trendpulse) | mcp server | 2026-11-23 | 13 | v0.3.1 | 2026-11-23 | 46 | 100+ | 100+ | 14 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [dreamor/MemVault](https://github.com/dreamor/MemVault) | self hosted agent | 2026-11-23 | 0 | v0.7.6 | 2026-11-23 | 11 | 79 | 100+ | 2 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [grigent/trustdex](https://github.com/grigent/trustdex) | mcp server | 2026-11-23 | 2 | v0.21.0 | 2026-11-23 | 27 | 66 | 92 | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [NijoP/electronics-agent-kit-new-prototype](https://github.com/NijoP/electronics-agent-kit-new-prototype) | rust automation | 2026-11-23 | 21 | prebuilt-20261117-97a697b | 2026-11-17 | 100+ | 100+ | 100+ | 0 | not yet measurable | 0 | not yet measurable | NOASSERTION |
+| [nathwn12/oc-collections](https://github.com/nathwn12/oc-collections) | mcp server | 2026-11-23 | 2 | none | — | 19 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.
