@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-24 03:49
+Updated UTC: 2026-11-24 16:59
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-24 | 7616 | v0.48.0 | 2026-11-24 | 100+ | 100+ | 100+ | 17947 | 191 | 1263 | not yet measurable | Apache-2.0 |
-| [langgenius/dify](https://github.com/langgenius/dify) | self hosted agent | 2026-11-24 | 1271 | 1.20.0 | 2026-11-18 | 44 | 100+ | 100+ | 161782 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | self hosted agent | 2026-11-24 | 2034 | v0.12.1 | 2026-11-23 | 100+ | 100+ | 100+ | 57587 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust) | agent coordination | 2026-11-24 | 17 | v0.3.41 | 2026-11-21 | 34 | 100+ | 100+ | 282 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-24 | 0 | none | — | 99 | 99 | 100+ | 102 | 4 | not yet measurable | not yet measurable | MIT |
-| [agentscope-ai/AgentTeams](https://github.com/agentscope-ai/AgentTeams) | agent coordination | 2026-11-24 | 271 | v1.2.8 | 2026-11-19 | 8 | 20 | 100+ | 6124 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [Govcraft/beankeeper](https://github.com/Govcraft/beankeeper) | self hosted agent | 2026-11-24 | 1 | beankeeper-cli-v0.27.0 | 2026-11-21 | 14 | 100+ | 100+ | 13 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [dollarkillerx/Washi](https://github.com/dollarkillerx/Washi) | mcp server | 2026-11-24 | 1 | none | — | 20 | 88 | 88 | 0 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
-| [goldmarklabs/crispparse-mcp](https://github.com/goldmarklabs/crispparse-mcp) | mcp server | 2026-11-24 | 0 | none | — | 9 | 24 | 24 | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [yhuan416/serial-hub-mcp](https://github.com/yhuan416/serial-hub-mcp) | mcp server | 2026-11-24 | 0 | v0.3.3 | 2026-11-23 | 17 | 21 | 47 | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-24 | 7528 | v0.48.0-nightly.20261124.161.1 | 2026-11-24 | 100+ | 100+ | 100+ | 18048 | 246 | 1237 | not yet measurable | Apache-2.0 |
+| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | agent coordination | 2026-11-24 | 195 | v0.176.6 | 2026-11-24 | 100+ | 100+ | 100+ | 411 | 3 | 16 | not yet measurable | Apache-2.0 |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | mcp server | 2026-11-24 | 85 | none | — | 11 | 65 | 100+ | 170 | not yet measurable | not yet measurable | not yet measurable | CC0-1.0 |
+| [alphagov/govuk-helm-charts](https://github.com/alphagov/govuk-helm-charts) | infrastructure automation | 2026-11-24 | 20 | kubernetes-events-shipper-1.3.0 | 2026-11-19 | 100+ | 100+ | 100+ | 24 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [antoinedc/MantaUI](https://github.com/antoinedc/MantaUI) | self hosted agent | 2026-11-24 | 4 | win-v1.5.0 | 2026-11-19 | 7 | 39 | 100+ | 14 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [cedricziel/hermes-app](https://github.com/cedricziel/hermes-app) | self hosted agent | 2026-11-24 | 29 | v0.1.83 | 2026-11-24 | 22 | 100+ | 100+ | 4 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [gdressino/scipq-mcp](https://github.com/gdressino/scipq-mcp) | mcp server | 2026-11-24 | 0 | none | — | 50 | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [PandaQuQ/robroz](https://github.com/PandaQuQ/robroz) | self hosted agent | 2026-11-24 | 3 | none | — | 26 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [DietKyle956/Curved](https://github.com/DietKyle956/Curved) | self hosted agent | 2026-11-24 | 0 | none | — | 13 | 49 | 76 | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
+| [codeslp/btrain](https://github.com/codeslp/btrain) | agent coordination | 2026-11-24 | 2 | none | — | 11 | 12 | 12 | 5 | not yet measurable | not yet measurable | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

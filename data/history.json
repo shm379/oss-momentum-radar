@@ -369,6 +369,10 @@
     {
       "at": "2026-11-23T05:52:48Z",
       "stars": 408
+    },
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 411
     }
   ],
   "DalatHappyFarm/postbox": [
@@ -427,6 +431,12 @@
     {
       "at": "2026-11-24T03:49:38Z",
       "stars": 282
+    }
+  ],
+  "DietKyle956/Curved": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 0
     }
   ],
   "DingHappy/VortoOne": [
@@ -677,6 +687,12 @@
       "stars": 0
     }
   ],
+  "L337-org/send-to-influx": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 2
+    }
+  ],
   "LAPSrj/smcp": [
     {
       "at": "2026-11-21T05:43:43Z",
@@ -699,6 +715,12 @@
     {
       "at": "2026-11-13T13:57:34Z",
       "stars": 0
+    }
+  ],
+  "LukeStackLab/db-semantic-mcp": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 3
     }
   ],
   "Luvi-io/luw-mcp": [
@@ -851,6 +873,12 @@
       "stars": 1
     }
   ],
+  "PandaQuQ/robroz": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 0
+    }
+  ],
   "Pigeon-Home/homing-pigeon": [
     {
       "at": "2026-11-13T05:11:57Z",
@@ -911,6 +939,12 @@
     {
       "at": "2026-11-10T14:23:20Z",
       "stars": 0
+    }
+  ],
+  "Sagargupta16/awesome-mcp-servers": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 170
     }
   ],
   "Saurabhzz9/tethertrace": [
@@ -1287,6 +1321,10 @@
     {
       "at": "2026-11-22T23:15:41Z",
       "stars": 24
+    },
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 24
     }
   ],
   "ammons-datalabs/adl-context-collector": [
@@ -1317,6 +1355,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 23
+    }
+  ],
+  "antoinedc/MantaUI": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 14
     }
   ],
   "anulum/synapse-channel": [
@@ -1533,6 +1577,12 @@
       "stars": 2
     }
   ],
+  "camerondwills/lazyads-mcp": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 0
+    }
+  ],
   "casoon/macfly": [
     {
       "at": "2026-11-22T14:05:29Z",
@@ -1555,6 +1605,10 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 3
+    },
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 4
     }
   ],
   "chedong/phpman": [
@@ -1611,6 +1665,12 @@
     {
       "at": "2026-11-09T15:15:42Z",
       "stars": 7
+    }
+  ],
+  "codeslp/btrain": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 5
     }
   ],
   "conclavio/w11term": [
@@ -2051,6 +2111,12 @@
     {
       "at": "2026-11-09T04:46:47Z",
       "stars": 0
+    }
+  ],
+  "gdressino/scipq-mcp": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 1
     }
   ],
   "geezoria/FLStudioMCP": [
@@ -3223,6 +3289,12 @@
       "stars": 10
     }
   ],
+  "retyc/retyc-cli": [
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 22
+    }
+  ],
   "rhnfzl/agent-usage-tracker": [
     {
       "at": "2026-11-14T21:59:14Z",
@@ -3426,6 +3498,12 @@
   "sickhye/agents-agora": [
     {
       "at": "2026-11-15T04:54:43Z",
+      "stars": 0
+    }
+  ],
+  "simonbaron-it/HomeLab-AzureHybrid": [
+    {
+      "at": "2026-11-24T16:59:14Z",
       "stars": 0
     }
   ],
@@ -3671,6 +3749,10 @@
     {
       "at": "2026-11-24T03:49:38Z",
       "stars": 17947
+    },
+    {
+      "at": "2026-11-24T16:59:14Z",
+      "stars": 18048
     }
   ],
   "thanhdatpb/Listing-Guard": [
