@@ -373,6 +373,16 @@
     {
       "at": "2026-11-24T16:59:14Z",
       "stars": 411
+    },
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 411
+    }
+  ],
+  "DHURJATI-JS/deminic-agentic-ai": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 1
     }
   ],
   "DalatHappyFarm/postbox": [
@@ -1199,6 +1209,12 @@
       "stars": 353
     }
   ],
+  "aaen-studios/loom": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 1
+    }
+  ],
   "aavantika-r/100DaysOfCloudOps": [
     {
       "at": "2026-11-23T17:27:29Z",
@@ -1283,6 +1299,12 @@
       "stars": 22369
     }
   ],
+  "aiti-ai/aiti-docs": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 0
+    }
+  ],
   "aleskalfas/project-kit": [
     {
       "at": "2026-11-15T22:29:40Z",
@@ -1355,6 +1377,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 23
+    }
+  ],
+  "anthod0/pontia": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 2
     }
   ],
   "antoinedc/MantaUI": [
@@ -1948,6 +1976,36 @@
   "endavis/infrafoundry": [
     {
       "at": "2026-11-21T14:15:02Z",
+      "stars": 0
+    }
+  ],
+  "eneko-codes/apple-screenshots-mcp": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 0
+    }
+  ],
+  "eneko-codes/apple-shortcuts-mcp": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 0
+    }
+  ],
+  "eneko-codes/apple-spotlight-mcp": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 1
+    }
+  ],
+  "eneko-codes/apple-vision-mcp": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 0
+    }
+  ],
+  "eneko-codes/apple-voicememos-mcp": [
+    {
+      "at": "2026-11-25T01:55:30Z",
       "stars": 0
     }
   ],
@@ -2557,6 +2615,12 @@
       "stars": 1
     }
   ],
+  "jasonsutter87/sketchcraft": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 149
+    }
+  ],
   "jeffton/kladde": [
     {
       "at": "2026-11-10T14:23:20Z",
@@ -2619,6 +2683,12 @@
     {
       "at": "2026-11-14T12:59:16Z",
       "stars": 0
+    }
+  ],
+  "kennysarnoski-jarvis/aris-sentinel": [
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 3
     }
   ],
   "khikmadari/tfael-omni-oss": [
@@ -3619,6 +3689,10 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 3
+    },
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 4
     }
   ],
   "szl-holdings/hatun-mcp": [
@@ -3753,6 +3827,10 @@
     {
       "at": "2026-11-24T16:59:14Z",
       "stars": 18048
+    },
+    {
+      "at": "2026-11-25T01:55:30Z",
+      "stars": 18105
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -3920,6 +3998,10 @@
   "vibeunion/supacloud": [
     {
       "at": "2026-11-20T14:55:27Z",
+      "stars": 25
+    },
+    {
+      "at": "2026-11-25T01:55:30Z",
       "stars": 25
     }
   ],
