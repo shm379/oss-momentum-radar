@@ -511,6 +511,12 @@
       "stars": 0
     }
   ],
+  "FluffBaal/control-tower-oss": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 0
+    }
+  ],
   "FruitieX/homectl": [
     {
       "at": "2026-11-07T12:29:46Z",
@@ -646,6 +652,12 @@
   "J-ARTS/de.sketchdraw.io": [
     {
       "at": "2026-11-22T23:15:41Z",
+      "stars": 0
+    }
+  ],
+  "Jerit3787/htb-mcp": [
+    {
+      "at": "2026-11-25T16:49:46Z",
       "stars": 0
     }
   ],
@@ -1083,6 +1095,10 @@
     {
       "at": "2026-11-22T23:15:41Z",
       "stars": 14391
+    },
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 15422
     }
   ],
   "TruffleCraft/feedbackkit": [
@@ -1743,6 +1759,12 @@
       "stars": 0
     }
   ],
+  "crueber/weave": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 2
+    }
+  ],
   "cubicecho/mcp-discovery": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1817,6 +1839,12 @@
       "stars": 0
     }
   ],
+  "ded-lmfao/WebDep": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 1
+    }
+  ],
   "dev-universe/fender-studio-pro-mcp": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -1827,6 +1855,12 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 5
+    }
+  ],
+  "diagridio/diagrid-ai": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 3
     }
   ],
   "dimakis/mitzo": [
@@ -2541,6 +2575,10 @@
     {
       "at": "2026-11-24T03:49:38Z",
       "stars": 102
+    },
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 103
     }
   ],
   "hummbl-io/oss": [
@@ -2881,6 +2919,12 @@
       "stars": 0
     }
   ],
+  "matlab/mcp-framework-matlab-production-server": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 36
+    }
+  ],
   "matthewdonsemail-lab/log": [
     {
       "at": "2026-11-21T22:47:11Z",
@@ -3089,6 +3133,12 @@
       "stars": 0
     }
   ],
+  "nep-ai/difqo": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 0
+    }
+  ],
   "netta-dev/claudesurf": [
     {
       "at": "2026-11-23T05:52:48Z",
@@ -3099,6 +3149,12 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 269
+    }
+  ],
+  "nirium-protocol/nirium": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 6
     }
   ],
   "nri99/aerolith-agent": [
@@ -3290,6 +3346,18 @@
   "pikachu5555/aie-mcp-glossary-server": [
     {
       "at": "2026-11-24T03:49:38Z",
+      "stars": 0
+    }
+  ],
+  "pmackowka/api-ingestion-lab": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 0
+    }
+  ],
+  "podstow/podstow-mcp": [
+    {
+      "at": "2026-11-25T16:49:46Z",
       "stars": 0
     }
   ],
@@ -3831,6 +3899,10 @@
     {
       "at": "2026-11-25T01:55:30Z",
       "stars": 18105
+    },
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 18213
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -3981,6 +4053,12 @@
       "stars": 0
     }
   ],
+  "verge-io/ansible-collection-vergeos": [
+    {
+      "at": "2026-11-25T16:49:46Z",
+      "stars": 0
+    }
+  ],
   "veyndo/veyndo": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -4002,6 +4080,10 @@
     },
     {
       "at": "2026-11-25T01:55:30Z",
+      "stars": 25
+    },
+    {
+      "at": "2026-11-25T16:49:46Z",
       "stars": 25
     }
   ],
