@@ -63,6 +63,12 @@
       "stars": 0
     }
   ],
+  "AdamsonITLabs/enterprise-identity-lab": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
+    }
+  ],
   "AgentTools-Cloud/agent-tools-gemini": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -427,6 +433,10 @@
     {
       "at": "2026-11-20T23:41:41Z",
       "stars": 147
+    },
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 165
     }
   ],
   "DevNexsler/RAG-In-A-Box": [
@@ -731,6 +741,12 @@
       "stars": 0
     }
   ],
+  "Langspan/LangSpan.dev": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 1
+    }
+  ],
   "Lasqueti/vanquel-oss": [
     {
       "at": "2026-11-12T00:04:23Z",
@@ -740,6 +756,12 @@
   "LeoLin990405/Conductor": [
     {
       "at": "2026-11-16T04:52:03Z",
+      "stars": 0
+    }
+  ],
+  "Leonfinn/Boss_Man": [
+    {
+      "at": "2026-11-26T16:26:37Z",
       "stars": 0
     }
   ],
@@ -943,6 +965,12 @@
       "stars": 588
     }
   ],
+  "RaffaeleBiondi/Coppernicus": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
+    }
+  ],
   "RdyGaming/hated-wow-mcp": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -1007,6 +1035,12 @@
       "stars": 79
     }
   ],
+  "Shinn0x/aws-terraform-ansible-deployment-automation": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
+    }
+  ],
   "ShohagkMohanta/mcp-bangladesh": [
     {
       "at": "2026-11-13T13:57:34Z",
@@ -1059,6 +1093,12 @@
     {
       "at": "2026-11-13T13:57:34Z",
       "stars": 0
+    }
+  ],
+  "TaoSama/collie": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 1
     }
   ],
   "Team-Commonly/commonly": [
@@ -1402,6 +1442,10 @@
     },
     {
       "at": "2026-11-26T01:35:52Z",
+      "stars": 24
+    },
+    {
+      "at": "2026-11-26T16:26:37Z",
       "stars": 24
     }
   ],
@@ -1897,6 +1941,12 @@
       "stars": 1
     }
   ],
+  "dembaca/ai-agent-bus": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
+    }
+  ],
   "dev-universe/fender-studio-pro-mcp": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -2327,6 +2377,12 @@
       "stars": 230
     }
   ],
+  "goern/forgejo-mcp": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 162
+    }
+  ],
   "goldmarklabs/crispparse-mcp": [
     {
       "at": "2026-11-24T03:49:38Z",
@@ -2634,6 +2690,10 @@
     },
     {
       "at": "2026-11-26T01:35:52Z",
+      "stars": 102
+    },
+    {
+      "at": "2026-11-26T16:26:37Z",
       "stars": 102
     }
   ],
@@ -2979,6 +3039,12 @@
     {
       "at": "2026-11-25T16:49:46Z",
       "stars": 36
+    }
+  ],
+  "matpb/atlassian-mcp-rs": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 1
     }
   ],
   "matthewdonsemail-lab/log": [
@@ -3429,6 +3495,12 @@
       "stars": 0
     }
   ],
+  "pscale-commons/bsp-mcp-server": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
+    }
+  ],
   "ptrinh/BorderCheck": [
     {
       "at": "2026-11-14T05:01:22Z",
@@ -3687,6 +3759,10 @@
     {
       "at": "2026-11-21T14:15:02Z",
       "stars": 6
+    },
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 8
     }
   ],
   "shlim-t/labview-mcp": [
@@ -3757,6 +3833,12 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 72
+    }
+  ],
+  "sorrelfox/glyphkeel": [
+    {
+      "at": "2026-11-26T16:26:37Z",
+      "stars": 0
     }
   ],
   "spietrza/taskcell": [
