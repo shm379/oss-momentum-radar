@@ -195,6 +195,10 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 7
     }
   ],
   "AutumnsGrove/Sepia": [
@@ -625,6 +629,12 @@
       "stars": 0
     }
   ],
+  "Ironsail-llc/genus-os": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 10
+    }
+  ],
   "Isuru-CodeX/Nexora": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -761,6 +771,10 @@
     {
       "at": "2026-11-08T04:35:18Z",
       "stars": 2304
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 2345
     }
   ],
   "MRvirusIR/wraith": [
@@ -1167,6 +1181,12 @@
       "stars": 0
     }
   ],
+  "YamiDarknezz/mcp-agent": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 0
+    }
+  ],
   "YuanYeYouTao/Yuki": [
     {
       "at": "2026-11-09T15:15:42Z",
@@ -1261,6 +1281,12 @@
       "stars": 1
     }
   ],
+  "agent-anna/home": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 0
+    }
+  ],
   "agent-labs-dev/mergeloop": [
     {
       "at": "2026-11-10T22:51:47Z",
@@ -1295,6 +1321,10 @@
     {
       "at": "2026-11-20T23:41:41Z",
       "stars": 1845
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 2052
     }
   ],
   "agentscope-ai/AgentTeams": [
@@ -1351,6 +1381,12 @@
       "stars": 22
     }
   ],
+  "alfredo1996/agent-orb": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 0
+    }
+  ],
   "alphagov/govuk-helm-charts": [
     {
       "at": "2026-11-22T14:05:29Z",
@@ -1362,6 +1398,10 @@
     },
     {
       "at": "2026-11-24T16:59:14Z",
+      "stars": 24
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
       "stars": 24
     }
   ],
@@ -1633,6 +1673,12 @@
       "stars": 0
     }
   ],
+  "cbetz/last-ehr": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 4
+    }
+  ],
   "ccfos/nightingale": [
     {
       "at": "2026-11-06T05:14:34Z",
@@ -1768,6 +1814,12 @@
   "cubicecho/mcp-discovery": [
     {
       "at": "2026-11-06T05:14:34Z",
+      "stars": 0
+    }
+  ],
+  "cubicecho/symphony": [
+    {
+      "at": "2026-11-26T01:35:52Z",
       "stars": 0
     }
   ],
@@ -2579,6 +2631,10 @@
     {
       "at": "2026-11-25T16:49:46Z",
       "stars": 103
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 102
     }
   ],
   "hummbl-io/oss": [
@@ -3421,6 +3477,12 @@
       "stars": 0
     }
   ],
+  "relaton/relaton-mcp": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 0
+    }
+  ],
   "reliant-labs/forge": [
     {
       "at": "2026-11-13T23:16:10Z",
@@ -3903,6 +3965,10 @@
     {
       "at": "2026-11-25T16:49:46Z",
       "stars": 18213
+    },
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 18265
     }
   ],
   "thanhdatpb/Listing-Guard": [
@@ -4099,6 +4165,12 @@
       "stars": 0
     }
   ],
+  "vpv-group/dream-starter-kit": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 11
+    }
+  ],
   "vslon/vslon_ae_mcp": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -4113,6 +4185,12 @@
     {
       "at": "2026-11-18T00:34:05Z",
       "stars": 408
+    }
+  ],
+  "vymalo/another-agentic-system": [
+    {
+      "at": "2026-11-26T01:35:52Z",
+      "stars": 1
     }
   ],
   "waddington/job-application-tracker": [
