@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-26 16:26
+Updated UTC: 2026-11-27 01:29
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-26 | 0 | none | — | 100+ | 100+ | 100+ | 102 | not yet measurable | 8 | not yet measurable | MIT |
-| [DeskLabs-OpenSource/DeskVoice](https://github.com/DeskLabs-OpenSource/DeskVoice) | self hosted agent | 2026-11-26 | 12 | v0.48.0 | 2026-11-25 | 14 | 90 | 100+ | 165 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [goern/forgejo-mcp](https://github.com/goern/forgejo-mcp) | mcp server | 2026-11-26 | 0 | none | — | 4 | 55 | 100+ | 162 | not yet measurable | not yet measurable | not yet measurable | GPL-3.0 |
-| [alphagov/govuk-helm-charts](https://github.com/alphagov/govuk-helm-charts) | infrastructure automation | 2026-11-26 | 20 | kubernetes-events-shipper-1.3.0 | 2026-11-19 | 100+ | 100+ | 100+ | 24 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [shipkeepdev/shipkeep](https://github.com/shipkeepdev/shipkeep) | self hosted paas | 2026-11-26 | 75 | v0.1.0-alpha.7 | 2026-11-26 | 22 | 100+ | 100+ | 8 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [TaoSama/collie](https://github.com/TaoSama/collie) | self hosted agent | 2026-11-26 | 1 | v2026.1127.1 | 2026-11-26 | 100+ | 100+ | 100+ | 1 | not yet measurable | not yet measurable | not yet measurable | unverified |
-| [Langspan/LangSpan.dev](https://github.com/Langspan/LangSpan.dev) | agent coordination | 2026-11-26 | 67 | v0.2.0 | 2026-11-26 | 94 | 96 | 96 | 1 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [AdamsonITLabs/enterprise-identity-lab](https://github.com/AdamsonITLabs/enterprise-identity-lab) | infrastructure automation | 2026-11-26 | 0 | none | — | 53 | 53 | 53 | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
-| [dembaca/ai-agent-bus](https://github.com/dembaca/ai-agent-bus) | agent coordination | 2026-11-26 | 18 | none | — | 34 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [Leonfinn/Boss_Man](https://github.com/Leonfinn/Boss_Man) | self hosted agent | 2026-11-26 | 1 | v0.1.0-beta.3 | 2026-11-26 | 100+ | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | agent coordination | 2026-11-27 | 249 | v0.182.1 | 2026-11-26 | 100+ | 100+ | 100+ | 412 | not yet measurable | 9 | not yet measurable | Apache-2.0 |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-27 | 0 | none | — | 100+ | 100+ | 100+ | 102 | -1 | 7 | not yet measurable | MIT |
+| [mikeng-io/nora](https://github.com/mikeng-io/nora) | self hosted agent | 2026-11-27 | 129 | v7.21.3 | 2026-11-23 | 42 | 100+ | 100+ | 2 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [punt-labs/biff](https://github.com/punt-labs/biff) | agent coordination | 2026-11-27 | 10 | handoff-runtime-v1 | 2026-11-26 | 20 | 80 | 100+ | 2 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [Final-Factory/ff-factory](https://github.com/Final-Factory/ff-factory) | self hosted agent | 2026-11-27 | 7 | none | — | 100+ | 100+ | 100+ | 2 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [ririnto/codex-app-server](https://github.com/ririnto/codex-app-server) | mcp server | 2026-11-27 | 0 | none | — | 2 | 34 | 81 | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [hyphae-to/hyp](https://github.com/hyphae-to/hyp) | agent coordination | 2026-11-27 | 31 | v0.7.0 | 2026-11-25 | 100+ | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [team-automation-calculator/core-iac](https://github.com/team-automation-calculator/core-iac) | infrastructure automation | 2026-11-27 | 0 | none | — | 35 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [tanthanhkid/trinity](https://github.com/tanthanhkid/trinity) | open source CRM | 2026-11-27 | 99 | v0.3.0 | 2026-10-15 | 100+ | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [shaltut/agents-board](https://github.com/shaltut/agents-board) | agent coordination | 2026-11-27 | 4 | none | — | 88 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

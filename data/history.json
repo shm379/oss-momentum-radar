@@ -75,6 +75,12 @@
       "stars": 0
     }
   ],
+  "AhmadMasry/claude-self-hosted-environment-operator": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 6
+    }
+  ],
   "Ahmedabied/agent-guard": [
     {
       "at": "2026-11-10T01:12:50Z",
@@ -387,6 +393,10 @@
     {
       "at": "2026-11-25T01:55:30Z",
       "stars": 411
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 412
     }
   ],
   "DHURJATI-JS/deminic-agentic-ai": [
@@ -517,6 +527,12 @@
     {
       "at": "2026-11-08T12:47:46Z",
       "stars": 0
+    }
+  ],
+  "Final-Factory/ff-factory": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 2
     }
   ],
   "Flow-Steward/mcps": [
@@ -916,6 +932,10 @@
   "OpenHCSDev/agent-comms": [
     {
       "at": "2026-11-18T23:54:32Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
       "stars": 0
     }
   ],
@@ -1616,6 +1636,10 @@
   "benjamin-di/signin-window": [
     {
       "at": "2026-11-12T00:04:23Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
       "stars": 0
     }
   ],
@@ -2537,6 +2561,10 @@
     {
       "at": "2026-11-13T05:11:57Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 0
     }
   ],
   "hproxy-com/free-proxy-list": [
@@ -2695,12 +2723,22 @@
     {
       "at": "2026-11-26T16:26:37Z",
       "stars": 102
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 102
     }
   ],
   "hummbl-io/oss": [
     {
       "at": "2026-11-24T03:49:38Z",
       "stars": 1
+    }
+  ],
+  "hyphae-to/hyp": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 0
     }
   ],
   "igenexxx/nfc-studio": [
@@ -2953,6 +2991,12 @@
       "stars": 0
     }
   ],
+  "lock-down/dsh-capability-switch": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 0
+    }
+  ],
   "lorebayai/lorebay": [
     {
       "at": "2026-11-21T05:43:43Z",
@@ -3149,6 +3193,12 @@
     {
       "at": "2026-11-16T14:52:06Z",
       "stars": 0
+    }
+  ],
+  "mikeng-io/nora": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 2
     }
   ],
   "mindroom-ai/mindroom": [
@@ -3517,6 +3567,10 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 2
+    },
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 2
     }
   ],
   "qxbao/bgraph": [
@@ -3577,6 +3631,12 @@
     {
       "at": "2026-11-19T05:59:10Z",
       "stars": 0
+    }
+  ],
+  "ririnto/codex-app-server": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 1
     }
   ],
   "rishi12438/hearth": [
@@ -3736,6 +3796,12 @@
   "shahmirdelfanazari/Microsoft-Exchange-2019-ON-Premises-Claude-MCP": [
     {
       "at": "2026-11-10T14:23:20Z",
+      "stars": 0
+    }
+  ],
+  "shaltut/agents-board": [
+    {
+      "at": "2026-11-27T01:29:55Z",
       "stars": 0
     }
   ],
@@ -4051,6 +4117,18 @@
     {
       "at": "2026-11-26T01:35:52Z",
       "stars": 18265
+    }
+  ],
+  "tanthanhkid/trinity": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 0
+    }
+  ],
+  "team-automation-calculator/core-iac": [
+    {
+      "at": "2026-11-27T01:29:55Z",
+      "stars": 0
     }
   ],
   "thanhdatpb/Listing-Guard": [
