@@ -211,6 +211,10 @@
     {
       "at": "2026-11-26T01:35:52Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 7
     }
   ],
   "AutumnsGrove/Sepia": [
@@ -309,6 +313,12 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 1002
+    }
+  ],
+  "Claudinho013/NetControl": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
     }
   ],
   "ClickHouse/loom": [
@@ -503,6 +513,12 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 435
+    }
+  ],
+  "EduPucheta/exoplanet-data-mcp": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
     }
   ],
   "Eilbera/dgx-multi-agent-lab": [
@@ -1037,6 +1053,12 @@
       "stars": 1
     }
   ],
+  "SeekerGalahad/dimctx": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
+    }
+  ],
   "Sekinal/waybound": [
     {
       "at": "2026-11-23T05:52:48Z",
@@ -1551,6 +1573,18 @@
     {
       "at": "2026-11-06T05:14:34Z",
       "stars": 2
+    }
+  ],
+  "asun-labs/codemap": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
+    }
+  ],
+  "asun-labs/dsh-super-star": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
     }
   ],
   "atomantic/PortOS": [
@@ -2545,6 +2579,12 @@
       "stars": 77
     }
   ],
+  "hhenson/hgl-ai": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
+    }
+  ],
   "hoanghainh1188/governed-adlc-fw": [
     {
       "at": "2026-11-14T05:01:22Z",
@@ -3225,6 +3265,18 @@
       "stars": 554
     }
   ],
+  "mniramubrad/OCI-Toolkit": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 0
+    }
+  ],
+  "modelship-ai/modelship": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 55
+    }
+  ],
   "momcrm/momcrm": [
     {
       "at": "2026-11-14T05:01:22Z",
@@ -3257,6 +3309,12 @@
     {
       "at": "2026-11-07T12:29:46Z",
       "stars": 2
+    }
+  ],
+  "mpalermiti/outlook-mcp": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 45
     }
   ],
   "mrfentmen/awesome-servers": [
@@ -3603,6 +3661,12 @@
       "stars": 0
     }
   ],
+  "ratel-ai/ratel": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 570
+    }
+  ],
   "relaton/relaton-mcp": [
     {
       "at": "2026-11-26T01:35:52Z",
@@ -3721,6 +3785,12 @@
       "stars": 0
     }
   ],
+  "sameenchand/mcpx": [
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 1
+    }
+  ],
   "samugit83/redamon": [
     {
       "at": "2026-11-14T12:59:16Z",
@@ -3828,6 +3898,10 @@
     },
     {
       "at": "2026-11-26T16:26:37Z",
+      "stars": 8
+    },
+    {
+      "at": "2026-11-27T16:11:36Z",
       "stars": 8
     }
   ],
@@ -4117,6 +4191,10 @@
     {
       "at": "2026-11-26T01:35:52Z",
       "stars": 18265
+    },
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 18707
     }
   ],
   "tanthanhkid/trinity": [
@@ -4415,6 +4493,10 @@
     {
       "at": "2026-11-22T05:13:25Z",
       "stars": 5
+    },
+    {
+      "at": "2026-11-27T16:11:36Z",
+      "stars": 6
     }
   ],
   "xiron902224/norix": [
