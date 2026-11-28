@@ -1,21 +1,21 @@
 # OSS Momentum Radar
 
-Updated UTC: 2026-11-27 16:11
+Updated UTC: 2026-11-28 01:07
 
 Recent commits indicate activity, **not** a guarantee of quality. Star growth is reported only after sufficient saved observations.
 
 | Repository | Search topics | Last push (UTC) | Open items* | Latest release | Release date | Commits (24h) | Commits (7d) | Commits (30d) | Stars | Stars gained (24h) | Stars gained (7d) | Stars gained (30d) | License metadata |
 | --- | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | rust automation | 2026-11-27 | 7443 | v0.51.0-nightly.20261127.168.1 | 2026-11-27 | 100+ | 100+ | 100+ | 18707 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [ratel-ai/ratel](https://github.com/ratel-ai/ratel) | self hosted agent | 2026-11-27 | 50 | v0.6.0 | 2026-11-27 | 12 | 59 | 75 | 570 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [modelship-ai/modelship](https://github.com/modelship-ai/modelship) | self hosted agent | 2026-11-27 | 3 | v0.11.0 | 2026-11-19 | 14 | 100+ | 100+ | 55 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [shipkeepdev/shipkeep](https://github.com/shipkeepdev/shipkeep) | self hosted paas | 2026-11-27 | 79 | v0.1.0-alpha.7 | 2026-11-26 | 23 | 100+ | 100+ | 8 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 2026-11-27 | 5091 | monochromatic-cargo-shadow-v0.1.5-alpha.13 | 2026-11-27 | 100+ | 100+ | 100+ | 7 | not yet measurable | not yet measurable | not yet measurable | LGPL-3.0 |
-| [xiechimon/cairn](https://github.com/xiechimon/cairn) | self hosted agent | 2026-11-27 | 4 | desktop-v0.1.803 | 2026-11-27 | 100+ | 100+ | 100+ | 6 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
-| [mpalermiti/outlook-mcp](https://github.com/mpalermiti/outlook-mcp) | mcp server | 2026-11-27 | 5 | v1.34.0 | 2026-11-26 | 6 | 25 | 100+ | 45 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [hhenson/hgl-ai](https://github.com/hhenson/hgl-ai) | agent coordination | 2026-11-27 | 18 | none | — | 100+ | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
-| [mniramubrad/OCI-Toolkit](https://github.com/mniramubrad/OCI-Toolkit) | infrastructure automation | 2026-11-27 | 0 | none | — | 7 | 7 | 7 | 0 | not yet measurable | not yet measurable | not yet measurable | unverified |
-| [sameenchand/mcpx](https://github.com/sameenchand/mcpx) | mcp server | 2026-11-27 | 0 | none | — | 4 | 4 | 4 | 1 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | agent coordination | 2026-11-28 | 325 | v0.183.1 | 2026-11-27 | 100+ | 100+ | 100+ | 413 | not yet measurable | 9 | not yet measurable | Apache-2.0 |
+| [hproxy-com/free-proxy-list](https://github.com/hproxy-com/free-proxy-list) | mcp server | 2026-11-28 | 0 | none | — | 100+ | 100+ | 100+ | 102 | 0 | 5 | not yet measurable | MIT |
+| [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | open source CRM | 2026-11-28 | 235 | 7.8.8 | 2026-11-25 | 18 | 100+ | 100+ | 1006 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [chrismsmr-celcom/cerbere-AG](https://github.com/chrismsmr-celcom/cerbere-AG) | self hosted agent | 2026-11-28 | 12 | v0.1.0 | 2026-11-11 | 17 | 100+ | 100+ | 44 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Aquaticats/Monochromatic](https://github.com/Aquaticats/Monochromatic) | rust automation | 2026-11-28 | 5091 | monochromatic-mpm-shadow-v0.2.7-alpha.18 | 2026-11-28 | 100+ | 100+ | 100+ | 7 | not yet measurable | 0 | not yet measurable | LGPL-3.0 |
+| [klimPaskov/HOI4-Live-Tools](https://github.com/klimPaskov/HOI4-Live-Tools) | mcp server | 2026-11-28 | 22 | v1.4.2 | 2026-11-14 | 30 | 100+ | 100+ | 5 | not yet measurable | not yet measurable | not yet measurable | Apache-2.0 |
+| [Aiden-HQ/AidenHQ](https://github.com/Aiden-HQ/AidenHQ) | self hosted agent | 2026-11-28 | 34 | none | — | 91 | 100+ | 100+ | 3 | not yet measurable | not yet measurable | not yet measurable | AGPL-3.0 |
+| [profitpad-inc/profitpad-crm](https://github.com/profitpad-inc/profitpad-crm) | open source CRM | 2026-11-28 | 2 | v0.2.56 | 2026-11-28 | 38 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | MIT |
+| [dunzic/multica-worker](https://github.com/dunzic/multica-worker) | self hosted agent | 2026-11-28 | 0 | v0.6.6 | 2026-10-16 | 9 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
+| [ZenoWangzy/zenoforge](https://github.com/ZenoWangzy/zenoforge) | self hosted agent | 2026-11-28 | 44 | none | — | 73 | 100+ | 100+ | 0 | not yet measurable | not yet measurable | not yet measurable | NOASSERTION |
 
 ## Limitations
 - Not GitHub's official Trending list. Results come from sampled GitHub Search queries.

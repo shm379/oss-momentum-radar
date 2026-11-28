@@ -23,6 +23,12 @@
       "stars": 0
     }
   ],
+  "17671454333/jev-cognitive-mcp": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 1
+    }
+  ],
   "2Mesh/slide-anki-mcp": [
     {
       "at": "2026-11-19T05:59:10Z",
@@ -61,6 +67,10 @@
     {
       "at": "2026-11-22T14:05:29Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 0
     }
   ],
   "AdamsonITLabs/enterprise-identity-lab": [
@@ -91,6 +101,10 @@
     {
       "at": "2026-11-21T05:43:43Z",
       "stars": 1
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 3
     }
   ],
   "AlexLiAtDuo/mcp-active-directory-server": [
@@ -215,6 +229,10 @@
     {
       "at": "2026-11-27T16:11:36Z",
       "stars": 7
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 7
     }
   ],
   "AutumnsGrove/Sepia": [
@@ -313,6 +331,10 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 1002
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 1006
     }
   ],
   "Claudinho013/NetControl": [
@@ -407,6 +429,10 @@
     {
       "at": "2026-11-27T01:29:55Z",
       "stars": 412
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 413
     }
   ],
   "DHURJATI-JS/deminic-agentic-ai": [
@@ -595,6 +621,12 @@
     {
       "at": "2026-11-10T22:51:47Z",
       "stars": 10
+    }
+  ],
+  "GetCopy/citetools-mcp": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 0
     }
   ],
   "Glubiz/zirv-flow": [
@@ -1245,6 +1277,12 @@
       "stars": 0
     }
   ],
+  "Wolfe-Jam/mcp-better": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 2
+    }
+  ],
   "XingLingQAQ/UptimePolaris": [
     {
       "at": "2026-11-23T17:27:29Z",
@@ -1312,6 +1350,10 @@
   "ZenoWangzy/zenoforge": [
     {
       "at": "2026-11-08T12:47:46Z",
+      "stars": 0
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
       "stars": 0
     }
   ],
@@ -1495,6 +1537,12 @@
     {
       "at": "2026-11-21T22:47:11Z",
       "stars": 0
+    }
+  ],
+  "andersonmavi30/netamv_mcp": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 1
     }
   ],
   "andrey-usa/navigera": [
@@ -1815,6 +1863,12 @@
       "stars": 48
     }
   ],
+  "chrismsmr-celcom/cerbere-AG": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 44
+    }
+  ],
   "chrismsmr-celcom/cerbere-cohort": [
     {
       "at": "2026-11-16T14:52:06Z",
@@ -2099,6 +2153,12 @@
     {
       "at": "2026-11-14T05:01:22Z",
       "stars": 7
+    }
+  ],
+  "dunzic/multica-worker": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 0
     }
   ],
   "dynamics365ninja/d365fo-mcp-server": [
@@ -2767,6 +2827,10 @@
     {
       "at": "2026-11-27T01:29:55Z",
       "stars": 102
+    },
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 102
     }
   ],
   "hummbl-io/oss": [
@@ -2945,6 +3009,12 @@
     {
       "at": "2026-11-20T00:19:29Z",
       "stars": 0
+    }
+  ],
+  "klimPaskov/HOI4-Live-Tools": [
+    {
+      "at": "2026-11-28T01:07:18Z",
+      "stars": 5
     }
   ],
   "kmanisk/bridge-dev": [
@@ -3600,6 +3670,12 @@
   "priyanshux-git/agent_gate": [
     {
       "at": "2026-11-21T05:43:43Z",
+      "stars": 0
+    }
+  ],
+  "profitpad-inc/profitpad-crm": [
+    {
+      "at": "2026-11-28T01:07:18Z",
       "stars": 0
     }
   ],
