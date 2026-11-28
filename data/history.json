@@ -71,6 +71,10 @@
     {
       "at": "2026-11-28T01:07:18Z",
       "stars": 0
+    },
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
     }
   ],
   "AdamsonITLabs/enterprise-identity-lab": [
@@ -515,6 +519,12 @@
       "stars": 3
     }
   ],
+  "Docker-Hunterpedia/serverdock": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
+    }
+  ],
   "DoliCloud/DoliMed": [
     {
       "at": "2026-11-06T13:46:47Z",
@@ -805,6 +815,12 @@
       "stars": 0
     }
   ],
+  "LIghtJUNction/bilibilive": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 1
+    }
+  ],
   "Langspan/LangSpan.dev": [
     {
       "at": "2026-11-26T16:26:37Z",
@@ -962,6 +978,12 @@
   "NikhilMank/Job-Tracker-MCP": [
     {
       "at": "2026-11-22T23:15:41Z",
+      "stars": 0
+    }
+  ],
+  "ObeliaAbarca/gta-home-bakery": [
+    {
+      "at": "2026-11-28T15:05:00Z",
       "stars": 0
     }
   ],
@@ -1173,6 +1195,12 @@
     {
       "at": "2026-11-26T16:26:37Z",
       "stars": 1
+    }
+  ],
+  "TargetedEntropy/ya-minecraft-mcp": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
     }
   ],
   "Team-Commonly/commonly": [
@@ -1530,6 +1558,10 @@
     },
     {
       "at": "2026-11-26T16:26:37Z",
+      "stars": 24
+    },
+    {
+      "at": "2026-11-28T15:05:00Z",
       "stars": 24
     }
   ],
@@ -2473,6 +2505,12 @@
       "stars": 0
     }
   ],
+  "getrunbase/runbase": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 1
+    }
+  ],
   "gfx-labs/jobshop": [
     {
       "at": "2026-11-10T14:23:20Z",
@@ -2831,6 +2869,10 @@
     {
       "at": "2026-11-28T01:07:18Z",
       "stars": 102
+    },
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 102
     }
   ],
   "hummbl-io/oss": [
@@ -3059,6 +3101,12 @@
       "stars": 0
     }
   ],
+  "landru29/mcp-aero": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
+    }
+  ],
   "langfuse/langfuse": [
     {
       "at": "2026-11-11T13:36:55Z",
@@ -3110,6 +3158,12 @@
   "lorebayai/lorebay": [
     {
       "at": "2026-11-21T05:43:43Z",
+      "stars": 0
+    }
+  ],
+  "lucasyoung972-web/content-agent-open-source": [
+    {
+      "at": "2026-11-28T15:05:00Z",
       "stars": 0
     }
   ],
@@ -3393,6 +3447,12 @@
       "stars": 0
     }
   ],
+  "mrwhats-it/flagtop": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
+    }
+  ],
   "multica-ai/multica": [
     {
       "at": "2026-11-09T04:46:47Z",
@@ -3442,6 +3502,12 @@
   "netta-dev/claudesurf": [
     {
       "at": "2026-11-23T05:52:48Z",
+      "stars": 0
+    }
+  ],
+  "niko1major666/FreeCAD-AI-MCP-Server": [
+    {
+      "at": "2026-11-28T15:05:00Z",
       "stars": 0
     }
   ],
@@ -3725,6 +3791,12 @@
       "stars": 0
     }
   ],
+  "rainbow2009/devops-sre-platform": [
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 0
+    }
+  ],
   "rainyflash/agent-room": [
     {
       "at": "2026-11-07T04:45:19Z",
@@ -3918,6 +3990,12 @@
   "sentienceAdjacent/onenote-mcp": [
     {
       "at": "2026-11-15T13:28:04Z",
+      "stars": 0
+    }
+  ],
+  "sequeltom/sqlh": [
+    {
+      "at": "2026-11-28T15:05:00Z",
       "stars": 0
     }
   ],
@@ -4271,6 +4349,10 @@
     {
       "at": "2026-11-27T16:11:36Z",
       "stars": 18707
+    },
+    {
+      "at": "2026-11-28T15:05:00Z",
+      "stars": 18882
     }
   ],
   "tanthanhkid/trinity": [
